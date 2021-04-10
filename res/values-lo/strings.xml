@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">"ຂາວ​ດຳ"</string>
+<string name="audio_channel_stereo">"ສະເຕີຣີໂອ"</string>
+<string name="menu_title_play_controls">"ການຄວບຄຸມການສາຍ"</string>
+<string name="menu_title_channels">"ຊ່ອງລາຍການ"</string>
+<string name="menu_title_options">"ຕົວເລືອກໂທລະພາບ"</string>
+<string name="play_controls_unavailable">"ການຄວບຄຸມການສາຍບໍ່ພ້ອມໃຊ້ງານສໍາລັບຊ່ອງລາຍການນີ້"</string>
+<string name="play_controls_description_play_pause">"ຫຼິ້ນ ຫຼື ຢຸດຊົ່ວຄາວ"</string>
+<string name="play_controls_description_fast_forward">"ລີວິວໄປໜ້າ"</string>
+<string name="play_controls_description_fast_rewind">"ຫຼີ້ນຊ້ຳ"</string>
+<string name="play_controls_description_skip_next">"ຖັດໄປ"</string>
+<string name="play_controls_description_skip_previous">"ກ່ອນໜ້ານີ້"</string>
+<string name="channels_item_program_guide">"ຄູ່ມືໂປຣແກຣມ"</string>
+<string name="channels_item_setup">"ມີຊ່ອງລາຍການໃໝ່ໃຫ້"</string>
+<string name="channels_item_app_link_app_launcher">"ເປີດ <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"ຄໍາບັນຍາຍທີ່ປິດ"</string>
+<string name="options_item_display_mode">"ໂໝດການສະແດງຜົນ"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"ຫຼາກຫຼາຍສຽງ"</string>
+<string name="options_item_more_channels">"ຮັບຊ່ອງລາຍການເພີ່ມເຕີມ"</string>
+<string name="options_item_settings">"ການ​ຕັ້ງ​ຄ່າ"</string>
+<string name="input_long_label_for_tuner">"ໂທລະພາບ (ເສົາອາກາດ/ເຄເບີນ)"</string>
+<string name="no_program_information">"ບໍ່ມີຂໍ້ມູນຂອງໂປຣແກຣມ"</string>
+<string name="program_title_for_no_information">"ບໍ່ມີຂໍ້ມູນ"</string>
+<string name="program_title_for_blocked_channel">"ຊ່ອງລາຍການທີ່ບລັອກ"</string>
+<string name="multi_audio_unknown_language">"ພາສາທີ່ບໍ່ຮູ້ຈັກ"</string>
+<string name="closed_caption_unknown_language">"ຄໍາບັນຍາຍທີ່ປິດ <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"ຄໍາບັນຍາຍທີ່ປິດ"</string>
+<string name="closed_caption_option_item_off">"ປິດຢູ່"</string>
+<string name="closed_caption_system_settings">"ກໍານົດການຈັດຮູບແບບເອງ"</string>
+<string name="closed_caption_system_settings_description">"ຕັ້ງຄວາມຕ້ອງການທົ່ວທັງລະບົບສໍາລັບຄໍາບັນຍາຍທີ່ປິດ"</string>
+<string name="side_panel_title_display_mode">"ໂໝດການສະແດງຜົນ"</string>
+<string name="side_panel_title_multi_audio">"ຫຼາກຫຼາຍສຽງ"</string>
+<string name="multi_audio_channel_mono">"ຂາວ​ດຳ"</string>
+<string name="multi_audio_channel_stereo">"ສະເຕີຣີໂອ"</string>
+<string name="multi_audio_channel_surround_6">"5.1 ຮອບທິດທາງ"</string>
+<string name="multi_audio_channel_surround_8">"7.1 ຮອບທິດທາງ"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> ຊ່ອງລາຍການ"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"ກໍານົດລາຍການຊ່ອງເອງ"</string>
+<string name="edit_channels_item_select_group">ເລືອກ​ກຸ່ມ</string>
+<string name="edit_channels_item_deselect_group">"ຍົກເລີກການເລືອກກຸ່ມ"</string>
+<string name="edit_channels_item_group_by">ແບ່ງ​ກຸ່ມ​ອີງ​ຕາມ</string>
+<string name="edit_channels_group_by_sources">"ແຫຼ່ງຂອງຊ່ອງລາຍການ"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">ແບ່ງ​ກຸ່ມ​ອີງ​ຕາມ</string>
+<string name="program_guide_content_locked">"ໂປຣແກຣມນີ້ຖືກບລັອກ"</string>
+<string name="program_guide_content_locked_unrated">"ໂປຣແກຣມນີ້ບໍ່ໄດ້ຖືກຈັດອັນດັບ"</string>
+<string name="program_guide_content_locked_format">"ໂປຣແກຣມນີ້ຖືກຈັດອັນດັບ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"ການປ້ອນເຂົ້າບໍ່ຮອງຮັບການສະແກນອັດຕະໂນມັດ"</string>
+<string name="msg_unable_to_start_setup_activity">"ບໍ່ສາມາດເລີ່ມຕົ້ນສະແກນອັດຕະໂນມັດສໍາລັບ \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"ບໍ່ສາມາດເລີ່ມຕົ້ນຄວາມຕ້ອງການທົ່ວທັງລະບົບສໍາລັບຄໍາບັນຍາຍທີ່ປິດ."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"ເພີ່ມ %1$d ຊ່ອງລາຍການແລ້ວ"</item>
+<item quantity="other">"ເພີ່ມ %1$d ຊ່ອງລາຍການແລ້ວ"</item>
+</plurals>
+<string name="msg_no_channel_added">"ບໍ່ໄດ້ເພີ່ມຊ່ອງລາຍການ"</string>
+<string name="menu_parental_controls">"ການຄວບຄຸມໂດຍຜູ້ປົກຄອງ"</string>
+<string name="option_toggle_parental_controls_on">"ເປີດຢູ່"</string>
+<string name="option_toggle_parental_controls_off">"ປິດຢູ່"</string>
+<string name="option_channels_locked">"ບລັອກຊ່ອງລາຍການແລ້ວ"</string>
+<string name="option_channels_lock_all">"ບລັອກທັງໝົດ"</string>
+<string name="option_channels_unlock_all">"ຍົກເລີກການບລັອກທັງໝົດ"</string>
+<string name="option_channels_subheader_hidden">"ຊ່ອງລາຍການທີ່ຖືກເຊື່ອງ"</string>
+<string name="option_program_restrictions">"ການຈໍາກັດໂປຣແກຣມ"</string>
+<string name="option_change_pin">"ປ່ຽນ PIN"</string>
+<string name="option_country_rating_systems">"ລະບົບການຈັດອັນດັບ"</string>
+<string name="option_ratings">"ການຈັດອັນດັບ"</string>
+<string name="option_see_all_rating_systems">"ເບິ່ງລະບົບການຈັດອັນດັບທັງໝົດ"</string>
+<string name="other_countries">"ປະເທດອື່ນໆ"</string>
+<string name="option_no_locked_channel">"ບໍ່ມີ"</string>
+<string name="option_no_enabled_rating_system">"ບໍ່ມີ"</string>
+<string name="unrated_rating_name">"ບໍ່ໄດ້ຈັດອັນດັບ"</string>
+<string name="option_block_unrated_programs">"ບລັອກໂປຣແກຣມທີ່ບໍ່ໄດ້ຖືກຈັດອັນດັບ"</string>
+<string name="option_rating_none">"ບໍ່ມີ"</string>
+<string name="option_rating_high">"ການຈໍາກັດສູງ"</string>
+<string name="option_rating_medium">"ການຈໍາກັດປານກາງ"</string>
+<string name="option_rating_low">"ການຈໍາກັດຕໍ່າ"</string>
+<string name="option_rating_custom">"ກຳນົດເອງ"</string>
+<string name="option_rating_high_description">"ເນື້ອໃນທີ່ເໝາະສົມສໍາລັບເດັກ"</string>
+<string name="option_rating_medium_description">"ເນື້ອໃນທີ່ເໝາະສົມສໍາລັບເດັກໃຫຍ່"</string>
+<string name="option_rating_low_description">"ເນື້ອໃນທີ່ເໝາະສົມສໍາລັບໄວໜຸ່ມ"</string>
+<string name="option_rating_custom_description">"ການຈໍາກັດດ້ວຍຕົນເອງ"</string>
+<string name="option_subrating_title">"%1$s ແລະ ການຈັດອັນດັບຍ່ອຍ"</string>
+<string name="option_subrating_header">"ການຈັດອັນດັບຍ່ອຍ"</string>
+<string name="pin_enter_unlock_channel">"ປ້ອນ PIN ຂອງທ່ານເພື່ອເບິ່ງຊ່ອງລາຍການນີ້"</string>
+<string name="pin_enter_unlock_program">"ປ້ອນ PIN ຂອງທ່ານເພື່ອເບິ່ງໂປຣແກຣມນີ້"</string>
+<string name="pin_enter_unlock_dvr">"ໂປຣແກຣມນີ້ຖືກຈັດອັນດັບ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. ປ້ອນ PIN ຂອງທ່ານເພື່ອເບິ່ງໂປຣແກຣມນີ້"</string>
+<string name="pin_enter_unlock_dvr_unrated">"ໂປຣແກຣມນີ້ບໍ່ໄດ້ຖືກຈັດອັນດັບ. ປ້ອນ PIN ຂອງທ່ານເພື່ອເບິ່ງໂປຣແກຣມນີ້"</string>
+<string name="pin_enter_pin">"ປ້ອນ PIN ຂອງທ່ານ"</string>
+<string name="pin_enter_create_pin">"ເພື່ອຕັ້ງການຄວບຄຸມໂດຍຜູ້ປົກຄອງ, ສ້າງ PIN"</string>
+<string name="pin_enter_new_pin">"ປ້ອນ PIN ໃໝ່"</string>
+<string name="pin_enter_again">"ຢືນຢັນ PIN ຂອງທ່ານ"</string>
+<string name="pin_enter_old_pin">"ປ້ອນ PIN ປະຈຸບັນຂອງທ່ານ"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"ທ່ານໄດ້ປ້ອນ PIN ບໍ່ຖືກຕ້ອງ 5 ຄັ້ງ.\nລອງໃໝ່ໃນ <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> ວິນາທີ."</item>
+<item quantity="other">"ທ່ານໄດ້ປ້ອນ PIN ບໍ່ຖືກຕ້ອງ 5 ຄັ້ງ.\nລອງໃໝ່ໃນ <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> ວິນາທີ."</item>
+</plurals>
+<string name="pin_toast_wrong">"PIN ນັ້ນບໍ່ຖືກຕ້ອງ. ລອງໃໝ່."</string>
+<string name="pin_toast_not_match">"ລອງໃໝ່, PIN ບໍ່\'ກົງ"</string>
+<string name="side_panel_title_settings">"ການ​ຕັ້ງ​ຄ່າ"</string>
+<string name="settings_channel_source_item_customize_channels">"ກໍານົດລາຍການຊ່ອງເອງ"</string>
+<string name="settings_channel_source_item_customize_channels_description">"ເລືອກຊ່ອງລາຍການສໍາລັບຄູ່ມືໂປຣແກຣມຂອງທ່ານ"</string>
+<string name="settings_channel_source_item_setup">"ແຫຼ່ງຂອງຊ່ອງລາຍການ"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"ມີຊ່ອງລາຍການໃໝ່ໃຫ້"</string>
+<string name="settings_parental_controls">"ການຄວບຄຸມໂດຍຜູ້ປົກຄອງ"</string>
+<string name="settings_trickplay">"ການປ່ຽນແປງຂອງເວລາ"</string>
+<string name="settings_trickplay_description">"ບັນທຶກໃນຂະນະທີ່ເບິ່ງ ເພື່ອໃຫ້ທ່ານສາມາດຢຸດໄດ້ຊົ່ວຄາວ ຫຼື ຍ້ອນກັບໄປເບິ່ງລາຍການທີ່ຖ່າຍທອດສົດ.\nຄໍາເຕືອນ: ການດໍາເນີນການນີ້ອາດຈະຫຼຸດການໃຊ້ງານພື້ນທີ່ຈັດເກັບໃນເຄື່ອງລົງໂດຍການໃຊ້ພື້ນທີ່ຈັດເກັບຢ່າງໜັກໜ່ວງ."</string>
+<string name="settings_menu_licenses">"ເປີດໃບຢັ້ງຢືນແຫຼ່ງທີ່ມາ"</string>
+<string name="settings_send_feedback">"ສົ່ງຄຳຕິຊົມ"</string>
+<string name="settings_menu_version">ຍີ່​ຫໍ໊</string>
+<string name="tvview_channel_locked">"ເພື່ອເບິ່ງຊ່ອງນີ້, ກົດຂວາ ແລະ ປ້ອນ PIN ຂອງທ່ານ"</string>
+<string name="tvview_content_locked">"ເພື່ອເບິ່ງໂປຣແກຣມນີ້, ກົດຂວາ ແລະ ປ້ອນ PIN ຂອງທ່ານ"</string>
+<string name="tvview_content_locked_unrated">"ໂປຣແກຣມນີ້ບໍ່ໄດ້ຖືກຈັດອັນດັບ.\nເພື່ອເບິ່ງໂປຣແກຣມນີ້, ກົດຂວາ ແລະ ປ້ອນ PIN ຂອງທ່ານ"</string>
+<string name="tvview_content_locked_format">"ໂປຣແກຣມນີ້ຖືກຈັດອັນດັບ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nເພື່ອເບິ່ງໂປຣແກຣມນີ້, ກົດຂວາ ແລະ ປ້ອນ PIN ຂອງທ່ານ."</string>
+<string name="tvview_channel_locked_no_permission">"ເພື່ອເບິ່ງຊ່ອງລາຍການນີ້, ໃຊ້ແອັບການເບິ່ງໂທລະພາບການຖ່າຍທອດສົດເດີມ."</string>
+<string name="tvview_content_locked_no_permission">"ເພື່ອເບິ່ງໂປຣແກຣມນີ້, ໃຊ້ແອັບການເບິ່ງໂທລະພາບການຖ່າຍທອດສົດເດີມ."</string>
+<string name="tvview_content_locked_unrated_no_permission">"ໂປຣແກຣມນີ້ບໍ່ໄດ້ຖືກຈັດອັນດັບ.\nເພື່ອເບິ່ງໂປຣແກຣມນີ້, ໃຊ້ແອັບການເບິ່ງໂທລະພາບຖ່າຍທອດສົດເດີມ."</string>
+<string name="tvview_content_locked_format_no_permission">"ໂປຣແກຣມນີ້ຖືກຈັດອັນດັບ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nເພື່ອເບິ່ງໂປຣແກຣມນີ້, ໃຊ້ແອັບການເບິ່ງໂທລະພາບຖ່າຍທອດສົດເດີມ."</string>
+<string name="shrunken_tvview_content_locked">"ໂປຣແກຣມຖືກບລັອກ"</string>
+<string name="shrunken_tvview_content_locked_unrated">"ໂປຣແກຣມນີ້ບໍ່ໄດ້ຖືກຈັດອັນດັບ"</string>
+<string name="shrunken_tvview_content_locked_format">"ໂປຣແກຣມນີ້ຖືກຈັດອັນດັບ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"ສຽງເທົ່ານັ້ນ"</string>
+<string name="tvview_msg_weak_signal">"ສັນຍານຕໍ່າ"</string>
+<string name="tvview_msg_no_internet_connection">"ບໍ່ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ"</string>
+<string name="channel_banner_no_title">"ບໍ່ມີຊື່ຫົວເລື່ອງ"</string>
+<string name="channel_banner_locked_channel_title">"ບລັອກຊ່ອງລາຍການແລ້ວ"</string>
+<string name="setup_category_new">"ໃໝ່"</string>
+<string name="setup_category_done">"ແຫຼ່ງທີ່ມາ"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d ຊ່ອງລາຍການ"</item>
+<item quantity="other">"%1$d ຊ່ອງລາຍການ"</item>
+</plurals>
+<string name="setup_input_no_channels">"ບໍ່ມີຊ່ອງລາຍການໃຫ້"</string>
+<string name="setup_input_new">"ໃໝ່"</string>
+<string name="setup_input_setup_now">"ບໍ່ຕິດຕັ້ງ"</string>
+<string name="setup_store_action_title">"ຮັບແຫຼ່ງທີ່ມາເພີ່ມເຕີມ"</string>
+<string name="setup_store_action_description">"ເປີດເບິ່ງແອັບທີ່ມີຊ່ອງລາຍການຖ່າຍທອດສົດໃຫ້"</string>
+<string name="new_sources_title">"ມີແຫຼ່ງທີ່ມາຂອງຊ່ອງລາຍການໃໝ່ໃຫ້"</string>
+<string name="new_sources_description">"ແຫຼ່ງທີ່ມາຂອງຊ່ອງລາຍການໃໝ່ມີຊ່ອງລາຍການໃຫ້.\nຕັ້ງຄ່າພວກມັນຕອນນີ້, ຫຼື ດໍາເນີນການນີ້ໄດ້ໃນພາຍຫຼັງທີ່ການຕັ້ງຄ່າແຫຼ່ງທີ່ມາຂອງຊ່ອງລາຍການ."</string>
+<string name="new_sources_action_setup">"ຕິດຕັ້ງຕອນນີ້"</string>
+<string name="new_sources_action_skip">"ຕົກລົງ, ເຂົ້າໃຈແລ້ວ"</string>
+<string name="intro_description">"<b>ກົດ ເລືອກ</b> ເພື່ອເຂົ້າເຖິງເມນູໂທລະພາບ."</string>
+<string name="msg_no_input">"ບໍ່ພົບການປ້ອນເຂົ້າຂອງໂທລະພາບ"</string>
+<string name="msg_no_specific_input">"ບໍ່ສາມາດຊອກຫາການປ້ອນເຂົ້າຂອງໂທລະພາບ"</string>
+<string name="msg_not_passthrough_input">"ປະເພດຂອງໂປຣແກຣມປັບສັນຍານບໍ່ເໝາະສົມ. ກະລຸນາເປີດແອັບ <xliff:g id="app_name">Live TV</xliff:g> ສຳລັບຊ່ອງຮັບສັນຍານໂທລະພາບປະເພດຂອງໂປຣແກຣມປັບສັນຍານ."</string>
+<string name="msg_tune_failed">"ຕັ້ງສຽງບໍ່ສໍາເລັດ"</string>
+<string name="msg_missing_app">"ບໍ່ພົບແອັບທີ່ຈະຈັດການການປະຕິບັດການນີ້."</string>
+<string name="msg_all_channels_hidden">"ຊ່ອງລາຍການຂອງແຫຼ່ງທີ່ມາທັງໝົດແມ່ນຖືກເຊື່ອງ.\nເລືອກຢ່າງໜ້ອຍໜຶ່ງຊ່ອງລາຍການເພື່ອຮັບຊົມ."</string>
+<string name="msg_channel_unavailable_unknown">"ວິດີໂອບໍ່ພ້ອມໃຊ້ງານໂດຍບໍ່ຄາດຄິດ"</string>
+<string name="msg_back_key_guide">"ປຸ່ມກັບຄືນໃຊ້ສໍາລັບອຸປະກອນທີ່ເຊື່ອມຕໍ່. ກົດປຸ່ມໜ້າຫຼັກເພື່ອອອກ."</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g> ຕ້ອງການໄດ້ຮັບອະນຸຍາດເພື່ອອ່ານລາຍການໂທລະພາບ."</string>
+<string name="setup_sources_text">"ຕັ້ງຄ່າແຫຼ່ງທີ່ມາຂອງທ່ານ"</string>
+<string name="setup_sources_description">"ຊ່ອງລາຍການຖ່າຍທອດສົດລວມເອົາປະສົບການຂອງຊ່ອງໂທລະພາບແບບດັ້ງເດີມເຂົ້າກັບຊ່ອງສະຕຣີມທີ່ແອັບມີໃຫ້.\n\nເລີ່ມຕົ້ນໂດຍການຕັ້ງຄ່າແຫຼ່ງທີ່ມາຂອງຊ່ອງລາຍການທີ່ຕິດຕັ້ງໄວ້ແລ້ວ. ຫຼື ເປີດເບິ່ງຮ້ານຄ້າອອນລາຍສໍາລັບແອັບເພີ່ມເຕີມທີ່ໃຫ້ບໍລິການຊ່ອງລາຍການຖ່າຍທອດສົດ."</string>
+<string name="channels_item_dvr">"ການບັນທຶກ ແລະ ຕາຕະລາງເວລາ"</string>
+<string name="recording_start_dialog_10_min_duration">"10 ນາທີ"</string>
+<string name="recording_start_dialog_30_min_duration">"30 ນາທີ"</string>
+<string name="recording_start_dialog_1_hour_duration">"1 ຊົ່ວໂມງ"</string>
+<string name="recording_start_dialog_3_hours_duration">"3 ຊົ່ວໂມງ"</string>
+<string name="dvr_main_recent">"ປະຈຸບັນ"</string>
+<string name="dvr_main_scheduled">"ກໍານົດເວລາແລ້ວ"</string>
+<string name="dvr_main_series">"ຊຸດເລື່ອງ"</string>
+<string name="dvr_main_others">"ອື່ນໆ"</string>
+<string name="dvr_msg_cannot_record_channel">"ຊ່ອງລາຍການບໍ່ສາມາດບໍ່ສາມາດບັນທຶກໄດ້."</string>
+<string name="dvr_msg_cannot_record_program">"ໂປຣແກຣມບໍ່ສາມາດບໍ່ສາມາດບັນທຶກໄດ້."</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ໄດ້ຖືກກໍານົດໄວ້ໃຫ້ບັນທຶກ"</string>
+<string name="dvr_msg_current_program_scheduled">"ການບັນທຶກ <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ຈາກນີ້ຫາ <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"ກໍານົດເວລາທັງໝົດ"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"%1$d ມື້ ຖັດໄປ"</item>
+<item quantity="other">"%1$d ມື້ ຖັດໄປ"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d ນາທີ"</item>
+<item quantity="other">"%1$d ນາທີ"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d ການບັນທືກໃໝ່"</item>
+<item quantity="other">"%1$d ການບັນທືກໃໝ່"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d ການບັນທຶກ"</item>
+<item quantity="other">"%1$d ການບັນທຶກ"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"ກໍານົດ %1$d ການບັນທຶກແລ້ວ"</item>
+<item quantity="other">"ກໍານົດ %1$d ການບັນທຶກແລ້ວ"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"ຍົກເລີກການບັນທຶກ"</string>
+<string name="dvr_detail_stop_recording">ຢຸດ​ການ​ບັນ​ທຶກ</string>
+<string name="dvr_detail_watch">"ເບິ່ງ"</string>
+<string name="dvr_detail_play_from_beginning">"ຫຼິ້ນຕັ້ງແຕ່ຕົ້ນ"</string>
+<string name="dvr_detail_resume_play">​ສື່ບ​ຕໍ​ຫລີ້ນ</string>
+<string name="dvr_detail_delete">"​ລຶບ"</string>
+<string name="dvr_detail_series_delete">"ລຶບການບັນທຶກ"</string>
+<string name="dvr_detail_series_resume">"ດໍາເນີນຕໍ່"</string>
+<string name="dvr_detail_series_season_title">"ພາກ <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"ເບິ່ງກໍານົດເວລາ"</string>
+<string name="dvr_detail_read_more">"ອ່ານເພີ່ມເຕີມ"</string>
+<string name="dvr_series_deletion_title">"ລຶບການບັນທຶກ"</string>
+<string name="dvr_series_deletion_description">"ເລືອກຕອນທີ່ທ່ານຕ້ອງການຈະລຶບ. ພວກມັນບໍ່ສາມາດລຶບໄດ້ຫຼັງຈາກລຶບແລ້ວ."</string>
+<string name="dvr_series_deletion_no_recordings">"ບໍ່ມີການບັນທຶກໃຫ້ລຶບ."</string>
+<string name="dvr_series_select_watched">"ເລືອກຕອນທີ່ເບິ່ງແລ້ວ"</string>
+<string name="dvr_series_select_all">"ເລືອກທຸກຕອນ"</string>
+<string name="dvr_series_deselect_all">"ຍົກເລີກການເລືອກທຸກຕອນ"</string>
+<string name="dvr_series_watched_info_minutes">"ເບິ່ງແລ້ວ <xliff:g id="watched">%1$d</xliff:g> ຂອງ <xliff:g id="duration">%2$d</xliff:g> ນາທີ"</string>
+<string name="dvr_series_watched_info_seconds">"ເບິ່ງແລ້ວ <xliff:g id="watched">%1$d</xliff:g> ຂອງ <xliff:g id="duration">%2$d</xliff:g> ວິນາທີ"</string>
+<string name="dvr_series_never_watched">"ບໍ່ເຄີຍເບິ່ງ"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%1$d ຂອງ %2$d ຕອນແມ່ນຖືກລຶບ"</item>
+<item quantity="other">"%1$d ຂອງ %2$d ຕອນແມ່ນຖືກລຶບ"</item>
+</plurals>
+<string name="dvr_series_settings_priority">"ລະ​ດັບ​ຄ​ວາມ​ສຳ​ຄັນ"</string>
+<string name="dvr_series_settings_priority_highest">"ສູງສຸດ"</string>
+<string name="dvr_series_settings_priority_lowest">"ຕໍ່າສຸດ"</string>
+<string name="dvr_series_settings_priority_rank">"ໝາຍເລກ <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"ຊ່ອງລາຍການ"</string>
+<string name="dvr_series_settings_channels_all">"ໃດໆກໍຕາມ"</string>
+<string name="dvr_priority_title">"ເລືອກບຸລິມະສິດ"</string>
+<string name="dvr_priority_description">"ເມື່ອມີໂປຣແກຣມທີ່ຈະບັນທຶກພ້ອມກັນຫຼາຍເກີນໄປ, ສະເພາະໂປຣແກຣມທີ່ມີລໍາດັບຄວາມສໍາຄັນສູງຈະຖືກບັນທຶກ."</string>
+<string name="dvr_priority_button_action_save">"ບັນທຶກ"</string>
+<string name="dvr_priority_action_one_time_recording">"ການບັນທຶກຄັ້ງດຽວມີລໍາດັບຄວາມສໍາຄັນສູງທີ່ສຸດ"</string>
+<string name="dvr_action_stop">"ຢຸດ"</string>
+<string name="dvr_action_view_schedules">"ເບິ່ງກໍານົດເວລາໃນການບັນທຶກ"</string>
+<string name="dvr_action_record_episode">"ໂປຣແກຣມດຽວນີ້"</string>
+<string name="dvr_action_record_episode_from_now_description">"ຕອນນີ້ - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"ທັງຊຸດ…"</string>
+<string name="dvr_action_record_anyway">"ຈັງໃດກໍກໍານົດເວລາ"</string>
+<string name="dvr_action_record_instead">"ບັນທຶກອັນນີ້ແທນ"</string>
+<string name="dvr_action_record_cancel">"ຍົກເລີກການບັນທຶກນີ້"</string>
+<string name="dvr_action_watch_now">"ເບິ່ງຕອນນີ້"</string>
+<string name="dvr_action_delete_recordings">"ລຶບການບັນທຶກ…"</string>
+<string name="dvr_epg_program_recordable">"ສາມາດບັນທຶກໄດ້"</string>
+<string name="dvr_epg_program_recording_scheduled">"ກໍານົດການບັນທຶກແລ້ວ"</string>
+<string name="dvr_epg_program_recording_conflict">"ການບັນທຶກມີຄວາມຂັດແຍ້ງ"</string>
+<string name="dvr_epg_program_recording_in_progress">"ບັນທຶກສຽງ"</string>
+<string name="dvr_epg_program_recording_failed">"ການບັນທຶກບໍ່ສໍາເລັດ"</string>
+<string name="dvr_series_progress_message_reading_programs">"ໂປຣແກຣມການອ່ານ"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"ເບິ່ງການບັນທຶກລ້າສຸດ"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"ການບັນທຶກ <xliff:g id="programName" example="Friends">%1$s</xliff:g> ບໍ່ສົມບູນ."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"ການບັນທຶກ <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> ແລະ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ບໍ່ສົມບູນ."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"ການບັນທຶກ <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ແລະ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> ບໍ່ສົມບູນ."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"ການບັນທຶກ <xliff:g id="programName" example="Friends">%1$s</xliff:g> ບໍ່ສົມບູນເນື່ອງຈາກພື້ນທີ່ຈັດເກັບບໍ່ພຽງພໍ."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"ການບັນທຶກ <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> ແລະ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ບໍ່ສົມບູນເນື່ອງຈາກພື້ນທີ່ຈັດເກັບບໍ່ພຽງພໍ."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"ການບັນທຶກ <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ແລະ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> ບໍ່ສົມບູນເນື່ອງຈາກພື້ນທີ່ຈັດເກັບບໍ່ພຽງພໍ."</string>
+<string name="dvr_error_small_sized_storage_title">"ຈຳເປັນຕ້ອງມີພື້ນທີ່ຈັດເກັບຂໍ້ມູນເພີ່ມເຕີມ"</string>
+<string name="dvr_error_small_sized_storage_description">"ທ່ານຈະສາມາດບັນທຶກໂປຣແກຣມ. ເຖິງຢ່າງໃດກໍຕາມ ບໍ່ມີພື້ນທີ່ຈັດເກັບພຽງພໍໃນອຸປະກອນຂອງທ່ານເພື່ອເລີ່ມຕົ້ນບັນທຶກ. ກະລຸນາເຊື່ອມຕໍ່ໜ່ວຍຈັດເກັບຂໍ້ມູນພາຍນອກທີ່ມີຂະໜາດ <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>GB ຫຼື ຫຼາຍກວ່າ ແລະ ປະຕິບັດຕາມຂັ້ນຕອນດັ່ງກ່າວເພື່ອຟໍແມັດມັນໃຫ້ເປັນພື້ນທີ່ຈັດເກັບອຸປະກອນ."</string>
+<string name="dvr_error_no_free_space_title">"ບໍ່ມີພື້ນທີ່ຈັດເກັບພຽງພໍ"</string>
+<string name="dvr_error_no_free_space_description">"ໂປຣແກຣມນີ້ຈະບໍ່ຖືກບັນທຶກ ເນື່ອງຈາກບໍ່ມີພື້ນທີ່ຈັດເກັບພຽງພໍ. ລອງລຶບບັນທຶກທີ່ມີຢູ່ບາງອັນ."</string>
+<string name="dvr_error_missing_storage_title">"ບໍ່ມີພື້ນທີ່ຈັດເກັບ"</string>
+<string name="dvr_stop_recording_dialog_title">"ຢຸດການບັນທຶກບໍ?"</string>
+<string name="dvr_stop_recording_dialog_description">"ເນື້ອໃນທີ່ບັນທຶກຈະຖືກບັນທຶກ."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"ການບັນທຶກ <xliff:g id="programName" example="Friends">%1$s</xliff:g> ຈະຢຸດລົງ ເນື່ອງຈາກມັນຂັດແຍ້ງກັບໂປຣແກຣມນີ້. ເນື້ອໃນທີ່ບັນທຶກຈະຖືກບັນທຶກ."</string>
+<string name="dvr_program_conflict_dialog_title">"ກໍານົດການບັນທຶກແລ້ວ ແຕ່ມີຄວາມຂັດແຍ້ງ"</string>
+<string name="dvr_channel_conflict_dialog_title">"ການບັນທຶກໄດ້ເລີ່ມຕົ້ນຂຶ້ນ ແຕ່ມີຄວາມຂັດແຍ້ງ"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> ຈະຖືກບັນທຶກ."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> ກໍາລັງຖືກບັນທຶກ."</string>
+<string name="dvr_program_conflict_dialog_description_1">"ບາງສ່ວນຂອງ <xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> ຈະບໍ່ຖືກບັນທຶກ."</string>
+<string name="dvr_program_conflict_dialog_description_2">"ບາງສ່ວນຂອງ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> ແລະ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ຈະບໍ່ຖືກບັນທຶກ."</string>
+<string name="dvr_program_conflict_dialog_description_3">"ບາງສ່ວນຂອງ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ແລະ ອີກໜຶ່ງກໍານົດເວລາຈະບໍ່ຖືກບັນທຶກ."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"ບາງສ່ວນຂອງ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ແລະ ອີກ %3$d ກໍານົດເວລາຈະບໍ່ຖືກບັນທຶກ."</item>
+<item quantity="other">"ບາງສ່ວນຂອງ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ແລະ ອີກ %3$d ກໍານົດເວລາຈະບໍ່ຖືກບັນທຶກ."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"ທ່ານຕ້ອງການບັນທຶກຫຍັງ?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"ທ່ານຕ້ອງການບັນທຶກດົນປານໃດ?"</string>
+<string name="dvr_already_scheduled_dialog_title">"ກໍານົດເວລາຮຽບຮ້ອຍແລ້ວ"</string>
+<string name="dvr_already_scheduled_dialog_description">"ໂປຣແກຣມດຽວກັນໄດ້ຖືກກໍານົດເວລາໃຫ້ບັນທຶກຕອນ <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g> ຮຽບຮ້ອຍແລ້ວ."</string>
+<string name="dvr_already_recorded_dialog_title">"ບັນທຶກຮຽບຮ້ອຍແລ້ວ"</string>
+<string name="dvr_already_recorded_dialog_description">"ໂປຣແກຣມນີ້ໄດ້ຖືກບັນທຶກຮຽບຮ້ອຍແລ້ວ. ມີຢູ່ໃນຫ້ອງສະໝຸດ DVR."</string>
+<string name="dvr_series_recording_dialog_title">"ກໍານົດການບັນທຶກຊຸດເລື່ອງແລ້ວ"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. ມັນຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> ຂອງພວກມັນຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ຕອນຂອງຊຸດເລື່ອງນີ້ ແລະ ຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ຕອນຂອງຊຸດເລື່ອງນີ້ ແລະ ຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 ຕອນຂອງຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 ຕອນຂອງຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ຕອນຂອງຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ການບັນທຶກໄດ້ຖືກກໍານົດໃຫ້ສໍາລັບ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ຕອນຂອງຊຸດເລື່ອງອື່ນໆຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງ."</item>
+</plurals>
+<string name="dvr_program_not_found">"ບໍ່ພົບໂປຣແກຣມທີ່ບັນທຶກ."</string>
+<string name="dvr_playback_related_recordings">"ການບັນທຶກທີ່ກ່ຽວຂ້ອງກັນ"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d ການບັນທຶກ"</item>
+<item quantity="other">"%1$d ການບັນທຶກ"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">" / "</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ຖືກລຶບອອກຈາກກໍານົດເວລາການບັນທຶກແລ້ວ"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"ຈະຖືກບັນທຶກເປັນບາງສ່ວນເນື່ອງຈາກຄວາມຂັດແຍ້ງຂອງໂປຣແກຣມຕັ້ງສຽງ."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"ຈະບໍ່ຖືກບັນທຶກເນື່ອງຈາກຄວາມຂັດແຍ້ງຂອງໂປຣແກຣມຕັ້ງສຽງ."</string>
+<string name="dvr_schedules_empty_state">"ບໍ່ມີການບັນທຶກທີ່ກໍານົດເວລາໄວ້.\nທ່ານສາມາດກໍານົດເວລາການບັນທຶກຈາກຄູ່ມືໂປຣແກຣມ."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d ຄວາມຂັດແຍ້ງໃນການບັນທຶກ"</item>
+<item quantity="other">"%1$d ຄວາມຂັດແຍ້ງໃນການບັນທຶກ"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"ການຕັ້ງຄ່າຊຸດເລື່ອງ"</string>
+<string name="dvr_series_schedules_start">"ເລີ່ມການບັນທຶກຊຸດເລື່ອງ"</string>
+<string name="dvr_series_schedules_stop">"ຢຸດການບັນທຶກຊຸດເລື່ອງ"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"ຢຸດການບັນທຶກຊຸດເລື່ອງບໍ?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"ຕອນທີ່ບັນທຶກຈະຍັງຄົງໄວ້ໃນຫ້ອງສະໝຸດ DVR."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"ຢຸດ"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"ບໍ່ມີຕອນໃດສາຍໃນຕອນນີ້ເລີຍ."</string>
+<string name="dvr_series_schedules_empty_state">"ບໍ່ມີຕອນໃດເລີຍ.\nພວກມັນຈະຖືກບັນທຶກເມື່ອພ້ອມໃຊ້ງານ."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d ນາທີ) "</item>
+<item quantity="other">"(%1$d ນາທີ)"</item>
+</plurals>
+<string name="dvr_date_today">ມື້​ນີ້</string>
+<string name="dvr_date_tomorrow">"ມື້ອື່ນ"</string>
+<string name="dvr_date_yesterday">"ມື້ວານ"</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> ມື້ນີ້"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> ມື້ອື່ນ"</string>
+<string name="program_guide_critic_score">"ຄະແນນ"</string>
+<string name="recorded_programs_preview_channel">"ໂປຣແກຣມທີ່ບັນທຶກ"</string>
+</resources>

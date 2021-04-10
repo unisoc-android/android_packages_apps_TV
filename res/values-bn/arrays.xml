@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>স্বাভাবিক</item>
+<item>"পূর্ণ"</item>
+<item>জুম</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"সমস্ত চানেল"</item>
+<item>"পরিবার/বাচ্ছা"</item>
+<item>"খেলাধুলা"</item>
+<item>"কেনাকাটা"</item>
+<item>সিনেমা</item>
+<item>"হাস্যকৌতুক"</item>
+<item>পর্যটন </item>
+<item>"নাটক" </item>
+<item>"শিক্ষা"</item>
+<item>"পশু/বন্যজীবন"</item>
+<item>"সংবাদ" </item>
+<item>"গেমিং"</item>
+<item>"সাহিত্য" </item>
+<item>"বিনোদন"</item>
+<item>"লাইফস্টাইল"</item>
+<item>সঙ্গীত</item>
+<item>"প্রিমিয়ার" </item>
+<item>"টেক/বিজ্ঞান"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">লাইভ টিভি</xliff:g> "</item>
+<item>"সামগ্রী খুঁজে পাওয়ার একটি সহজ উপায়"</item>
+<item>"অ্যাপ্লিকেশনগুলি ডাউনলোডকরুন, আরও চ্যানেল পান"</item>
+<item>"আপনার চ্যানেল লাইন আপ কাস্টমাইজ করুন"</item>
+</string-array>
+</resources>

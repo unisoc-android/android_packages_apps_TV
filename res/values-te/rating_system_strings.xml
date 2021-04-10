@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">"కార్యక్రమాలు 15 సంవత్సరాల కంటే తక్కువ వయస్సు గల ప్రేక్షకులకు తగని విషయం కలిగి ఉండవచ్చు, అందువలన తల్లిదండ్రుల అభీష్టాన్ని మేరకు వారని వాడుకోవాలి."</string>
+<string name="description_kr_tv_19">"కార్యక్రమాలు 19 కంటే తక్కువ వయస్సు గల ప్రేక్షకులకు తగని విషయం కలిగి ఉండవచ్చు, అందువలన 19 సంవత్సరాల కంటే తక్కువ వయస్సు గల యువకులకు ఇది సరిపోదు."</string>
+<string name="description_us_tv_d">"సూచిత సంభాషణ"</string>
+<string name="description_us_tv_l">"కఠినమైన భాష"</string>
+<string name="description_us_tv_s">"లైంగిక విషయం"</string>
+<string name="description_us_tv_v">"హింస"</string>
+<string name="description_us_tv_fv">"ఫాంటసీ హింస"</string>
+<string name="description_us_tv_y">"ఈ కార్యక్రమం పిల్లలందరికీ తగినదిగా రూపొందించబడింది."</string>
+<string name="description_us_tv_y7">"ఈ కార్యక్రమం 7 మరియు అంతకన్నా ఎక్కువ వయస్సు ఉన్న పిల్లల కోసం రూపొందించబడింది."</string>
+<string name="description_us_tv_g">"చాలామంది తల్లిదండ్రులు ఈ కార్యక్రమం అన్ని వయస్సుల వారికి అనుగుణంగా ఉంటుందని కనుగొనవచ్చు."</string>
+<string name="description_us_tv_pg">"ఈ కార్యక్రమంలో తల్లిదండ్రులు చిన్న పిల్లల కోసం తగనిది కావచ్చని, తల్లిదండ్రులు తమ పిల్లలతో చూడాలనుకోవచ్చు."</string>
+<string name="description_us_tv_14">"ఈ కార్యక్రమం 14 సంవత్సరాల కంటే తక్కువ వయస్సు ఉన్న పిల్లలకి సరిపడని  విషయాలను కలిగి ఉండవచ్చునని చాలామంది తల్లిదండ్రులు కనుగొనవచ్చు."</string>
+<string name="description_us_tv_ma">"ఈ కార్యక్రమం ప్రత్యేకంగా పెద్దలు వీక్షించడానికి రూపొందించబడింది మరియు అందువలన 17 ఏళ్లలోపు పిల్లలకు తగినది కాదు."</string>
+<string name="title_us_mv">"ఫిల్మ్ రేటింగ్స్"</string>
+<string name="description_us_mv_g">"జెనరల్ ఆడియన్స్. పిల్లలు చూడటం వలన తల్లిదండ్రులకు ఎటువంటి అపాయం కలిగించేది లేదు."</string>
+<string name="description_us_mv_pg">"తల్లిదండ్రుల మార్గదర్శకత్వం సూచించబడింది. కొంతమంది తల్లిదండ్రులు వారి పిల్లల కోసం ఇష్టపడకపోవచ్చు."</string>
+<string name="description_us_mv_pg13">"తల్లిదండ్రులకు ఘాటు హెచ్చరిక. కొన్ని విషయాలు నవ-యువకులకు సరిపడనిది ఉండవచ్చు."</string>
+<string name="description_us_mv_r">"పరిమితం చేయబడినది, కొన్ని అంశాలు పెద్దలకు మాత్రమే కలిగి ఉండవచ్చు, వారి పిల్లలను తీసుకువెళ్ళే ముందు తల్లిదండ్రులు సినిమా గురించి మరింత విషయాలు తెలుసుకోవాలని కోరుతున్నాము."</string>
+<string name="description_us_mv_nc17">"17 మరియు అంతకన్నా తక్కువ వారికి అనుమతిలేదు. స్పష్టంగా వయోజన పిల్లలు ఒప్పుకోలేదు." </string>
+</resources>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">Mono</string>
+<string name="audio_channel_stereo">"စတီရီယို"</string>
+<string name="menu_title_play_controls">"ဖွင့်ခြင်း ထိန်းချုပ်မှုများ"</string>
+<string name="menu_title_channels">"ချန်နယ်များ"</string>
+<string name="menu_title_options">"တီဗီ ရွေးချယ်စရာများ"</string>
+<string name="play_controls_unavailable">"ဖွင့်ရန် ထိန်းချုပ်စရာများကို ဤချန်နယ်အတွက် မရနိုင်ပါ"</string>
+<string name="play_controls_description_play_pause">"ဖွင့် သို့မဟုတ် ခဏရပ်"</string>
+<string name="play_controls_description_fast_forward">အျမန္ ထပ္ဆင့္ပုိ႕</string>
+<string name="play_controls_description_fast_rewind">ျပန္ရစ္ပါ</string>
+<string name="play_controls_description_skip_next"> ေရွ ့ဆက္</string>
+<string name="play_controls_description_skip_previous">"အျကိုျမင္ကြင္းမ်ား"</string>
+<string name="channels_item_program_guide">"ပရိုဂရမ် လမ်းညွှန်"</string>
+<string name="channels_item_setup">"ချန်နယ်လိုင်း အသစ်များ ရနိုင်သည်"</string>
+<string name="channels_item_app_link_app_launcher">"<xliff:g id="app_name" example="YouTube">%1$s</xliff:g> ကို ဖွင့်ပါ"</string>
+<string name="options_item_closed_caption">"အသံအားလုံး စာတန်းထိုးများ"</string>
+<string name="options_item_display_mode">"ပြသမုဒ်"</string>
+<string name="options_item_pip">"PIP (ပုံပေါ်ပုံဆင့်)"</string>
+<string name="options_item_multi_audio">"အော်ဒီယိုစုံ"</string>
+<string name="options_item_more_channels">"နောက်ထပ် ချန်နယ်များ ရယူပါ"</string>
+<string name="options_item_settings">ဆက္တင္မ်ား </string>
+<string name="input_long_label_for_tuner">"တီဗီ (အန်တင်နာ/ကေဘယ်)"</string>
+<string name="no_program_information">"ပရိုဂရမ် အချက်အလက်များ မရှိပါ"</string>
+<string name="program_title_for_no_information">"သတင္းမရွိ"</string>
+<string name="program_title_for_blocked_channel">"ပိတ်ဆို့ထားသော ချန်နယ်"</string>
+<string name="multi_audio_unknown_language">"အမည်မသိ ဘာသာစကား"</string>
+<string name="closed_caption_unknown_language">"အသံအားလုံး စာတန်းထိုးများ <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"အသံအားလုံး စာတန်းထိုးများ"</string>
+<string name="closed_caption_option_item_off"> ပိတ္ထား</string>
+<string name="closed_caption_system_settings">"ဖောမတ်ချခြင်းကို စိတ်ကြိုက်လုပ်ရန်"</string>
+<string name="closed_caption_system_settings_description">"အသံအားလုံး စာတန်းထိုးခြင်းအတွက် စနစ်-အနှံ့ ဦးစားပေးများကို သတ်မှတ်ပါ"</string>
+<string name="side_panel_title_display_mode">"ပြသမုဒ်"</string>
+<string name="side_panel_title_multi_audio">"အော်ဒီယိုစုံ"</string>
+<string name="multi_audio_channel_mono">Mono</string>
+<string name="multi_audio_channel_stereo">"စတီရီယို"</string>
+<string name="multi_audio_channel_surround_6">"5.1 ပတ်လည်ပြေးအသံ"</string>
+<string name="multi_audio_channel_surround_8">"7.1 ပတ်လည်ပြေးအသံ"</string>
+<string name="multi_audio_channel_suffix">"ချန်နယ် <xliff:g id="audio_channel_count" example="5">%d</xliff:g> ခု"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"ချန်နယ်စာရင်းကို စိတ်ကြိုက်လုပ်ပါ"</string>
+<string name="edit_channels_item_select_group">အုပ္စုေ႐ြးပါ</string>
+<string name="edit_channels_item_deselect_group">"အုပ်စုကို မရွေးတော့"</string>
+<string name="edit_channels_item_group_by">ျဖင့္ အုပ္စုဖြဲ႕ပါ</string>
+<string name="edit_channels_group_by_sources">"ချန်နယ် ရင်းမြစ်"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">ျဖင့္ အုပ္စုဖြဲ႕ပါ</string>
+<string name="program_guide_content_locked">"ဤပရိုဂရမ်ကို ပိတ်ဆို့ထားသည်"</string>
+<string name="program_guide_content_locked_unrated">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်မထားပါ"</string>
+<string name="program_guide_content_locked_format">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်ထားသည် <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"ထည့်လိုက်သောအရာသည် အော်တိုစကန်ကို ပံ့ပိုးမပေးပါ"</string>
+<string name="msg_unable_to_start_setup_activity">"အော်တို-စကန်ကို \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\' အတွက် စတင်၍ မရပါ"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"အသံအားလုံး စာတန်းထိုးခြင်းများအတွက် စနစ်-တခွင်တွင် ဦးစားပေးများကို စတင်၍ မရပါ။"</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"ချန်နယ် %1$d လိုင်း ထပ်ထည့်လိုက်သည်"</item>
+<item quantity="other">"ချန်နယ် %1$d လိုင်း ထပ်ထည့်လိုက်သည်"</item>
+</plurals>
+<string name="msg_no_channel_added">"ထပ်တိုးချန်နယ် မရှိပါ"</string>
+<string name="menu_parental_controls">"မိဘအုပ်ထိန်းသူဆိုင်ရာ ထိန်းချုပ်မှုများ"</string>
+<string name="option_toggle_parental_controls_on">ဖြင့္ရန္  </string>
+<string name="option_toggle_parental_controls_off"> ပိတ္ထား</string>
+<string name="option_channels_locked">"ချန်နယ်များကို ပိတ်ဆို့ထားသည်"</string>
+<string name="option_channels_lock_all">"အားလုံး ပိတ်ဆို့ပါ"</string>
+<string name="option_channels_unlock_all">"အားလုံး မပိတ်ဆို့တော့"</string>
+<string name="option_channels_subheader_hidden">"ဖျောက်ထားသော ချန်နယ်များ"</string>
+<string name="option_program_restrictions">"ပရိုဂရမ် ကန့်သတ်ချက်များ"</string>
+<string name="option_change_pin">"PIN ေျပာင္းပါ"</string>
+<string name="option_country_rating_systems">"အဆင့်သတ်မှတ် စနစ်များ"</string>
+<string name="option_ratings">"အဆင့်သတ်မှတ်ချက်များ"</string>
+<string name="option_see_all_rating_systems">"အဆင့်သတ်မှတ်ရေး စနစ်များ အားလုံးကို ကြည့်ပါ"</string>
+<string name="other_countries">"အခြား နိုင်ငံများ"</string>
+<string name="option_no_locked_channel">"တစ္ေယာက္မွ်"</string>
+<string name="option_no_enabled_rating_system">"တစ္ေယာက္မွ်"</string>
+<string name="unrated_rating_name">"အဆင့်သတ်မှတ်မထားပါ"</string>
+<string name="option_block_unrated_programs">"အဆင့်သတ်မှတ်မထားသော ပရိုဂရမ်များကို ပိတ်ဆို့ပါ"</string>
+<string name="option_rating_none">"တစ္ေယာက္မွ်"</string>
+<string name="option_rating_high">"ကန့်သတ်ချက်များ မြင့်မားသည်"</string>
+<string name="option_rating_medium">"အတန်အသင့် ကန့်သတ်ချက်များရှိ"</string>
+<string name="option_rating_low">"ကန့်သတ်ချက် နည်းသည်"</string>
+<string name="option_rating_custom">စိတ္ႀကိဳက္</string>
+<string name="option_rating_high_description">"အကြောင်းအရာသည် ကလေးများအတွက် သင့်တော်သည်"</string>
+<string name="option_rating_medium_description">"အကြောင်းအရာသည် ကလေးကြီးများအတွက် သင့်တော်သည်"</string>
+<string name="option_rating_low_description">"အကြောင်းအရာသည် ဆယ်ကျော်သက်များအတွက် သင့်တော်သည်"</string>
+<string name="option_rating_custom_description">"ကိုယ်တိုင် ကန့်သတ်ခြင်းများ"</string>
+<string name="option_subrating_title">"%1$s နှင့် ထပ်ဆင့်- အဆင့်သတ်မှတ်ခြင်းများ"</string>
+<string name="option_subrating_header">"ထပ်ဆင့်-အဆင့်သတ်မှတ်ခြင်းများ"</string>
+<string name="pin_enter_unlock_channel">"ဤချန်နယ်ကို ကြည့်ရန် သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="pin_enter_unlock_program">"ဤပရိုဂရမ်ကို ကြည့်ရန် သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="pin_enter_unlock_dvr">"ဤပရိုဂရမ်ကို <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> အဆင့် သတ်မှတ်ထားသည်။ ဤပရိုဂရမ်ကို ကြည့်ရန် သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="pin_enter_unlock_dvr_unrated">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်မထားပါ။ ဤပရိုဂရမ်ကို ကြည့်ရန် သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="pin_enter_pin">"သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="pin_enter_create_pin">"မိဘအုပ်ထိန်းသူဆိုင်ရာ ထိန်းချုပ်မှုများကို သတ်မှတ်ရန်၊ PIN တစ်ခု ဖန်တီးပါ"</string>
+<string name="pin_enter_new_pin">"PIN အသစ်ကို ရိုက်ပါ"</string>
+<string name="pin_enter_again">သင့္PIN ကို အတည္ျပဳပါ</string>
+<string name="pin_enter_old_pin">"သင်၏ လက်ရှိ PIN ကို ဖြည့်ပါ"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"သင်သည် မှားယွင်းသော PIN ကို 5 ကြိမ် ဖြည့်ခဲ့သည်။\n<xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> စက္ကန့် ကြာပြီးမှ ထပ်ကြိုးစားပါ။"</item>
+<item quantity="other">"သင်သည် မှားယွင်းသော PIN ကို 5 ကြိမ် ဖြည့်ခဲ့သည်။\n<xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> စက္ကန့် ကြာပြီးမှ ထပ်ကြိုးစားပါ။"</item>
+</plurals>
+<string name="pin_toast_wrong">"PIN မှားသွားသည်။ ထပ်ကြိုးစားပါ။"</string>
+<string name="pin_toast_not_match">ထပ္ႀကိဳးစားပါ။ PIN မကုိက္ညီပါ</string>
+<string name="side_panel_title_settings">ဆက္တင္မ်ား </string>
+<string name="settings_channel_source_item_customize_channels">"ချန်နယ်စာရင်းကို စိတ်ကြိုက်လုပ်ပါ"</string>
+<string name="settings_channel_source_item_customize_channels_description">"သင်၏ ပရိုဂရမ်လမ်းညွှန်အတွက် ချန်နယ်များကို ရွေးချယ်ပါ"</string>
+<string name="settings_channel_source_item_setup">"ချန်နယ် ရင်းမြစ်များ"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"ချန်နယ်လိုင်း အသစ်များ ရနိုင်သည်"</string>
+<string name="settings_parental_controls">"မိဘအုပ်ထိန်းသူဆိုင်ရာ ထိန်းချုပ်မှုများ"</string>
+<string name="settings_trickplay">"နောက်ထပ် ပြသမည့်အချိန်များ"</string>
+<string name="settings_trickplay_description">"တိုက်ရိုက်လွှင့် ပရိုဂရမ်များကို သင်က ခဏရပ်ရန် သို့မဟုတ် ပြန်ရစ်ကြည့်နိုင်စေရန် ဖမ်းယူထားပါ။\nသတိပေးချက်- ယင်းက သိုလှောင်ခန်းကို အလွန်အကျူး သုံးစွဲခြင်းကြောင့် စက်တွင်းသိုလှောင်ခန်း သက်တမ်းကို လျော့ကျစေနိုင်သည်။"</string>
+<string name="settings_menu_licenses">ပင္မလုိင္စင္မ်ားဖြင့္မည္</string>
+<string name="settings_send_feedback"> တုန္ျပန္ခ်က္ပို</string>
+<string name="settings_menu_version">ဗားရွင္း</string>
+<string name="tvview_channel_locked">"ဤချန်နယ်ကို ကြည့်ရန် \"မှန်ပါတယ်\" ခလုတ်ကို နှိပ်ပြီး သင့် PIN ကို ဖြည့်ပါ"</string>
+<string name="tvview_content_locked">"ဤပရိုဂရမ်ကို ကြည့်ရန် ညာကို နှိပ်ပြီး သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="tvview_content_locked_unrated">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်မထားပါ။\nဤပရိုဂရမ်ကို ကြည့်ရန် ညာကို နှိပ်ပြီး သင်၏ PIN ကို ဖြည့်ပါ"</string>
+<string name="tvview_content_locked_format">"ဤပရိုဂရမ်ကို <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> အဆင့် သတ်မှတ်ထားသည်။\nဤပရိုဂရမ်ကို ကြည့်ရန် ညာကို နှိပ်ပြီး သင်၏ PIN ကို ဖြည့်ပါ။"</string>
+<string name="tvview_channel_locked_no_permission">"ဤချန်နယ်ကို ကြည့်ရန် ပုံသေတိုက်ရိုက်လွှင့် တီဗီအက်ပ်ကို သုံးပါ။"</string>
+<string name="tvview_content_locked_no_permission">"ဤပရိုဂရမ်ကို ကြည့်ရန် ပုံသေတိုက်ရိုက်လွှင့် တီဗီအက်ပ်ကို သုံးပါ။"</string>
+<string name="tvview_content_locked_unrated_no_permission">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်မထားပါ။\nဤပရိုဂရမ်ကို ကြည့်ရန် ပုံသေတိုက်ရိုက်လွှင့် တီဗီအက်ပ်ကို သုံးပါ။"</string>
+<string name="tvview_content_locked_format_no_permission">"ဤပရိုဂရမ်ကို <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> အဆင့် သတ်မှတ်ထားသည်။\nဤပရိုဂရမ်ကို ကြည့်ရန် ပုံသေတိုက်ရိုက်လွှင့် တီဗီအက်ပ်ကို သုံးပါ။"</string>
+<string name="shrunken_tvview_content_locked">"ပရိုဂရမ်ကို ပိတ်ဆို့ထားသည်"</string>
+<string name="shrunken_tvview_content_locked_unrated">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်မထားပါ"</string>
+<string name="shrunken_tvview_content_locked_format">"ဤပရိုဂရမ်ကို အဆင့် သတ်မှတ်ထားသည် <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"အသံသီးသန့်"</string>
+<string name="tvview_msg_weak_signal">"လိုင်းဆွဲအား နည်းသည်"</string>
+<string name="tvview_msg_no_internet_connection">"အင်တာနက် ကွန်နက်ရှင် မရှိပါ"</string>
+<string name="channel_banner_no_title">"ခေါင်းစဉ် မရှိပါ"</string>
+<string name="channel_banner_locked_channel_title">"ချန်နယ်ကို ပိတ်ဆို့ထားသည်"</string>
+<string name="setup_category_new">အသစ္</string>
+<string name="setup_category_done">"ရင်းမြစ်များ"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"ချန်နယ် %1$d ခု"</item>
+<item quantity="other">"ချန်နယ် %1$d ခု"</item>
+</plurals>
+<string name="setup_input_no_channels">"ရနိုင်သော ချန်နယ်များ မရှိပါ"</string>
+<string name="setup_input_new">အသစ္</string>
+<string name="setup_input_setup_now">တပ္ဆင္မႈမရွိ</string>
+<string name="setup_store_action_title">"နောက်ထပ် ရင်းမြစ်များ ရယူပါ"</string>
+<string name="setup_store_action_description">"တိုက်ရိုက်လွှင့်ချန်နယ်များကို ပေးသော အက်ပ်များကို ကြည့်ပါ"</string>
+<string name="new_sources_title">"ချန်နယ်ရင်းမြစ် အသစ်များ ရနိုင်သည်"</string>
+<string name="new_sources_description">"ချန်နယ်ရင်းမြစ် အသစ်များတွင် ကမ်းလှမ်းသည့် ချန်နယ်များ ရှိသည်။\n၎င်းတို့ကို ယခု သတ်မှတ်ပါ သို့မဟုတ် ချန်နယ်ရင်းမြစ်များ ဆက်တင်ထဲတွင် ယင်းအား နောက်မှလုပ်ပါ။"</string>
+<string name="new_sources_action_setup">ယခု ဆက္တင္လုပ္ပါ</string>
+<string name="new_sources_action_skip">အုိေက၊ ရပါၿပီ</string>
+<string name="intro_description">"တီဗီမီနူးကို ဝင်သုံးရန် <b>\"ရွေးချယ်ပါ\" ကို နှိပ်ပါ</b>။"</string>
+<string name="msg_no_input">"တီဗီ ထည့်သွင်းထားခြင်းကို မတွေ့ပါ"</string>
+<string name="msg_no_specific_input">"တီဗီ ထည့်သွင်းမှုကို ရှာ၍မရပါ"</string>
+<string name="msg_not_passthrough_input">"ကျူနာအမျိုးအစားသည် မသင့်တော်ပါ။ ကျူနာအမျိုးအစား တီဗီ ထည့်သွင်းမှုအတွက် <xliff:g id="app_name">Live TV</xliff:g> အက်ပ်ကို စဖွင့်ပေးပါ။"</string>
+<string name="msg_tune_failed">"ရွေးထားသည့် ချန်နယ်ကို မရနိုင်သေးပါ"</string>
+<string name="msg_missing_app">ဒီလႈပ္ရွားမႈတြင္ကိုင္တြယ္ ေျဖရွင္းရန္ မည္သည့္ ေအပီပီမွမေတြ႕ပါ</string>
+<string name="msg_all_channels_hidden">"ရင်းမြစ် ချန်နယ်များအားလုံးကို ဖျောက်ထားသည်။\nအနည်းဆုံး ကြည့်မည့်ချန်နယ်တစ်ခု ရွေးပေးပါ။"</string>
+<string name="msg_channel_unavailable_unknown">"မမျှော်လင့်ဘဲ ဗီဒီယိုကို မရနိုင်ဖြစ်သွားသည်"</string>
+<string name="msg_back_key_guide">"နောက်သို့ ကီးသည် ချိတ်ထားသော စက်အတွက်ဖြစ်သည်။ ထွက်ရန် ပင်မနေရာ (အိမ်) ခလုတ်ကို နှိပ်ပါ။"</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g> အက်ပ်သည် တီဗီစာရင်းများကို ဖတ်ရန် ခွင့်ပြုချက် လိုသည်။"</string>
+<string name="setup_sources_text">"သင်၏ ရင်းမြစ်များကို သတ်မှတ်ပါ"</string>
+<string name="setup_sources_description">"တိုက်ရိုက်လွှင့်ချန်နယ်များသည် သမရိုးကျ တီဗီ ချန်နယ်များနှင့် အက်ပ်များက ပံ့ပိုးပေးသော တိုက်ရိုက်လွှင့်ချန်နယ်များ၏ အတွေ့အကြုံကို ပေါင်းစပ်ပေးသည်။\n\nအင်စတောလုပ်ပြီးသား ချန်နယ်ရင်းမြစ်များကို သတ်မှတ်ခြင်းဖြင့် စတင်လိုက်ပါ။ သို့မဟုတ် တိုက်ရိုက်လွှင့်ချန်နယ်များကို ကမ်းလှမ်းသည့် နောက်ထပ်အက်ပ်များ ရရန် အွန်လိုင်းစတိုးများကို ကြည့်ပါ။"</string>
+<string name="channels_item_dvr">"အသံဖမ်းဖိုင်များနှင့် အချိန်ဇယားများ"</string>
+<string name="recording_start_dialog_10_min_duration">10 မိနစ္</string>
+<string name="recording_start_dialog_30_min_duration">30 မိနစ္</string>
+<string name="recording_start_dialog_1_hour_duration">1 နာရီ</string>
+<string name="recording_start_dialog_3_hours_duration">3 နာရီ</string>
+<string name="dvr_main_recent">မၾကာေသးမီက</string>
+<string name="dvr_main_scheduled">"အချိန်ဇယား ဆွဲထား"</string>
+<string name="dvr_main_series">"စီးရီးများ"</string>
+<string name="dvr_main_others">အျခား</string>
+<string name="dvr_msg_cannot_record_channel">"ချန်နယ်ကို မှတ်တမ်းတင်ထား၍ မရပါ။"</string>
+<string name="dvr_msg_cannot_record_program">"ပရိုဂရမ်ကို မှတ်တမ်းတင်ထား၍ မရပါ။"</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ကို မှတ်တမ်းတင်ထားရန် အချိန်ဇယားဆွဲထားသည်"</string>
+<string name="dvr_msg_current_program_scheduled">"ယခုမှစ၍ <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g> အထိ <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ကို မှတ်တမ်းတင်နေသည်"</string>
+<string name="dvr_full_schedule_card_view_title">"အချိန်ဇယား အပြည့်"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"နောက်ထပ် %1$d ရက်"</item>
+<item quantity="other">"နောက်ထပ် %1$d ရက်"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d မိနစ်"</item>
+<item quantity="other">"%1$d မိနစ်"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"ဖမ်းယူထားသောဖိုင် အသစ် %1$d ဖိုင်"</item>
+<item quantity="other">"ဖမ်းယူထားသော ဖိုင်အသစ် %1$d ဖိုင်"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်"</item>
+<item quantity="other">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်ကို အချိန်ဇယားဆွဲထားသည်"</item>
+<item quantity="other">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်ကို အချိန်ဇယားဆွဲထားသည်"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"ဖမ်းယူ မှတ်တမ်းမတင်တော့"</string>
+<string name="dvr_detail_stop_recording">"အသံဖမ်းခြင်းကို ရပ်ပါ"</string>
+<string name="dvr_detail_watch">နာရီ</string>
+<string name="dvr_detail_play_from_beginning">"အစမှ ဖွင့်ပါ"</string>
+<string name="dvr_detail_resume_play">ျပန္စဖြင့္မည္</string>
+<string name="dvr_detail_delete">"ပယ္ဖ်က္သည္"</string>
+<string name="dvr_detail_series_delete">"ဖမ်းယူထားသောဖိုင်များကို ဖျက်ပါ"</string>
+<string name="dvr_detail_series_resume">ဆက္လက္</string>
+<string name="dvr_detail_series_season_title">"ရာသီ <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"အချိန်ဇယား ကြည့်ရန်"</string>
+<string name="dvr_detail_read_more">"ပိုမို ဖတ်ရှုရန်"</string>
+<string name="dvr_series_deletion_title">"ဖမ်းယူထားသောဖိုင်များကို ဖျက်ပါ"</string>
+<string name="dvr_series_deletion_description">"သင်ဖျက်ပစ်လိုသော ဇာတ်လမ်းအပိုင်းများကို ရွေးချယ်ပါ။ ဖျက်ပစ်လိုက်သည်နှင့် ၎င်းတို့ကို ပြန်ယူ၍ မရပါ။"</string>
+<string name="dvr_series_deletion_no_recordings">"ဖျက်ပစ်စရာ ဖမ်းယူထားသော ဖိုင်များ မရှိပါ။"</string>
+<string name="dvr_series_select_watched">"ကြည့်ပြီးသော ဇာတ်လမ်းအပိုင်းများကို ရွေးချယ်ပါ"</string>
+<string name="dvr_series_select_all">"ဇာတ်လမ်းအပိုင်း အားလုံးကို ရွေးချယ်ပါ"</string>
+<string name="dvr_series_deselect_all">"ဇာတ်လမ်းအပိုင်း အားလုံးကို မရွေးတော့"</string>
+<string name="dvr_series_watched_info_minutes">"<xliff:g id="watched">%1$d</xliff:g> ၊ <xliff:g id="duration">%2$d</xliff:g> မိနစ် ကြည့်ပြီး"</string>
+<string name="dvr_series_watched_info_seconds">"<xliff:g id="watched">%1$d</xliff:g> ၊ <xliff:g id="duration">%2$d</xliff:g> စက္ကန့် ကြည့်ပြီး"</string>
+<string name="dvr_series_never_watched">"မကြည့်ထားသေး"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"ဇာတ်လမ်းအပိုင်း %2$d ပိုင်းအနက် %1$d ပိုင်းကို ဖျက်လိုက်သည်"</item>
+<item quantity="other">"ဇာတ်လမ်းအပိုင်း %2$d ပိုင်းအနက် %1$d ပိုင်းကို ဖျက်လိုက်သည်"</item>
+</plurals>
+<string name="dvr_series_settings_priority">"ဦးစားေပး"</string>
+<string name="dvr_series_settings_priority_highest">"အမြင့်ဆုံး"</string>
+<string name="dvr_series_settings_priority_lowest">"အနိမ့်ဆုံး"</string>
+<string name="dvr_series_settings_priority_rank">"နံပါတ်- <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"ချန်နယ်များ"</string>
+<string name="dvr_series_settings_channels_all">"ဘာမဆို"</string>
+<string name="dvr_priority_title">"ဦးစားပေး ရွေးပါ"</string>
+<string name="dvr_priority_description">"တစ်ချိန်တည်းတွင် များလွန်းလှသော ပရိုဂရမ်များကို ဖမ်းယူမှတ်တမ်းတင်သည့်အခါ ဦးစားပေးမှု ပိုမြင့်သည်များကိုသာ မှတ်တမ်းတင်ပါမည်။"</string>
+<string name="dvr_priority_button_action_save">သိမ္းပါ</string>
+<string name="dvr_priority_action_one_time_recording">"တစ်ကြိမ်စာ-မှတ်တမ်းတင်ခြင်းများသည် ဦးစားပေးမှု အမြင့်ဆုံးဖြစ်သည်"</string>
+<string name="dvr_action_stop">ရပ္</string>
+<string name="dvr_action_view_schedules">"အသံဖမ်း အချိန်ဇယားကို ကြည့်ရန်"</string>
+<string name="dvr_action_record_episode">"ဤပရိုဂရမ် တစ်ခုတည်း"</string>
+<string name="dvr_action_record_episode_from_now_description">"ယခု - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"စီးရီးများ တစ်ခုလုံး…"</string>
+<string name="dvr_action_record_anyway">"မည်သည့်နည်းဖြင့်မဆို အချိန်ဇယားဆွဲပါ"</string>
+<string name="dvr_action_record_instead">"ယင်းအစား ဤတစ်ခုကို မှတ်တမ်းတင်ပါ"</string>
+<string name="dvr_action_record_cancel">"ဤမှတ်တမ်းတင်မှုကို မလုပ်တော့"</string>
+<string name="dvr_action_watch_now">"ယခု ကြည့်မည်"</string>
+<string name="dvr_action_delete_recordings">"ဖမ်းယူထားသောဖိုင်များကို ဖျက်ပါ…"</string>
+<string name="dvr_epg_program_recordable">"မှတ်တမ်းတင်ဖမ်းယူနိုင်"</string>
+<string name="dvr_epg_program_recording_scheduled">"မှတ်တမ်းတင်ရန် အချိန်ဇယားဆွဲထားသည်"</string>
+<string name="dvr_epg_program_recording_conflict">"မှတ်တမ်းတင်ရာတွင် ကွဲလွဲမှုရှိနေသည်"</string>
+<string name="dvr_epg_program_recording_in_progress">မွတ္တမ္းတင္ေနသည္</string>
+<string name="dvr_epg_program_recording_failed">"မှတ်တမ်းတင်ခြင်း မအောင်မြင်ပါ"</string>
+<string name="dvr_series_progress_message_reading_programs">"ပရိုဂရမ်များကို ဖတ်နေသည်"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"မကြာသေးမီက မှတ်တမ်းတင်ဖိုင်များကို ကြည့်ရန်"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> မှတ်တမ်းတင်ဖိုင်သည် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g> နှင့် <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> မှတ်တမ်းတင်ဖိုင်တို့သည် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g>၊ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> နှင့် <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> မှတ်တမ်းတင်ဖိုင်တို့သည် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> မှတ်တမ်းတင်ဖိုင်သည် သိုလှောင်ခန်းမလုံလောက်ခြင်းကြောင့် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g> နှင့် <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> မှတ်တမ်းတင်ဖိုင်တို့သည် သိုလှောင်ခန်းမလုံလောက်ခြင်းကြောင့် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g>၊ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> နှင့် <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> မှတ်တမ်းတင်ဖိုင်တို့သည် သိုလှောင်ခန်းမလုံလောက်ခြင်းကြောင့် မပြည့်စုံပါ။"</string>
+<string name="dvr_error_small_sized_storage_title">"နောက်ထပ် သိုလှောင်ခန်း လိုအပ်သည်"</string>
+<string name="dvr_error_small_sized_storage_description">"သင်သည် ပရိုဂရမ်များကို မှတ်တမ်းတင်နိုင်မည်ဖြစ်သည်။ သို့သော် စတင်မှတ်တမ်းတင်ရန် သင်၏ စက်ပေါ်တွင် သိုလှောင်ခန်း မလုံလောက်ပါ။ <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>GB သို့မဟုတ် ပိုကြီးသော ပြင်ပ ဒရိုက်ဗ်တစ်ခုနှင့် ချိတ်ဆက်ပြီး စက်သိုလှောင်ခန်းအဖြစ် ဖောမတ်ချရန် အောက်ပါအဆင့်များကို လိုက်လုပ်ပါ။"</string>
+<string name="dvr_error_no_free_space_title">"သိုလှောင်ခန်း မလုံလောက်ပါ"</string>
+<string name="dvr_error_no_free_space_description">"သိုလှောင်ခန်း မလုံလောက်သောကြောင့် ဤပရိုဂရမ်ကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။ ရှိပြီးသား မှတ်တမ်းတင်ဖမ်းယူမှု အချို့ကို ဖျက်ကြည့်ပါ။"</string>
+<string name="dvr_error_missing_storage_title">"သိုလှောင်ခန်း ပျောက်နေသည်"</string>
+<string name="dvr_stop_recording_dialog_title">"အသံဖမ်းခြင်းကို ရပ်မလား။"</string>
+<string name="dvr_stop_recording_dialog_description">"မှတ်တမ်းတင်ထားသော အကြောင်းအရာကို သိမ်းလိုက်ပါမည်။"</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> သည် ဤပရိုဂရမ်နှင့် ကွဲပြားနေသဖြင့် ၎င်းအား မှတ်တမ်းတင် ဖမ်းယူမှု ရပ်သွားသည်။ မှတ်တမ်းတင်ထားသော အကြောင်းအရာကို သိမ်းလိုက်ပါမည်။"</string>
+<string name="dvr_program_conflict_dialog_title">"မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားဆွဲထားသော်လည်း ကွဲလွဲမှုများ ရှိသည်"</string>
+<string name="dvr_channel_conflict_dialog_title">"မှတ်တမ်းတင်ခြင်းကို စတင်လိုက်သော်လည်း ကွဲလွဲမှုများရှိသည်"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> ကို မှတ်တမ်းတင် ဖမ်းယူပါမည်။"</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> ကို မှတ်တမ်းတင် ဖမ်းယူနေသည်။"</string>
+<string name="dvr_program_conflict_dialog_description_1">"<xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> ၏ အချို့အပိုင်းများကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</string>
+<string name="dvr_program_conflict_dialog_description_2">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> နှင့် <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ၏ အချို့အပိုင်းများကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</string>
+<string name="dvr_program_conflict_dialog_description_3">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>၊ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> နှင့် နောက်ထပ်အချိန်ဇယားတစ်ခုတို့ကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>၊ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> နှင့် နောက်ထပ်အချိန်ဇယား %3$d တို့ကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</item>
+<item quantity="other">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>၊ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> နှင့် နောက်ထပ်အချိန်ဇယားများ %3$d တို့ကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"သင်ဘာကို မှတ်တမ်းတင်လိုပါသလဲ။"</string>
+<string name="dvr_channel_record_duration_dialog_title">"မည်မျှကြာအောင် သင်က မှတ်တမ်းတင်လိုပါသလဲ။"</string>
+<string name="dvr_already_scheduled_dialog_title">"အချိန်ဇယား ဆွဲထားပြီး"</string>
+<string name="dvr_already_scheduled_dialog_description">"တူညီသော ပရိုဂရမ်ကို <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g> တွင် မှတ်တမ်းတင်ရန် အချိန်ဇယား ဆွဲထားပြီးဖြစ်သည်။"</string>
+<string name="dvr_already_recorded_dialog_title">"မှတ်တမ်းတင်ပြီးသား"</string>
+<string name="dvr_already_recorded_dialog_description">"ဤပရိုဂရမ်ကို မှတ်တမ်းတင်ထားပြီးသား ဖြစ်သည်။ DVR လိုက်ဘရီတွင် ၎င်းကို ရနိုင်သည်။"</string>
+<string name="dvr_series_recording_dialog_title">"စီးရီးများအား မှတ်တမ်းတင်ရန် အချိန်ဇယားဆွဲထားသည်"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> တွင် <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားဆွဲထားသည်။"</item>
+<item quantity="other">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> တွင် <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားဆွဲထားသည်။"</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> တွင် <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားဆွဲထားသည်။ ကွဲပြားမှုများရှိ၍ ၎င်းကို မှတ်တမ်းတင် ဖမ်းယူမည်မဟုတ်ပါ။"</item>
+<item quantity="other">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် ၎င်းတို့အနက် <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> ဖိုင်ကို မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် ဤစီးရီး၏ ဇာတ်လမ်းအပိုင်း <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ပိုင်းနှင့် အခြားစီးရီးများကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+<item quantity="other">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် ဤစီးရီး၏ ဇာတ်လမ်းအပိုင်း <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ပိုင်းနှင့် အခြားစီးရီးများကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် အခြားစီးရီးများ၏ ဇာတ်လမ်းအပိုင်း 1 ပိုင်း ကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+<item quantity="other">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် အခြားစီးရီးများ၏ ဇာတ်လမ်းအပိုင်း 1 ပိုင်းကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် အခြားစီးရီးများ၏ ဇာတ်လမ်းအပိုင်း <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ပိုင်း ကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+<item quantity="other">"<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> အတွက် <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ဖိုင် မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယား ဆွဲထားသည်။ ကွဲပြားမှုများ ရှိသောကြောင့် အခြားစီးရီးများ၏ ဇာတ်လမ်းအပိုင်း <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ပိုင်းကို မှတ်တမ်းတင်မည်မဟုတ်ပါ။"</item>
+</plurals>
+<string name="dvr_program_not_found">"မှတ်တမ်းတင်ထားသော ပရိုဂရမ်ကို မတွေ့ပါ။"</string>
+<string name="dvr_playback_related_recordings">"သက်ဆိုင်သော မှတ်တမ်းတင်ဖိုင်များ"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်"</item>
+<item quantity="other">"ဖမ်းယူထားသောဖိုင် %1$d ဖိုင်"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">"&#160;/&#160;"</string>
+<string name="dvr_schedules_deletion_info">"မှတ်တမ်းတင်ဖမ်းယူသည့် အချိန်ဇယားမှ <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ကို ဖယ်ရှားလိုက်သည်"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"ကျူနာကွဲပြားမှုများကြောင့် တစ်စိတ်တစ်ပိုင်း မှတ်တမ်းတင်ပါမည်။"</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"ကျူနာကွဲပြားမှုများကြောင့် မှတ်တမ်းတင်မည် မဟုတ်ပါ။"</string>
+<string name="dvr_schedules_empty_state">"မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားများ မဆွဲရသေးပါ။\nပရိုဂရမ်လမ်းညွှန်ကို ကြည့်၍ သင်က မှတ်တမ်းတင်ဖမ်းယူရန် အချိန်ဇယားဆွဲနိုင်သည်။"</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"မှတ်တမ်းတင်ဖမ်းယူမှု ကွဲပြားခြင်း %1$d ခု"</item>
+<item quantity="other">"မှတ်တမ်းတင်ဖမ်းယူမှု ကွဲပြားခြင်း %1$d ခု"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"စီးရီးများ၏ ဆက်တင်များ"</string>
+<string name="dvr_series_schedules_start">"စီးရီးများ မှတ်တမ်းတင်ခြင်းကို စတင်ပါ"</string>
+<string name="dvr_series_schedules_stop">"စီးရီးများ မှတ်တမ်းတင်ခြင်းကို ရပ်ပါ"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"စီးရီးများ မှတ်တမ်းတင်ခြင်းကို ရပ်မလား။"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"DVR လိုက်ဘရီထဲတွင် မှတ်တမ်းတင်ထားသော ဇာတ်လမ်းအပိုင်းများကို ရနိုင်ဆဲ ဖြစ်ပါလိမ့်မည်။"</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">ရပ္</string>
+<string name="dvr_series_schedules_stopped_empty_state">"ယခု လွှင့်နေသော ဇာတ်လမ်းအပိုင်းများ မရှိပါ။"</string>
+<string name="dvr_series_schedules_empty_state">"မည်သည့် ဇာတ်လမ်းအပိုင်းကိုမျှ မရနိုင်ပါ။\n၎င်းတို့ကို ရနိုင်သည်နှင့် မှတ်တမ်းတင်ဖမ်းယူပါမည်။"</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d မိနစ်) "</item>
+<item quantity="other">"(%1$d မိနစ်)"</item>
+</plurals>
+<string name="dvr_date_today">ဒီေန႕</string>
+<string name="dvr_date_tomorrow">မနက္ျဖန္</string>
+<string name="dvr_date_yesterday">မေန႔က</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> ယနေ့"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> မနက်ဖြန်"</string>
+<string name="program_guide_critic_score">"ရမှတ်"</string>
+<string name="recorded_programs_preview_channel">"မှတ်တမ်းတင်ထားသော ပရိုဂရမ်များ"</string>
+</resources>

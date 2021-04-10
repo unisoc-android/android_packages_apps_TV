@@ -103,7 +103,7 @@
     <!-- no translation found for option_attribution (2967657807178951562) -->
     <skip />
     <!-- String.format failed for translation -->
-    <!-- no translation found for option_subrating_title (5485055507818077595) -->
+    <string name="option_subrating_title">"%1$s e sub-classificazione"</string>
     <skip />
     <string name="option_subrating_header" msgid="4637961301549615855">"Classificazioni secondarie"</string>
     <string name="pin_enter_unlock_channel" msgid="4797922378296393173">"Inserisci il codice PIN per guardare questo canale"</string>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>Normal</item>
+<item>"Penuh"</item>
+<item>"Zum"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"Semua saluran"</item>
+<item>"Keluarga/Kanak-kanak"</item>
+<item>"Sukan"</item>
+<item>"Beli-belah"</item>
+<item>"Filem"</item>
+<item>"Komedi"</item>
+<item>"Pelancongan"</item>
+<item>"Drama"</item>
+<item>"Pendidikan"</item>
+<item>"Haiwan/Hidupan Liar"</item>
+<item>"Berita"</item>
+<item>"Permainan"</item>
+<item>"Seni"</item>
+<item>"Hiburan"</item>
+<item>"Gaya Hidup"</item>
+<item>"Muzik"</item>
+<item>"Premier"</item>
+<item>"Teknologi/Sains"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"Cara yang mudah untuk mencari kandungan"</item>
+<item>"Muat turun aplikasi, dapatkan lebih banyak saluran"</item>
+<item>"Sesuaikan barisan saluran anda"</item>
+</string-array>
+</resources>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">"ඒකල"</string>
+<string name="audio_channel_stereo">"ස්ටීරියෝ"</string>
+<string name="menu_title_play_controls">"පාලන වාදනය කරන්න"</string>
+<string name="menu_title_channels">"නාලිකා"</string>
+<string name="menu_title_options">"රූපවාහිනි විකල්ප"</string>
+<string name="play_controls_unavailable">"මෙම නාළිකා සඳහා වාදන පාලනයන් නොමැත"</string>
+<string name="play_controls_description_play_pause">"වාදනය කරන්න නැතහොත් අත්හිටුවන්න"</string>
+<string name="play_controls_description_fast_forward">"ශීග්‍රයෙන් ඉදිරියට"</string>
+<string name="play_controls_description_fast_rewind">"පසුධාවනය කරන්න"</string>
+<string name="play_controls_description_skip_next">"ඊළඟ"</string>
+<string name="play_controls_description_skip_previous">"පෙර"</string>
+<string name="channels_item_program_guide">"වැඩසටහන් අත්වැල"</string>
+<string name="channels_item_setup">"නව නාළිකා තිබේ"</string>
+<string name="channels_item_app_link_app_launcher">"විවෘත කරන්න <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"සංවෘත සිරස්තල"</string>
+<string name="options_item_display_mode">"ප්‍රදර්ශන මාදිලිය"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"බහු-ශ්‍රව්‍ය"</string>
+<string name="options_item_more_channels">"තව නාළිකා ලබා ගන්න"</string>
+<string name="options_item_settings">"සැකසීම්"</string>
+<string name="input_long_label_for_tuner">"TV (ඇන්ටෙනාව/කේබලය)"</string>
+<string name="no_program_information">"වැඩසටහන් තොරතුරු නැත"</string>
+<string name="program_title_for_no_information">"තොරතුරු නැත"</string>
+<string name="program_title_for_blocked_channel">"අවහිර කළ නාළිකාව"</string>
+<string name="multi_audio_unknown_language">"නොදන්නා භාෂාව"</string>
+<string name="closed_caption_unknown_language">"සංවෘත සිරස්තලය <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"සංවෘත සිරස්තල"</string>
+<string name="closed_caption_option_item_off">"ඕෆ් කරන්න"</string>
+<string name="closed_caption_system_settings">"ආකෘතිකරණය ගැලපුම් කරන්න"</string>
+<string name="closed_caption_system_settings_description">"සංවෘත සිරස්තල සඳහා පද්ධති-ව්‍යාප්ත වරණයන් සකසන්න"</string>
+<string name="side_panel_title_display_mode">"ප්‍රදර්ශන මාදිලිය"</string>
+<string name="side_panel_title_multi_audio">"බහු-ශ්‍රව්‍ය"</string>
+<string name="multi_audio_channel_mono">"ඒකල"</string>
+<string name="multi_audio_channel_stereo">"ස්ටීරියෝ"</string>
+<string name="multi_audio_channel_surround_6">"5.1 සිසාරා"</string>
+<string name="multi_audio_channel_surround_8">"7.1 සිසාරා"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> නාළිකා"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"නාළිකා ලැයිස්තුව ගලපන්න"</string>
+<string name="edit_channels_item_select_group">"කණ්ඩායම තෝරන්න"</string>
+<string name="edit_channels_item_deselect_group">"කණ්ඩායමේ තේරීම් ඉවත් කරන්න"</string>
+<string name="edit_channels_item_group_by">"මේ අනුව කණ්ඩායම"</string>
+<string name="edit_channels_group_by_sources">"නාළිකා මූලාශ්‍රය"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">"මේ අනුව කණ්ඩායම"</string>
+<string name="program_guide_content_locked">"මෙම වැඩසටහන අවහිර කර තිබේ"</string>
+<string name="program_guide_content_locked_unrated">"මෙම වැඩසටහනේ ශ්‍රේණි කිරීම් ඉවත් කර තිබේ"</string>
+<string name="program_guide_content_locked_format">"මෙම වැඩසටහන ශ්‍රේණි කර තිබේ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"ඇතුළු කිරීම ස්වයං-ස්කෑන් කිරීමට ආධාරක නොවේ"</string>
+<string name="msg_unable_to_start_setup_activity">"\'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\' සඳහා ස්වයං ස්කෑන් ආරම්භ කළ නොහැක"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"පද්ධති ව්‍යාප්ත වරණයන් සංවෘත සිරස්තල සඳහා භාවිතා කළ නොහැක."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"%1$d නාළිකාව එක් කරන ලදි"</item>
+<item quantity="other">"%1$d නාළිකා එක් කරන ලදි"</item>
+</plurals>
+<string name="msg_no_channel_added">"කිසිදු නාළිකාවක් එක් කර නැත"</string>
+<string name="menu_parental_controls">"දෙමාපිය පාලනයන්"</string>
+<string name="option_toggle_parental_controls_on">"ක්‍රියාත්මකයි"</string>
+<string name="option_toggle_parental_controls_off">"ඕෆ් කරන්න"</string>
+<string name="option_channels_locked">"නාළිකා අවහිර කරන ලදි"</string>
+<string name="option_channels_lock_all">"සියල්ල අවහිර කරන්න"</string>
+<string name="option_channels_unlock_all">"සියල්ලේ අවහිර ඉවත් කරන්න"</string>
+<string name="option_channels_subheader_hidden">"සැඟවුණු නාළිකා"</string>
+<string name="option_program_restrictions">"වැඩසටහන් සීමාකම්"</string>
+<string name="option_change_pin">"PIN වෙනස් කරන්න"</string>
+<string name="option_country_rating_systems">"ශ්‍රේණිකරණ ක්‍රම"</string>
+<string name="option_ratings">"ශ්‍රේණිකරණ"</string>
+<string name="option_see_all_rating_systems">"සියලු ශ්‍රේණිකරණ ක්‍රම බලන්න"</string>
+<string name="other_countries">"අනෙකුත් රටවල්"</string>
+<string name="option_no_locked_channel">"කිසිවක් නැත"</string>
+<string name="option_no_enabled_rating_system">"කිසිවක් නැත"</string>
+<string name="unrated_rating_name">"ශ්‍රේණි නොකළ"</string>
+<string name="option_block_unrated_programs">"ශ්‍රේණි නොකළ වැඩසටහන් අවහිර කරන්න"</string>
+<string name="option_rating_none">"කිසිවක් නැත"</string>
+<string name="option_rating_high">"ඉහළ සීමා"</string>
+<string name="option_rating_medium">"මධ්‍යම සීමා"</string>
+<string name="option_rating_low">"පහළ සීමා"</string>
+<string name="option_rating_custom">"අභිරුචි"</string>
+<string name="option_rating_high_description">"ළමුන් සඳහා සුදුසු අන්තර්ගතය"</string>
+<string name="option_rating_medium_description">"වැඩිහිටි ළමුන් සඳහා සුදුසු අන්තර්ගතය"</string>
+<string name="option_rating_low_description">"යෞවනයන් සඳහා සුදුසු අන්තර්ගතය"</string>
+<string name="option_rating_custom_description">"අතින් සකසන සීමා"</string>
+<string name="option_subrating_title">"%1$s සහ අනු ශ්‍රේණිකරණ"</string>
+<string name="option_subrating_header">"අනු ශ්‍රේණිකරණ"</string>
+<string name="pin_enter_unlock_channel">"මෙම නාළිකාව නැරඹීට ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_unlock_program">"මෙම වැඩසටහන නැරඹීට ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_unlock_dvr">"මෙම වැඩසටහන ශ්‍රේණි කර තිබේ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> මෙම වැඩසටහන නැරඹීට ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_unlock_dvr_unrated">"මෙම වැඩසටහනේ ශ්‍රේණි කිරීම් ඉවත් කර තිබේ මෙම වැඩසටහන නැරඹීට ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_pin">"ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_create_pin">"දෙමාපිය පාලන සැකසීමට, PIN එකක් සාදන්න"</string>
+<string name="pin_enter_new_pin">"නව PIN ඇතුළු කරන්න"</string>
+<string name="pin_enter_again">"නව PIN තහවුරු කරන්න"</string>
+<string name="pin_enter_old_pin">"ඔබේ වත්මන් PIN ඇතුළු කරන්න"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"ඔබ 5 වරක් වැරදි PIN ඇතුළු කර තිබේ.\nතත්පර <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> කින් නැවත උත්සාහ කරන්න."</item>
+<item quantity="other">"ඔබ 5 වරක් වැරදි PIN ඇතුළු කර තිබේ.\nතත්පර <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> කින් නැවත උත්සාහ කරන්න."</item>
+</plurals>
+<string name="pin_toast_wrong">"එම PIN වැරදිය. නැවත උත්සාහ කරන්න."</string>
+<string name="pin_toast_not_match">"නැවත උත්සහ කරන්න,PIN නොගැළපේ"</string>
+<string name="side_panel_title_settings">"සැකසීම්"</string>
+<string name="settings_channel_source_item_customize_channels">"නාළිකා ලැයිස්තුව ගලපන්න"</string>
+<string name="settings_channel_source_item_customize_channels_description">"ඔබේ වැඩසටහන් අත්වැල සඳහා නාළිකා තෝරන්න."</string>
+<string name="settings_channel_source_item_setup">"නාළිකා මූලාශ්‍ර"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"නව නාළිකා තිබේ"</string>
+<string name="settings_parental_controls">"දෙමාපිය පාලනයන්"</string>
+<string name="settings_trickplay">"කාල සේවාමුරය"</string>
+<string name="settings_trickplay_description">"නරඹන අතරතුර පටිගත කරන්න එවිට ඔබට සජීවී වැඩසටහන් අතරතුර අත්හිටුවීමට හෝ නැවත එතීමට හැකිය.\nඅවවාදයයි: ගබඩාව අධික ලෙස භාවිතා කිරීම හේතුවෙන් අභ්‍යන්තර ගබඩාවේ ආයුකාලය අඩු විය හැකිය."</string>
+<string name="settings_menu_licenses">"විවෘත මූලාශ්‍ර බලපත්‍ර"</string>
+<string name="settings_send_feedback">"ප්‍රතිපෝෂණය යවන්න"</string>
+<string name="settings_menu_version">"අනුවාදය"</string>
+<string name="tvview_channel_locked">"මෙම නාළිකාව නැරඹීමට, දකුණ ඔබා ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="tvview_content_locked">"මෙම වැඩසටහන නැරඹීමට, දකුණ ඔබා ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="tvview_content_locked_unrated">"මෙම වැඩසටහන ශ්‍රේණි කර නැත.\nමෙම වැඩසටහන නැරඹීමට, කරුණාකර දකුණ ඔබා ඔබේ PIN ඇතුළු කරන්න"</string>
+<string name="tvview_content_locked_format">"මෙම වැඩසටහන ශ්‍රේණි කර ඇත<xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nමෙම වැඩසටහන නැරඹීමට, කරුණාකර දකුණ ඔබා ඔබේ PIN ඇතුළු කරන්න."</string>
+<string name="tvview_channel_locked_no_permission">"මෙම නාළිකාව නැරඹීමට, පෙරනිමි සජීවී TV යෙදුම භාවිතා කරන්න."</string>
+<string name="tvview_content_locked_no_permission">"මෙම වැඩසටහන නැරඹීමට, පෙරනිමි සජීවී TV යෙදුම භාවිතා කරන්න."</string>
+<string name="tvview_content_locked_unrated_no_permission">"මෙම වැඩසටහනේ ශ්‍රේණි කිරීම් ඉවත් කර තිබේ.\nමෙම වැඩසටහන නැරඹීමට, පෙරනිමි සජීවී TV යෙදුම භාවිතා කරන්න."</string>
+<string name="tvview_content_locked_format_no_permission">"මෙම වැඩසටහන ශ්‍රේණි කර තිබේ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nමෙම වැඩසටහන නැරඹීමට, පෙරනිමි සජීවී TV යෙදුම භාවිතා කරන්න."</string>
+<string name="shrunken_tvview_content_locked">"වැඩසටහන අවහිර කර තිබේ"</string>
+<string name="shrunken_tvview_content_locked_unrated">"මෙම වැඩසටහනේ ශ්‍රේණි කිරීම් ඉවත් කර තිබේ"</string>
+<string name="shrunken_tvview_content_locked_format">"මෙම වැඩසටහන ශ්‍රේණි කර තිබේ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"ශ්‍රව්‍ය පමණි"</string>
+<string name="tvview_msg_weak_signal">"දුර්වලසංඥා"</string>
+<string name="tvview_msg_no_internet_connection">"අන්තර්ජාල සබඳතාවක් නැත"</string>
+<string name="channel_banner_no_title">"මාතෘකා නැත"</string>
+<string name="channel_banner_locked_channel_title">"නාළිකාව අවහිර කරන ලදි"</string>
+<string name="setup_category_new">"නව"</string>
+<string name="setup_category_done">"මූලාශ්‍ර"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d නාළිකාව"</item>
+<item quantity="other">"%1$d නාළිකා"</item>
+</plurals>
+<string name="setup_input_no_channels">"නාළිකා නොමැත"</string>
+<string name="setup_input_new">"නව"</string>
+<string name="setup_input_setup_now">"පිහිටුවා නැත"</string>
+<string name="setup_store_action_title">"තව මූලාශ්‍ර ලබා ගන්න"</string>
+<string name="setup_store_action_description">"සජීවී නාළිකා ලබා දෙන යෙදුම් බ්‍රව්ස් කරන්න"</string>
+<string name="new_sources_title">"නව නාළිකා මූලාශ්‍ර තිබේ"</string>
+<string name="new_sources_description">"නව නාළිකා මූලාශ්‍රවලට ලබා දීම සඳහා නාළිකා තිබේ.\nඒවා දැන් සකසන්න, එසේ නැතහොත් නාළිකා මූලාශ්‍ර සැකසුම්වල පසුව සකසන්න."</string>
+<string name="new_sources_action_setup">"දැන් පිහිටුවන්න"</string>
+<string name="new_sources_action_skip">"හරි, එය වැටහුණා"</string>
+<string name="intro_description">"<b> තෝරන්න ඔබා</b> TV මෙනුව වෙත පිවිසෙන්න."</string>
+<string name="msg_no_input">"කිසිදු TV යෙදුමක් හමු වී නැත"</string>
+<string name="msg_no_specific_input">"TV යෙදුම සොයා ගත නොහැක"</string>
+<string name="msg_not_passthrough_input">"සුසරයේ වර්ගය සුදුසු නැත. සුසර වර්ග ටීවී ඇතුළු කිරීම සඳහා කරුණාකර <xliff:g id="app_name">Live TV</xliff:g> යෙදුම දියත් කරන්න."</string>
+<string name="msg_tune_failed">"ටියුන් කිරීම අසාර්ථකයි"</string>
+<string name="msg_missing_app">"මෙම ක්‍රියාව හැසිරීමට හැකි යෙදුමක් සොයා නොගන්නා ලදී."</string>
+<string name="msg_all_channels_hidden">"සියලු මූලාශ්‍ර නාළිකා සැඟවී තිබේ.\nඅඩු වශයෙන් නැරඹීමට එක් නාළිකාවක් තෝරන්න."</string>
+<string name="msg_channel_unavailable_unknown">"වීඩියෝව අපේක්ෂා නොකළ ලෙස ලබා ගැනීමට නැත"</string>
+<string name="msg_back_key_guide">"ආපසු යතුර සම්බන්ධ කළ උපාංගය සඳහා වේ. ඉවත් වීමට මුල්පිටුව බොත්තම ඔබන්න."</string>
+<string name="msg_read_tv_listing_permission_denied">"ටීවී ලැයිස්තු කියවීමට <xliff:g id="app_name">Live TV</xliff:g>ට අවසර අවශ්‍යයි."</string>
+<string name="setup_sources_text">"ඔබේ මූලාශ්‍ර සකසන්න"</string>
+<string name="setup_sources_description">"සජීවී නාළිකා සාම්ප්‍රදායික TV නාළිකා යෙදුම් මඟින් සපයනු ලබන ප්‍රවාහ වන නාළිකා සමඟ වන අත්දැකීම ඒකාබද්ධ කරවයි.\n\nදැනටමත් ස්ථාපනය කර ඇති නාළිකා මූලාශ්‍ර සකසමින් ආරම්භ කරන්න. එසේ නැතහොත් සජීවී නාළිකා ලබා දෙන යෙදුම් සඳහා අන්තර්ජාලය බ්‍රව්ස් කරන්න."</string>
+<string name="channels_item_dvr">"පටිගත කිරීම් සහ සැලසුම්"</string>
+<string name="recording_start_dialog_10_min_duration">"විනාඩි10 "</string>
+<string name="recording_start_dialog_30_min_duration">"මිනිත්තු 30"</string>
+<string name="recording_start_dialog_1_hour_duration">"පැය 1"</string>
+<string name="recording_start_dialog_3_hours_duration">"පැය 3"</string>
+<string name="dvr_main_recent">"මෑත"</string>
+<string name="dvr_main_scheduled">"සැලසුම්ගත"</string>
+<string name="dvr_main_series">"කාණ්ඩ"</string>
+<string name="dvr_main_others">"වෙනත්"</string>
+<string name="dvr_msg_cannot_record_channel">"නාළිකාව පටිගත කළ නොහැක."</string>
+<string name="dvr_msg_cannot_record_program">"වැඩසටහන පටිගත කළ නොහැක."</string>
+<string name="dvr_msg_program_scheduled">"පටිගත කිරීම සඳහා <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> සැලසුම් කර තිබේ"</string>
+<string name="dvr_msg_current_program_scheduled">"පටිගත කිරීම <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> දැන් සිට <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g> දක්වා"</string>
+<string name="dvr_full_schedule_card_view_title">"පුර්ණ සැලසුම"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"ඊළඟ දිනය %1$d"</item>
+<item quantity="other">"ඊළඟ දින %1$d"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d විනාඩිය"</item>
+<item quantity="other">"%1$d විනාඩි"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d නව පටිගත කිරීම"</item>
+<item quantity="other">"%1$d නව පටිගත කිරීම්"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d පටිගත කිරීම"</item>
+<item quantity="other">"%1$d පටිගත කිරීම්"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d පටිගත කිරීම සැලසුම් කරන ලදි"</item>
+<item quantity="other">"%1$d පටිගත කිරීම් සැලසුම් කරන ලදි"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"පටිගත කිරීම අවලංගු කරන්න"</string>
+<string name="dvr_detail_stop_recording">"පටිගත කිරීම නවත්වන්න"</string>
+<string name="dvr_detail_watch">"නරඹන්න"</string>
+<string name="dvr_detail_play_from_beginning">"ආරම්භයේ සිට වාදනය කරන්න"</string>
+<string name="dvr_detail_resume_play">"වාදනය කිරීම නැවත අරඹන්න"</string>
+<string name="dvr_detail_delete">"මකන්න"</string>
+<string name="dvr_detail_series_delete">"පටිගත කිරීම් මකන්න"</string>
+<string name="dvr_detail_series_resume">"නැවත ලබා ගන්න"</string>
+<string name="dvr_detail_series_season_title">"කාලසීමාව <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"සැලසුම පෙන්වන්න"</string>
+<string name="dvr_detail_read_more">"තව කියවන්න"</string>
+<string name="dvr_series_deletion_title">"පටිගත කිරීම් මකන්න"</string>
+<string name="dvr_series_deletion_description">"ඔබ මැකීමට කැමති කථාංග තෝරන්න. මැකූ පසුව ඒවා නැවත ලබා ගත නොහැක."</string>
+<string name="dvr_series_deletion_no_recordings">"මැකීමට පටිගත කිරීම් නැත."</string>
+<string name="dvr_series_select_watched">"නැරඹූ කථාංග තෝරන්න"</string>
+<string name="dvr_series_select_all">"සියලු කථාංග තෝරන්න"</string>
+<string name="dvr_series_deselect_all">"සියලු කථාංගවල තේරීම් ඉවත් කරන්න"</string>
+<string name="dvr_series_watched_info_minutes">"විනාඩි <xliff:g id="duration">%2$d</xliff:g> කින් <xliff:g id="watched">%1$d</xliff:g> නරඹන ලදි"</string>
+<string name="dvr_series_watched_info_seconds">"තත්පර <xliff:g id="duration">%2$d</xliff:g> කින් <xliff:g id="watched">%1$d</xliff:g> නරඹන ලදි"</string>
+<string name="dvr_series_never_watched">"කිසිදා නොනැරඹූ"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%2$d කින් %1$d කථාංගය මැකී තිබේ"</item>
+<item quantity="other">"%2$d කින් %1$d කථාංග මැකී තිබේ"</item>
+</plurals>
+<string name="dvr_series_settings_priority">"ප්‍රමුඛතාව"</string>
+<string name="dvr_series_settings_priority_highest">"ඉහළම"</string>
+<string name="dvr_series_settings_priority_lowest">"පහළම"</string>
+<string name="dvr_series_settings_priority_rank">"නැත. <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"නාලිකා"</string>
+<string name="dvr_series_settings_channels_all">"ඕනෑම"</string>
+<string name="dvr_priority_title">"ප්‍රමුඛතාව තෝරන්න"</string>
+<string name="dvr_priority_description">"එකම අවස්ථාවක පටිගත කිරීමට වැඩසටහන් කිහිපයක් තිබෙන විට, ඉහළ ප්‍රමුඛතාව ඇති ඒවා පමණක් පටිගත කෙරෙනු ඇත."</string>
+<string name="dvr_priority_button_action_save">"සුරකින්න"</string>
+<string name="dvr_priority_action_one_time_recording">"එක් අවස්ථා පටිගත කිරීම්වලට ඉහළ ප්‍රමුඛතාවයක් තිබේ"</string>
+<string name="dvr_action_stop">"නතර කරන්න"</string>
+<string name="dvr_action_view_schedules">"පටිගත කිරීමේ සැලැස්ම පෙන්වන්න"</string>
+<string name="dvr_action_record_episode">"මෙම තනි වැඩසටහන"</string>
+<string name="dvr_action_record_episode_from_now_description">"දැන් - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"සමස්ත කාණ්ඩ…"</string>
+<string name="dvr_action_record_anyway">"කෙසේවෙතත් සැලසුම් කරන්න"</string>
+<string name="dvr_action_record_instead">"ඒ වෙනුවට මෙය පටිගත කරන්න"</string>
+<string name="dvr_action_record_cancel">"මෙම පටිගත කිරීම අවලංගු කරන්න"</string>
+<string name="dvr_action_watch_now">"දැන් නරඹන්න"</string>
+<string name="dvr_action_delete_recordings">"පටිගත කිරීම් මකන්න…"</string>
+<string name="dvr_epg_program_recordable">"පටිගත කළ හැකි"</string>
+<string name="dvr_epg_program_recording_scheduled">"පටිගත කිරීම සැලසුම් කරන ලදි"</string>
+<string name="dvr_epg_program_recording_conflict">"පටිගත කිරීමේ අර්බුදය"</string>
+<string name="dvr_epg_program_recording_in_progress">"පටිගත කිරීම"</string>
+<string name="dvr_epg_program_recording_failed">"පටිගත කිරීම අසාර්ථකයි"</string>
+<string name="dvr_series_progress_message_reading_programs">"කියවීමේ වැඩසටහන"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"මෑතකාලීන පටිගත කිරීම් පෙන්වන්න"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"පටිගත කිරීම් <xliff:g id="programName" example="Friends">%1$s</xliff:g> අසම්පූර්ණයි."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"පටිගත කිරීම් <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> සහ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> අසම්පූර්ණයි."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"පටිගත කිරීම් <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> සහ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> අසම්පූර්ණයි."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"අප්‍රමාණවත් ඉඩකඩ හේතුවෙන් පටිගත කිරීම් <xliff:g id="programName" example="Friends">%1$s</xliff:g> අසම්පූර්ණයි."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"අප්‍රමාණවත් ඉඩකඩ හේතුවෙන් පටිගත කිරීම <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> සහ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g>අසම්පූර්ණයි."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"අප්‍රමාණවත් ඉඩකඩ හේතුවෙන් පටිගත කිරීම <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g>සහ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> අසම්පූර්ණයි."</string>
+<string name="dvr_error_small_sized_storage_title">"තව ගබඩා ඉඩ අවශ්‍යයි"</string>
+<string name="dvr_error_small_sized_storage_description">"ඔබට වැඩසටහන් පටිගත කළ හැකි වනු ඇත. කෙසේවෙතත් පටිගත කිරීම ඇරඹීමට ඔබේ උපාංගයේ ප්‍රමාණවත් ගබඩාවක් නැත. <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>GB හෝ ඊට වඩා විශාල බාහිර ධාවකයක් සම්බන්ධ කර එය උපාංග ගබඩාව ලෙස ආකෘතිකරණය කිරීම සඳහා වන උපදෙස් අනුගමනය කරන්න."</string>
+<string name="dvr_error_no_free_space_title">"ප්‍රමාණවත් ගබඩාවක් නැත"</string>
+<string name="dvr_error_no_free_space_description">"ප්‍රමාණවත් ගබඩා ඉඩක් නොමැති නිසා මෙම වැඩසටහන පටිගත නොවනු ඇත. තිබෙන පටිගත කිරීම් සමහරක් මකා උත්සාහ කරන්න."</string>
+<string name="dvr_error_missing_storage_title">"ගබඩාවක් නැත"</string>
+<string name="dvr_stop_recording_dialog_title">"පටිගත කිරීම් නවත්වන්නද?"</string>
+<string name="dvr_stop_recording_dialog_description">"පටිගත කළ අන්තර්ගතය සුරැකෙනු ඇත."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"මෙම වැඩසටහන සමඟ ගැටුම් ඇති වන බැවින් <xliff:g id="programName" example="Friends">%1$s</xliff:g> පටිගත කිරීම නතර කෙරෙනු ඇත. පටිගත කළ අන්තර්ගතය සුරැකෙනු ඇත."</string>
+<string name="dvr_program_conflict_dialog_title">"පටිගත කිරීම සැලසුම් කර ඇතත් ගැටළු තිබේ"</string>
+<string name="dvr_channel_conflict_dialog_title">"පටිගත කිරීම් ඇරඹී ඇති නමුත් ගැටුම් තිබේ"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> පටිගත කෙරෙනු ඇත."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> පටිගත කෙරෙමින් පවතී."</string>
+<string name="dvr_program_conflict_dialog_description_1">"<xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> හි සමහර කොටස් පටිගත නොවනු ඇත."</string>
+<string name="dvr_program_conflict_dialog_description_2">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> සහ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> හි සමහර කොටස් පටිගත නොවනු ඇත."</string>
+<string name="dvr_program_conflict_dialog_description_3">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> සහ තවත් එක් සැලැස්මේ සමහර කොටස් පටිගත නොකෙරෙනු ඇත."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> සහ තව සැලසුම %3$d සහ හි සමහර කොටස් පටිගත නොවනු ඇත."</item>
+<item quantity="other">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> සහ තව සැලසුම් %3$d සහ හි සමහර කොටස් පටිගත නොවනු ඇත."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"ඔබ පටිගත කිරීමට කැමති කුමක්ද?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"ඔබ කොපමණ වේලාවක් වාර්තා කිරීමට කැමතිද?"</string>
+<string name="dvr_already_scheduled_dialog_title">"දැනටමත් සැලසුම් කර තිබේ"</string>
+<string name="dvr_already_scheduled_dialog_description">"මෙම වැඩසටහන <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g> ට පටිගත කිරීමට සැලසුම් කර තිබේ."</string>
+<string name="dvr_already_recorded_dialog_title">"දැනටමත් පටිගත කර ඇති"</string>
+<string name="dvr_already_recorded_dialog_description">"මෙම වැඩසටහන දැනටමත් පටිගත කර තිබේ. DVR පුස්තකාලයෙන් එය ලබා ගත හැකිය."</string>
+<string name="dvr_series_recording_dialog_title">"කාණ්ඩ පටිගත කිරීම සැලසුම් කර තිබේ"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">පටිගත කිරීම් "<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ක් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> සඳහා සැලසුම් කර තිබේ."</item>
+<item quantity="other">පටිගත කිරීම් "<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ක් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> සඳහා සැලසුම් කර තිබේ."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">පටිගත කිරීම් "<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ක් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> සඳහා සැලසුම් කර තිබේ. අර්බුද හේතුවෙන් එය පටිගත නොවනු ඇත."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> පටිගත කිරීම් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>දිනට නියමිතය. ඒවායින්<xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> ක් අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g>පටිගත කිරීම <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> දක්වානියම කර ඇත. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> මෙම මාලාවේ සහ වෙනත් මාලාවල කතාංග අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g>පටිගත කිරීම්<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> දක්වානියම කර ඇත. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> මෙම මාලාවේ සහ වෙනත් මාලාවල කතාංග අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"පටිගත කිරීම් <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ක් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> සඳහා සැලසුම් කර තිබේ. වෙනත් මාලාවලින් එකත් කතාංගයක් අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+<item quantity="other">"පටිගත කිරීම් <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ක් <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> සඳහා සැලසුම් කර තිබේ. වෙනත් මාලාවලින් එකත් කතාංගයක් අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g>පටිගත කිරීම <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> දක්වානියම කර ඇත. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> වෙනත් මාලාවල කතාංග අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g>පටිගත කිරීම්<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> දක්වානියම කර ඇත. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> වෙනත් මාලාවල කතාංග අර්බුද හේතුවෙන් පටිගත නොවනු ඇත."</item>
+</plurals>
+<string name="dvr_program_not_found">"පටිගත කළ වැඩසටහන හමු නොවුනි."</string>
+<string name="dvr_playback_related_recordings">"අදාළ පටිගත කිරීම්"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d පටිගත කිරීම"</item>
+<item quantity="other">"%1$d පටිගත කිරීම්"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">" / "</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> පටිගත කිරීමේ කාලසටහනින් ඉවත් කරන ලදි"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"ටියුන් කිරීමේ අර්බුද හේතුවෙන් පාර්හ්විකව පටිගත කරනු ඇත."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"ටියුන් කිරීමේ අර්බුදහේතුවෙන් පටිගත නොකරනු ඇත."</string>
+<string name="dvr_schedules_empty_state">"තවමත් පටිගත කිරීම් නියම කර නැත. \nඔබට වැඩසටහන් මාර්ගෝපදේශයෙන් පටිගත කිරීම් නියම කළ හැක."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d පටිගත කිරීමේ අර්බුදය"</item>
+<item quantity="other">"%1$d පටිගත කිරීමේ අර්බුද"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"මාලා සැකසුම්"</string>
+<string name="dvr_series_schedules_start">"මාලා පටිගත කිරීම ආරම්භ කරන්න"</string>
+<string name="dvr_series_schedules_stop">"මාලා පටිගත කිරීම අවසන් කරන්න"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"මාලා පටිගත කිරීම අවසන් කරන්න?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"පටිගත කළ කතාංග ඩීවීආර් පුස්තකාලයේ තිබෙනු ඇත."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"නතර කරන්න"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"දැනට කතාංග ගුවන් ගතවී නැත."</string>
+<string name="dvr_series_schedules_empty_state">"කතාංග නැත.\nතිබෙන අවස්ථාවල ඒවා පටිගත කරනු ඇත."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d විනාඩිය) "</item>
+<item quantity="other">"(%1$d විනාඩි)"</item>
+</plurals>
+<string name="dvr_date_today">"අද"</string>
+<string name="dvr_date_tomorrow">"හෙට"</string>
+<string name="dvr_date_yesterday">"ඊයේ"</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g>හෙට"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> හෙට"</string>
+<string name="program_guide_critic_score">"ලකුණු"</string>
+<string name="recorded_programs_preview_channel">"පටිගත කළ වැඩසටහන්"</string>
+</resources>

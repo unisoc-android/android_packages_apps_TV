@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"सामान्य"</item>
+<item>"पूर्ण"</item>
+<item>"जूम"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"सबै च्यानलहरु"</item>
+<item>"परिवार / बच्चाहरु"</item>
+<item>"खेलहरु"</item>
+<item>"किनमेल"</item>
+<item>"सिनेमाहरु"</item>
+<item>"हास्य"</item>
+<item>"यात्रा"</item>
+<item>"नाटक"</item>
+<item>"शिक्षा"</item>
+<item>"पशु / वन्यजीवन"</item>
+<item>"समाचार"</item>
+<item>"खेल"</item>
+<item>"कला"</item>
+<item>"मनोरञ्जन"</item>
+<item>"जीवन शैली"</item>
+<item>"संगीत"</item>
+<item>"प्रिमियर"</item>
+<item>"प्रविधि / विज्ञान"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">लाइभ टिभी</xliff:g> "</item>
+<item>"सामग्री पत्ता लगाउने सजिलो तरिका"</item>
+<item>"अनुप्रयोगहरु डाउनलोड गर्नुहोस्, थप च्यानलहरु प्राप्त गर्नुहोस्"</item>
+<item>"तपाईको च्यानल लाइन-अपलाई अनुकूलित गर्नुहोस्"</item>
+</string-array>
+</resources>

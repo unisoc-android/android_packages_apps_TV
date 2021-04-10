@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="action_text_done">Eginda</string>
+<string name="action_text_skip">Saltatu</string>
+<string name="display_episode_number_format">"<xliff:g id="season_number" example="1">%1$s</xliff:g>. denboraldia; <xliff:g id="episode_number" example="1">%2$s</xliff:g>. pasartea"</string>
+<string name="display_episode_number_format_no_season_number">"<xliff:g id="episode_number" example="1">%1$s</xliff:g>. pasartea"</string>
+<string name="display_episode_title_format">"<xliff:g id="season_number" example="1">%1$s</xliff:g>. denboraldia; <xliff:g id="episode_number" example="1">%2$s</xliff:g>. pasartea (<xliff:g id="episode_title" example="Winter is Coming">%3$s</xliff:g>)"</string>
+<string name="display_episode_title_format_no_season_number">"<xliff:g id="episode_number" example="1807">%1$s</xliff:g>. pasartea (<xliff:g id="episode_title" example="Headline News">%2$s</xliff:g>)"</string>
+<string name="program_title_with_episode_number">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> <![CDATA[<i>]]><xliff:g id="seasonNumber" example="1">%2$s</xliff:g>. denboraldia; <xliff:g id="episodeNumber" example="12">%3$s</xliff:g><![CDATA[</i>]]>. pasartea"</string>
+<string name="program_title_with_episode_number_no_season">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> <![CDATA[<i>]]><xliff:g id="episodeNumber" example="12">%2$s</xliff:g><![CDATA[</i>]]>. pasartea"</string>
+</resources>

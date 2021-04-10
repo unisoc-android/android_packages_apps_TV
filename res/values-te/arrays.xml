@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"సాధారణం"</item>
+<item>ఫుల్</item>
+<item>"జూమ్"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"అన్ని చానెళ్ళు"</item>
+<item>"కుటుంబం / పిల్లలు"</item>
+<item>"స్పోర్ట్స్"</item>
+<item>"షాపింగ్"</item>
+<item>సినిమాలు</item>
+<item>"కామెడీ"</item>
+<item>"ప్రయాణం"</item>
+<item>"డ్రామా"</item>
+<item>"చదువు"</item>
+<item>"జంతువు / వైల్డ్‌లైఫ్"</item>
+<item>"వార్తలు"</item>
+<item>"గేమింగ్"</item>
+<item>"కళలు"</item>
+<item>"వినోదం"</item>
+<item>"జీవనశైలి"</item>
+<item> "సంగీతం"</item>
+<item>"ప్రీమియర్"</item>
+<item>"టెక్/సైన్స్"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name"> లైవ్ టీవీ</xliff:g> "</item>
+<item>"కంటెంట్‌ను కనుగొనటానికి ఒక సరళమైన మార్గం"</item>
+<item>"యాప్‌లను డౌన్‌లోడ్ చేయండి, మరిన్ని ఛానెల్లను పొందండి"</item>
+<item>"మీ ఛానెల్ వరుసక్రమంను అనుకూలీకరించండి"</item>
+</string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"සාමාන්‍ය"</item>
+<item>"පිරී ඇත"</item>
+<item>"විශාල කිරීම"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"සියලු නාළිකා"</item>
+<item>"පවුල/ළමුන්"</item>
+<item>"ක්‍රීඩා"</item>
+<item>"සාප්පු යෑම"</item>
+<item>"චිත්‍රපටි"</item>
+<item>"ප්‍රහසන"</item>
+<item>"සංචාර"</item>
+<item>"නාට්‍යය"</item>
+<item>"අධ්‍යාපනය"</item>
+<item>"සත්ව/වනජීවී"</item>
+<item>"පුවත්"</item>
+<item>"ක්‍රීඩා"</item>
+<item>"කලා"</item>
+<item>"විනෝදය"</item>
+<item>"ජීවන රටාව"</item>
+<item>"සංගීතය"</item>
+<item>"ප්‍රමුඛ"</item>
+<item>"ඉගැන්වීම/විද්‍යාව"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"අන්තර්ගතය සොයා ගැනීමට සරළ ක්‍රමයක්"</item>
+<item>"යෙදුම් බාගෙන, තව නාළිකා ලබා ගන්න"</item>
+<item>"ඔබේ නාළිකා පෙළගැස්වීම ගලපන්න"</item>
+</string-array>
+</resources>

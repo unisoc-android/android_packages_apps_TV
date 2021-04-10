@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"ಸಾಮಾನ್ಯ"</item>
+<item>"ಪೂರ್ತಿಯಾಗಿದೆ" </item>
+<item>"ಝೂಮ್"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ಎಲ್ಲಾ ಚಾನಲ್ಗಳು"</item>
+<item>"ಕುಟುಂಬ / ಮಕ್ಕಳು"</item>
+<item>"ಕ್ರೀಡೆ"</item>
+<item>"ಶಾಪಿಂಗ್"</item>
+<item>"ಚಲನಚಿತ್ರಗಳು"</item>
+<item>"ಕಾಮಿಡಿ"</item>
+<item>"ಪ್ರಯಾಣ"</item>
+<item>"ನಾಟಕ"</item>
+<item>"ಶಿಕ್ಷಣ"</item>
+<item>"ಪ್ರಾಣಿ / ವನ್ಯಜೀವಿ"</item>
+<item>"ಸುದ್ದಿ"</item>
+<item>"ಗೇಮಿಂಗ್"</item>
+<item>"ಆರ್ಟ್ಸ್"</item>
+<item>"ಮನರಂಜನೆ"</item>
+<item>"ಜೀವನಶೈಲಿ"</item>
+<item>"ಸಂಗೀತ"</item>
+<item>"ಪ್ರೀಮಿಯರ್"</item>
+<item>"ಟೆಕ್ / ಸೈನ್ಸ್"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">ಲೈವ್ ಟಿವಿ</xliff:g> "</item>
+<item>"ಕಂಟೇಟ್ ಕಂಡುಹಿಡಿಯಲು ಒಂದು ಸರಳ ಮಾರ್ಗ"</item>
+<item>"ಅಪ್ಲಿಕೇಷನ್ ಅನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ, ಹೆಚ್ಚಿನ ಚಾನಲ್ಗಳನ್ನು ಪಡೆಯಿರಿ"</item>
+<item>"ನಿಮ್ಮ ಚಾನಲ್ ಲೈನ್-ಅಪ್ ಅನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">Mono</string>
+<string name="audio_channel_stereo">"Stereo"</string>
+<string name="menu_title_play_controls">"Kawalan main"</string>
+<string name="menu_title_channels">"Saluran"</string>
+<string name="menu_title_options">"Pilihan TV"</string>
+<string name="play_controls_unavailable">"Kawalan main tidak tersedia untuk saluran ini"</string>
+<string name="play_controls_description_play_pause">"Main atau jeda"</string>
+<string name="play_controls_description_fast_forward">"Mundar laju"</string>
+<string name="play_controls_description_fast_rewind">"Mandir"</string>
+<string name="play_controls_description_skip_next">"Seterusnya"</string>
+<string name="play_controls_description_skip_previous">Sebelumnya</string>
+<string name="channels_item_program_guide">"Panduan program"</string>
+<string name="channels_item_setup">"Saluran baru tersedia"</string>
+<string name="channels_item_app_link_app_launcher">"Buka <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"Kapsyen tertutup"</string>
+<string name="options_item_display_mode">"Mod paparan"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"Berbilang audio"</string>
+<string name="options_item_more_channels">"Dapatkan lebih banyak saluran"</string>
+<string name="options_item_settings">"Tetapan"</string>
+<string name="input_long_label_for_tuner">"TV (antena/kabel)"</string>
+<string name="no_program_information">"Tiada maklumat program"</string>
+<string name="program_title_for_no_information">"Tiada Maklumat"</string>
+<string name="program_title_for_blocked_channel">"Saluran disekat"</string>
+<string name="multi_audio_unknown_language">"Bahasa tidak diketahui"</string>
+<string name="closed_caption_unknown_language">"Kapsyen tertutup <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"Kapsyen tertutup"</string>
+<string name="closed_caption_option_item_off">tutup</string>
+<string name="closed_caption_system_settings">"Sesuaikan format"</string>
+<string name="closed_caption_system_settings_description">"Tetapkan pilihan seluruh sistem untuk kapsyen tertutup"</string>
+<string name="side_panel_title_display_mode">"Mod paparan"</string>
+<string name="side_panel_title_multi_audio">"Berbilang audio"</string>
+<string name="multi_audio_channel_mono">Mono</string>
+<string name="multi_audio_channel_stereo">"Stereo"</string>
+<string name="multi_audio_channel_surround_6">"5.1 surround"</string>
+<string name="multi_audio_channel_surround_8">"7.1 surround"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> saluran"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"Sesuaikan senarai saluran"</string>
+<string name="edit_channels_item_select_group">"Pilih kumpulan"</string>
+<string name="edit_channels_item_deselect_group">"Nyahpilih kumpulan"</string>
+<string name="edit_channels_item_group_by">"Kumpulkan ikut"</string>
+<string name="edit_channels_group_by_sources">"Sumber saluran"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">"Kumpulkan ikut"</string>
+<string name="program_guide_content_locked">"Program ini disekat"</string>
+<string name="program_guide_content_locked_unrated">"Program ini tidak diberi penilaian"</string>
+<string name="program_guide_content_locked_format">"Program ini dinilai <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"Input tidak menyokong imbasan automatik"</string>
+<string name="msg_unable_to_start_setup_activity">"Tidak dapat memulakan imbasan automatik untuk \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"Tidak dapat memulakan pilihan seluruh sistem untuk kapsyen tertutup."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"Saluran %1$d ditambahkan"</item>
+<item quantity="other">"Saluran %1$d ditambahkan"</item>
+</plurals>
+<string name="msg_no_channel_added">"Tiada saluran ditambahkan"</string>
+<string name="menu_parental_controls">"Kawalan ibu bapa"</string>
+<string name="option_toggle_parental_controls_on">Pasang</string>
+<string name="option_toggle_parental_controls_off">tutup</string>
+<string name="option_channels_locked">"Saluran disekat"</string>
+<string name="option_channels_lock_all">"Sekat semua"</string>
+<string name="option_channels_unlock_all">"Nyahsekat semua"</string>
+<string name="option_channels_subheader_hidden">"Saluran tersembunyi"</string>
+<string name="option_program_restrictions">"Sekatan program"</string>
+<string name="option_change_pin">"Ubah PIN"</string>
+<string name="option_country_rating_systems">"Sistem penarafan"</string>
+<string name="option_ratings">"Penarafan"</string>
+<string name="option_see_all_rating_systems">"Lihat semua sistem penarafan"</string>
+<string name="other_countries">"Negara-negara lain"</string>
+<string name="option_no_locked_channel">"Tiada"</string>
+<string name="option_no_enabled_rating_system">"Tiada"</string>
+<string name="unrated_rating_name">"Tidak diberi penilaian"</string>
+<string name="option_block_unrated_programs">"Sekat program yang tidak diberi penilaian"</string>
+<string name="option_rating_none">"Tiada"</string>
+<string name="option_rating_high">"Sekatan tinggi"</string>
+<string name="option_rating_medium">"Sekatan sederhana"</string>
+<string name="option_rating_low">"Sekatan rendah"</string>
+<string name="option_rating_custom">"Tersuai"</string>
+<string name="option_rating_high_description">"Kandungan sesuai untuk kanak-kanak"</string>
+<string name="option_rating_medium_description">"Kandungan sesuai untuk kanak-kanak yang lebih tua"</string>
+<string name="option_rating_low_description">"Kandungan sesuai untuk remaja"</string>
+<string name="option_rating_custom_description">"Sekatan manual"</string>
+<string name="option_subrating_title">"%1$s dan penarafan kecil"</string>
+<string name="option_subrating_header">"Penarafan kecil"</string>
+<string name="pin_enter_unlock_channel">"Masukkan PIN anda untuk menonton saluran ini"</string>
+<string name="pin_enter_unlock_program">"Masukkan PIN anda untuk menonton program ini"</string>
+<string name="pin_enter_unlock_dvr">"Program ini dinilai <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. Masukkan PIN anda untuk menonton program ini"</string>
+<string name="pin_enter_unlock_dvr_unrated">"Program ini tidak diberi penilaian. Masukkan PIN anda untuk menonton program ini"</string>
+<string name="pin_enter_pin">"Masukkan PIN anda"</string>
+<string name="pin_enter_create_pin">"Untuk menetapkan kawalan ibu bapa, buat PIN"</string>
+<string name="pin_enter_new_pin">"Masukkan PIN baru"</string>
+<string name="pin_enter_again">"Sahkan PIN anda"</string>
+<string name="pin_enter_old_pin">"Masukkan PIN semasa anda"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"Anda memasukkan PIN yang salah sebanyak 5 kali.\nCuba lagi dalam <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> saat."</item>
+<item quantity="other">"Anda memasukkan PIN yang salah sebanyak 5 kali.\nCuba lagi dalam <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> saat."</item>
+</plurals>
+<string name="pin_toast_wrong">"PIN itu salah. Cuba lagi."</string>
+<string name="pin_toast_not_match">"Cuba lagi, PIN tidak sepadan"</string>
+<string name="side_panel_title_settings">"Tetapan"</string>
+<string name="settings_channel_source_item_customize_channels">"Sesuaikan senarai saluran"</string>
+<string name="settings_channel_source_item_customize_channels_description">"Pilih saluran untuk panduan program anda"</string>
+<string name="settings_channel_source_item_setup">"Sumber saluran"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"Saluran baru tersedia"</string>
+<string name="settings_parental_controls">"Kawalan ibu bapa"</string>
+<string name="settings_trickplay">"Peralihan masa"</string>
+<string name="settings_trickplay_description">"Rakam sambil menonton supaya anda boleh menjeda atau mengundur program langsung.\nAmaran: Ini boleh mengurangkan hayat storan dalaman dengan penggunaan intensif storan."</string>
+<string name="settings_menu_licenses">"Lesen sumber terbuka"</string>
+<string name="settings_send_feedback">"Hantar maklum balas"</string>
+<string name="settings_menu_version">"Versi"</string>
+<string name="tvview_channel_locked">"Untuk menonton saluran ini, tekan Kanan dan masukkan PIN anda"</string>
+<string name="tvview_content_locked">"Untuk menonton program ini, tekan Kanan dan masukkan PIN anda"</string>
+<string name="tvview_content_locked_unrated">"Program ini tidak diberi penilaian.\nUntuk menonton program ini, tekan Kanan dan masukkan PIN anda"</string>
+<string name="tvview_content_locked_format">"Program ini diberi penilaian <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nUntuk menonton program ini, tekan Kanan dan masukkan PIN anda."</string>
+<string name="tvview_channel_locked_no_permission">"Untuk menonton saluran ini, gunakan aplikasi Live TV lalai."</string>
+<string name="tvview_content_locked_no_permission">"Untuk menonton program ini, gunakan aplikasi Live TV lalai."</string>
+<string name="tvview_content_locked_unrated_no_permission">"Program ini tidak diberi penilaian.\nUntuk menonton program ini, gunakan aplikasi Live TV lalai."</string>
+<string name="tvview_content_locked_format_no_permission">"Program ini diberi penilaian <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nUntuk menonton program ini, gunakan aplikasi Live TV lalai."</string>
+<string name="shrunken_tvview_content_locked">"Program disekat"</string>
+<string name="shrunken_tvview_content_locked_unrated">"Program ini tidak diberi penilaian"</string>
+<string name="shrunken_tvview_content_locked_format">"Program ini dinilai <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"Audio sahaja"</string>
+<string name="tvview_msg_weak_signal">"Isyarat lemah"</string>
+<string name="tvview_msg_no_internet_connection">"Tiada sambungan Internet"</string>
+<string name="channel_banner_no_title">"Tiada tajuk"</string>
+<string name="channel_banner_locked_channel_title">"Saluran disekat"</string>
+<string name="setup_category_new">"Baru"</string>
+<string name="setup_category_done">"Sumber"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d saluran"</item>
+<item quantity="other">"%1$d saluran"</item>
+</plurals>
+<string name="setup_input_no_channels">"Tiada saluran tersedia"</string>
+<string name="setup_input_new">"Baru"</string>
+<string name="setup_input_setup_now">"Tidak disediakan"</string>
+<string name="setup_store_action_title">"Dapatkan lebih banyak sumber"</string>
+<string name="setup_store_action_description">"Semak imbas aplikasi yang menawarkan saluran langsung"</string>
+<string name="new_sources_title">"Sumber saluran baru tersedia"</string>
+<string name="new_sources_description">"Sumber saluran baru mempunyai tawaran saluran.\nSediakannya sekarang atau lakukannya kemudian dalam tetapan sumber saluran."</string>
+<string name="new_sources_action_setup">"Sediakan sekarang"</string>
+<string name="new_sources_action_skip">"OK, FAHAM"</string>
+<string name="intro_description">"<b>Tekan PILIH</b> untuk mengakses menu TV."</string>
+<string name="msg_no_input">"Tiada input TV dijumpai"</string>
+<string name="msg_no_specific_input">"Tidak menemui input TV"</string>
+<string name="msg_not_passthrough_input">"Jenis penala tidak sesuai. Sila lancarkan aplikasi <xliff:g id="app_name">Live TV</xliff:g> untuk input TV jenis penala."</string>
+<string name="msg_tune_failed">"Penalaan gagal"</string>
+<string name="msg_missing_app">"Tiada aplikasi ditemui untuk mengendalikan tindakan ini."</string>
+<string name="msg_all_channels_hidden">"Semua saluran sumber disembunyikan.\nPilih sekurang-kurangnya satu saluran untuk menonton."</string>
+<string name="msg_channel_unavailable_unknown">"Video tidak tersedia tanpa dijangka"</string>
+<string name="msg_back_key_guide">"Kekunci BACK untuk peranti yang disambungkan. Tekan butang HOME untuk keluar."</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g> memerlukan kebenaran membaca senarai TV."</string>
+<string name="setup_sources_text">"Sediakan sumber anda"</string>
+<string name="setup_sources_description">"Saluran langsung menggabungkan pengalaman saluran TV tradisional dengan saluran penstriman yang disediakan oleh aplikasi.\n\nMulakan dengan menyediakan sumber saluran yang telah dipasang. Atau semak imbas kedai dalam talian untuk mendapatkan lebih banyak aplikasi yang menawarkan saluran langsung."</string>
+<string name="channels_item_dvr">"Rakaman &amp; jadual"</string>
+<string name="recording_start_dialog_10_min_duration">"10 minit"</string>
+<string name="recording_start_dialog_30_min_duration">"30 minit"</string>
+<string name="recording_start_dialog_1_hour_duration">1 jam</string>
+<string name="recording_start_dialog_3_hours_duration">"3 jam"</string>
+<string name="dvr_main_recent">"Terkini"</string>
+<string name="dvr_main_scheduled">"Berjadual"</string>
+<string name="dvr_main_series">"Siri"</string>
+<string name="dvr_main_others">Lain-lain</string>
+<string name="dvr_msg_cannot_record_channel">"Saluran tidak dapat dirakam."</string>
+<string name="dvr_msg_cannot_record_program">"Program tidak dapat dirakam."</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> telah dijadualkan untuk dirakam"</string>
+<string name="dvr_msg_current_program_scheduled">"Merakam <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> dari sekarang hingga <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"Jadual penuh"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"%1$d hari berikutnya"</item>
+<item quantity="other">"%1$d hari berikutnya"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d minit"</item>
+<item quantity="other">"%1$d minit"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d rakaman baru"</item>
+<item quantity="other">"%1$d rakaman baru"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d rakaman"</item>
+<item quantity="other">"%1$d rakaman"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d rakaman dijadualkan"</item>
+<item quantity="other">"%1$d rakaman dijadualkan"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"Batalkan rakaman"</string>
+<string name="dvr_detail_stop_recording">"Hentikan Rakaman"</string>
+<string name="dvr_detail_watch">"Jam"</string>
+<string name="dvr_detail_play_from_beginning">"Main dari mula"</string>
+<string name="dvr_detail_resume_play">"Sambung semula main"</string>
+<string name="dvr_detail_delete">"Padam"</string>
+<string name="dvr_detail_series_delete">"Padam rakaman"</string>
+<string name="dvr_detail_series_resume">menyambung semula</string>
+<string name="dvr_detail_series_season_title">"Musim <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"Lihat jadual"</string>
+<string name="dvr_detail_read_more">"Baca lebih lanjut"</string>
+<string name="dvr_series_deletion_title">"Padam rakaman"</string>
+<string name="dvr_series_deletion_description">"Pilih episod yang ingin anda padamkan. Episod tidak boleh dipulihkan setelah dipadamkan."</string>
+<string name="dvr_series_deletion_no_recordings">"Tiada rakaman untuk dipadamkan."</string>
+<string name="dvr_series_select_watched">"Pilih episod yang sudah ditonton"</string>
+<string name="dvr_series_select_all">"Pilih semua episod"</string>
+<string name="dvr_series_deselect_all">"Nyahpilih semua episod"</string>
+<string name="dvr_series_watched_info_minutes">"<xliff:g id="watched">%1$d</xliff:g> daripada <xliff:g id="duration">%2$d</xliff:g> minit ditonton"</string>
+<string name="dvr_series_watched_info_seconds">"<xliff:g id="watched">%1$d</xliff:g> daripada <xliff:g id="duration">%2$d</xliff:g> saat ditonton"</string>
+<string name="dvr_series_never_watched">"Tidak pernah ditonton"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%1$d daripada %2$d episod dipadamkan"</item>
+<item quantity="other">"%1$d daripada %2$d episod dipadamkan"</item>
+</plurals>
+<string name="dvr_series_settings_priority">keutamaan</string>
+<string name="dvr_series_settings_priority_highest">"Tertinggi"</string>
+<string name="dvr_series_settings_priority_lowest">"Terendah"</string>
+<string name="dvr_series_settings_priority_rank">"No. <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"Saluran"</string>
+<string name="dvr_series_settings_channels_all">"Sebarang"</string>
+<string name="dvr_priority_title">"Pilih keutamaan"</string>
+<string name="dvr_priority_description">"Apabila terdapat terlalu banyak program yang akan dirakamkan pada masa yang sama, hanya program yang mempunyai keutamaan yang lebih tinggi akan dirakamkan."</string>
+<string name="dvr_priority_button_action_save">"Simpan"</string>
+<string name="dvr_priority_action_one_time_recording">"Rakaman satu kali mempunyai keutamaan tertinggi"</string>
+<string name="dvr_action_stop">"Berhenti"</string>
+<string name="dvr_action_view_schedules">"Lihat jadual rakaman"</string>
+<string name="dvr_action_record_episode">"Satu program ini"</string>
+<string name="dvr_action_record_episode_from_now_description">"sekarang - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"Seluruh siri&#8230;"</string>
+<string name="dvr_action_record_anyway">"Jadualkan juga"</string>
+<string name="dvr_action_record_instead">"Rakam yang ini"</string>
+<string name="dvr_action_record_cancel">"Batalkan rakaman ini"</string>
+<string name="dvr_action_watch_now">"Tonton sekarang"</string>
+<string name="dvr_action_delete_recordings">"Padam rakaman&#8230;"</string>
+<string name="dvr_epg_program_recordable">"Boleh rakam"</string>
+<string name="dvr_epg_program_recording_scheduled">"Rakaman dijadualkan"</string>
+<string name="dvr_epg_program_recording_conflict">"Konflik merakam"</string>
+<string name="dvr_epg_program_recording_in_progress">Rakaman</string>
+<string name="dvr_epg_program_recording_failed">"Rakaman gagal"</string>
+<string name="dvr_series_progress_message_reading_programs">"Membaca program"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"Lihat rakaman terkini"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"Rakaman <xliff:g id="programName" example="Friends">%1$s</xliff:g> tidak lengkap."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"Rakaman <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> dan <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> tidak lengkap."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"Rakaman <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> dan <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> tidak lengkap."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"Rakaman <xliff:g id="programName" example="Friends">%1$s</xliff:g> tidak lengkap kerana storan tidak mencukupi."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"Rakaman <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> dan <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> tidak lengkap kerana storan tidak mencukupi."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"Rakaman <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> dan <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> tidak lengkap kerana storan tidak mencukupi."</string>
+<string name="dvr_error_small_sized_storage_title">"Lebih banyak storan diperlukan"</string>
+<string name="dvr_error_small_sized_storage_description">"Anda akan boleh merakam program. Walau bagaimanapun, storan tidak mencukupi pada peranti anda untuk memulakan rakaman. Sila sambungkan pemacu luaran bersaiz <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>GB atau lebih besar dan ikuti langkah-langkah untuk memformatnya sebagai storan peranti."</string>
+<string name="dvr_error_no_free_space_title">"Storan tidak mencukupi"</string>
+<string name="dvr_error_no_free_space_description">"Program ini tidak akan dirakam kerana storan tidak mencukupi. Cuba padamkan beberapa rakaman sedia ada."</string>
+<string name="dvr_error_missing_storage_title">"Storan tiada"</string>
+<string name="dvr_stop_recording_dialog_title">"Berhenti merakam?"</string>
+<string name="dvr_stop_recording_dialog_description">"Kandungan yang dirakam akan disimpan."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"Rakaman <xliff:g id="programName" example="Friends">%1$s</xliff:g> akan dihentikan kerana berkonflik dengan program ini. Kandungan yang dirakam akan disimpan."</string>
+<string name="dvr_program_conflict_dialog_title">"Rakaman dijadualkan tetapi mempunyai konflik"</string>
+<string name="dvr_channel_conflict_dialog_title">"Rakaman telah bermula tetapi mempunyai konflik"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> akan dirakamkan."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> akan dirakamkan."</string>
+<string name="dvr_program_conflict_dialog_description_1">"Beberapa bahagian <xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> tidak akan dirakamkan."</string>
+<string name="dvr_program_conflict_dialog_description_2">"Beberapa bahagian <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> dan <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> tidak akan dirakamkan."</string>
+<string name="dvr_program_conflict_dialog_description_3">"Beberapa bahagian <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dan satu lagi jadual tidak akan dirakamkan."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"Beberapa bahagian <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dan %3$d lagi jadual tidak akan dirakamkan."</item>
+<item quantity="other">"Beberapa bahagian <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dan %3$d lagi jadual tidak akan dirakamkan."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"Apa yang anda ingin rakam?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"Berapa lama anda mahu merakam?"</string>
+<string name="dvr_already_scheduled_dialog_title">"Telah dijadualkan"</string>
+<string name="dvr_already_scheduled_dialog_description">"Program yang sama telah dijadualkan untuk dirakamkan pada <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g>."</string>
+<string name="dvr_already_recorded_dialog_title">"Telah dirakam"</string>
+<string name="dvr_already_recorded_dialog_description">"Program ini telah dirakamkan. Ia boleh didapati di pustaka DVR."</string>
+<string name="dvr_series_recording_dialog_title">"Rakaman siri dijadualkan"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. Rakaman tidak akan dirakamkan kerana konflik."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> daripadanya tidak akan dirakamkan kerana konflik."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episod siri ini dan siri lain tidak akan dirakamkan kerana konflik."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episod siri ini dan siri lain tidak akan dirakamkan kerana konflik."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episod siri lain tidak akan dirakamkan kerana konflik."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episod siri lain tidak akan dirakamkan kerana konflik."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episod siri lain tidak akan dirakamkan kerana konflik."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> rakaman telah dijadualkan untuk <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episod siri lain tidak akan dirakamkan kerana konflik."</item>
+</plurals>
+<string name="dvr_program_not_found">"Program yang dirakam tidak dijumpai."</string>
+<string name="dvr_playback_related_recordings">"Rakaman yang berkaitan"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d rakaman"</item>
+<item quantity="other">"%1$d rakaman"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">"&#160;/&#160;"</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> dikeluarkan daripada jadual rakaman"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"Akan dirakam sebahagian kerana konflik penala."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"Tidak akan dirakamkan kerana konflik penala."</string>
+<string name="dvr_schedules_empty_state">"Tiada rakaman yang dijadualkan lagi.\nAnda boleh menjadualkan rakaman daripada panduan program."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d konflik rakaman"</item>
+<item quantity="other">"%1$d konflik rakaman"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"Tetapan siri"</string>
+<string name="dvr_series_schedules_start">"Mulakan rakaman siri"</string>
+<string name="dvr_series_schedules_stop">"Hentikan rakaman siri"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"Hentikan rakaman siri?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"Episod yang dirakam akan kekal tersedia dalam pustaka DVR."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"Berhenti"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"Tiada episod yang sedang ke udara sekarang."</string>
+<string name="dvr_series_schedules_empty_state">"Tiada episod tersedia.\nEpisod akan dirakam apabila tersedia."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d minit) "</item>
+<item quantity="other">"(%1$d minit)"</item>
+</plurals>
+<string name="dvr_date_today">"Hari ini"</string>
+<string name="dvr_date_tomorrow">"Esok"</string>
+<string name="dvr_date_yesterday">"Semalam"</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> hari ini"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> esok"</string>
+<string name="program_guide_critic_score">"Markah"</string>
+<string name="recorded_programs_preview_channel">"Program Dirakam"</string>
+</resources>

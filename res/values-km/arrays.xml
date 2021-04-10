@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>ប្រក្រតី</item>
+<item>"ពេញ"</item>
+<item>"ពង្រីកបង្រួម"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ប៉ុស្តិ៍ទាំងអស់"</item>
+<item>"ក្រុមគ្រួសារ/កុមារ"</item>
+<item>"កីឡា"</item>
+<item>"ការដើរទិញទំនិញ"</item>
+<item>"ភាពយន្ត"</item>
+<item>"រឿងកំប្លែង"</item>
+<item>ធ្វើដំណើរ</item>
+<item>"ល្ខោន"</item>
+<item>"ការអប់រំ"</item>
+<item>"សត្វ/សត្វព្រៃ"</item>
+<item>"ព័ត៌មាន"</item>
+<item>"ការលេងហ្គេម"</item>
+<item>"សិល្បៈ"</item>
+<item>"ការកម្សាន្ត"</item>
+<item>"បែបផែនរស់នៅ"</item>
+<item>"តន្រ្តី"</item>
+<item>"កីឡាករជើងឯក"</item>
+<item>"បច្ចេកវិទ្យា/វិទ្យាសាស្ត្រ"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"វិធីសាមញ្ញក្នុងការរកឃើញមាតិកា"</item>
+<item>"ទាញយកកម្មវិធី ទទួលបានប៉ុស្តិ៍កាន់តែច្រើន"</item>
+<item>"ប្ដូរតំណលំដាប់ប៉ុស្តិ៍របស់អ្នកតាមតម្រូវការ"</item>
+</string-array>
+</resources>

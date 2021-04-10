@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">"ମୋନୋ"</string>
+<string name="audio_channel_stereo">"ଷ୍ଟେରିଓ"</string>
+<string name="menu_title_play_controls">"ପ୍ଲେ କଣ୍ଟ୍ରୋଲ୍ ଗୁଡ଼ିକ"</string>
+<string name="menu_title_channels">"ଚ୍ୟାନେଲଗୁଡ଼ିକ"</string>
+<string name="menu_title_options">"ଟିଭି ବିକଳ୍ପ"</string>
+<string name="play_controls_unavailable">"ଏହି ଚ୍ୟାନେଲ୍ ପାଇଁ ପ୍ଲେ କଣ୍ଟ୍ରୋଲ୍ ଗୁଡ଼ିକ ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="play_controls_description_play_pause">"ପ୍ଲେ କିମ୍ବା ପଜ୍"</string>
+<string name="play_controls_description_fast_forward">"ଆଗକୁ ଘୂରାନ୍ତୁ"</string>
+<string name="play_controls_description_fast_rewind">"ପଛକୁ ଘୂରାନ୍ତୁ"</string>
+<string name="play_controls_description_skip_next">"ପର"</string>
+<string name="play_controls_description_skip_previous">"ପୁର୍ବବର୍ତ୍ତି"</string>
+<string name="channels_item_program_guide">"ପ୍ରୋଗ୍ରାମ୍ ଗାଇଡ୍"</string>
+<string name="channels_item_setup">"ନୂଆ ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ ଉପଲବ୍ଧ"</string>
+<string name="channels_item_app_link_app_launcher">"<xliff:g id="app_name" example="YouTube">%1$s</xliff:g>ଖୋଲନ୍ତୁ"</string>
+<string name="options_item_closed_caption">"କ୍ୟାପସନ୍ ଗୁଡ଼ିକ"</string>
+<string name="options_item_display_mode">"ଡିସପ୍ଲେ ମୋଡ୍"</string>
+<string name="options_item_pip">"ପିଆଇପି"</string>
+<string name="options_item_multi_audio">"ମଲ୍ଟି-ଅଡିଓ"</string>
+<string name="options_item_more_channels">"ଅଧିକ ଚ୍ୟାନେଲ୍ ପାଆନ୍ତୁ"</string>
+<string name="options_item_settings">"ସଂସ୍ଥାପନା"</string>
+<string name="input_long_label_for_tuner">"TV (ଆଣ୍ଟେନା/କେବୁଲ୍)"</string>
+<string name="no_program_information">"କୌଣସି କାର୍ଯ୍ୟକ୍ରମର ସୂଚନା ନାହିଁ"</string>
+<string name="program_title_for_no_information">"କୌଣସି ତଥ୍ୟ ନାହିଁ"</string>
+<string name="program_title_for_blocked_channel">"ବ୍ଲକ୍ ହୋଇଥିବା ଚ୍ୟାନେଲ୍"</string>
+<string name="multi_audio_unknown_language">"ଅଜଣା ଭାଷା"</string>
+<string name="closed_caption_unknown_language">"ଆବଦ୍ଧ ଶିରୋନାମଗୁଡ଼ିକ <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"କ୍ୟାପସନ୍ ଗୁଡ଼ିକ"</string>
+<string name="closed_caption_option_item_off">"ନିଷ୍କ୍ରିୟ"</string>
+<string name="closed_caption_system_settings">"କଷ୍ଟମାଇଜ୍ ଫର୍ମାଟିଂ"</string>
+<string name="closed_caption_system_settings_description">"କ୍ଲୋଜ୍ ହୋଇଥିବା କ୍ୟାପସନ୍ ଗୁଡ଼ିକ ପାଇଁ ସିଷ୍ଟମ୍-ୱାଇଡ୍ ପ୍ରିଫରେନ୍ସ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="side_panel_title_display_mode">"ଡିସପ୍ଲେ ମୋଡ୍"</string>
+<string name="side_panel_title_multi_audio">"ମଲ୍ଟି-ଅଡିଓ"</string>
+<string name="multi_audio_channel_mono">"ମୋନୋ"</string>
+<string name="multi_audio_channel_stereo">"ଷ୍ଟେରିଓ"</string>
+<string name="multi_audio_channel_surround_6">"5.1 ସରାଉଣ୍ଡ"</string>
+<string name="multi_audio_channel_surround_8">"7.1 ସରାଉଣ୍ଡ"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> ଚ୍ୟାନେଲଗୁଡ଼ିକ"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"ଚ୍ୟାନେଲ୍ ଲିଷ୍ଟ କଷ୍ଟମାଇଜ୍ କରନ୍ତୁ"</string>
+<string name="edit_channels_item_select_group">"ଗ୍ରୁପ ସିଲେକ୍ଟ କରନ୍ତୁ"</string>
+<string name="edit_channels_item_deselect_group">"ଗ୍ରୁପ୍ କୁ ଡିସିଲେକ୍ଟ କରନ୍ତୁ"</string>
+<string name="edit_channels_item_group_by">"ଅନୁଯାୟୀ ଗ୍ରୁପ୍ କରନ୍ତୁ"</string>
+<string name="edit_channels_group_by_sources">"ଚ୍ୟାନେଲ୍ ସୋର୍ସ"</string>
+<string name="edit_channels_group_by_hd_sd">"ଏଚଡି/ଏସଡି"</string>
+<string name="edit_channels_group_divider_for_hd">"ଏଚଡି"</string>
+<string name="edit_channels_group_divider_for_sd">"ଏସଡି"</string>
+<string name="side_panel_title_group_by">"ଅନୁଯାୟୀ ଗ୍ରୁପ୍ କରନ୍ତୁ"</string>
+<string name="program_guide_content_locked">"ଏହି ପ୍ରୋଗ୍ରାମ୍ ବ୍ଲକ୍ ହୋଇଛି"</string>
+<string name="program_guide_content_locked_unrated">"ଏହି ପ୍ରୋଗ୍ରାମ୍‍ଟି ରେଟିଂ କରାଯାଇନାହିଁ"</string>
+<string name="program_guide_content_locked_format">"ଏହି ପ୍ରୋଗ୍ରାମ୍ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> ରେଟ୍ କରାଯାଇଛି"</string>
+<string name="msg_no_setup_activity">"ଇନପୁଟ୍ ଅଟୋ-ସ୍କାନ୍ ସପୋର୍ଟ କରେ ନାହିଁ"</string>
+<string name="msg_unable_to_start_setup_activity">"ଅଟୋ-ସ୍କାନ୍ <xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g> ପାଇଁ ଷ୍ଟାର୍ଟ କରିବାରେ ଅସମର୍ଥ"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"କ୍ଲୋଜ୍ ହୋଇଥିବା କ୍ୟାପସନ୍ ଗୁଡ଼ିକ ପାଇଁ ସିଷ୍ଟମ୍-ୱାଇଡ୍ ପ୍ରିଫରେନ୍ସ ଷ୍ଟାର୍ଟ କରିବାରେ ଅସମର୍ଥ"</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"%1$d ଚ୍ୟାନେଲ୍ ମିଶା ଯାଇଛି"</item>
+<item quantity="other">"%1$d ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ ମିଶା ଯାଇଛି"</item>
+</plurals>
+<string name="msg_no_channel_added">"କୌଣସି ଚ୍ୟାନେଲ୍ ମିଶା ଯାଇ ନାହିଁ"</string>
+<string name="menu_parental_controls">"ପ୍ୟାରେଣ୍ଟାଲ୍ କଣ୍ଟ୍ରୋଲ୍"</string>
+<string name="option_toggle_parental_controls_on">"ଖୋଲା"</string>
+<string name="option_toggle_parental_controls_off">"ନିଷ୍କ୍ରିୟ"</string>
+<string name="option_channels_locked">"ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ ବ୍ଲକ୍ ହୋଇଛି"</string>
+<string name="option_channels_lock_all">"ସମସ୍ତଙ୍କୁ ବ୍ଲକ୍ କରନ୍ତୁ"</string>
+<string name="option_channels_unlock_all">"ସବୁଗୁଡ଼ିକ ବ୍ଲକ୍ କରନ୍ତୁ"</string>
+<string name="option_channels_subheader_hidden">"ଉହ୍ୟ ଥିବା ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ"</string>
+<string name="option_program_restrictions">"କାର୍ଯ୍ୟକ୍ରମ କଟକଣାଗୁଡ଼ିକ"</string>
+<string name="option_change_pin">"PIN ବଦଳାନ୍ତୁ"</string>
+<string name="option_country_rating_systems">"ରେଟିଂ ସିଷ୍ଟମ୍"</string>
+<string name="option_ratings">"ରେଟିଂସ୍"</string>
+<string name="option_see_all_rating_systems">"ସମସ୍ତ ରେଟିଂ ସିଷ୍ଟମ୍ ଦେଖନ୍ତୁ"</string>
+<string name="other_countries">"ଅନ୍ୟ ଦେଶଗୁଡ଼ିକ"</string>
+<string name="option_no_locked_channel">"କେହି ନାହିଁ"</string>
+<string name="option_no_enabled_rating_system">"କେହି ନାହିଁ"</string>
+<string name="unrated_rating_name">"ରେଟିଂ କରାଯାଇନାହିଁ"</string>
+<string name="option_block_unrated_programs">"ରେଟିଂ କରାଯାଇନଥିବା ପ୍ରୋଗ୍ରାମଗୁଡ଼ିକୁ ବ୍ଲକ କରନ୍ତୁ"</string>
+<string name="option_rating_none">"କେହି ନାହିଁ"</string>
+<string name="option_rating_high">"ଉଚ୍ଚ ଧରଣର କଟକଣା"</string>
+<string name="option_rating_medium">"ମଧ୍ୟମ ଧରଣର କଟକଣା"</string>
+<string name="option_rating_low">"ନିମ୍ନ ଧରଣର କଟକଣା"</string>
+<string name="option_rating_custom">"ପରମ୍ପରା"</string>
+<string name="option_rating_high_description">"ପିଲମାନଙ୍କ ପାଇଁ ଉପଯୁକ୍ତ ବିଷୟ"</string>
+<string name="option_rating_medium_description">"ବୟସ୍କ ପିଲାଙ୍କ ପାଇଁ ଉପଯୁକ୍ତ ବିଷୟ"</string>
+<string name="option_rating_low_description">"କିଶୋରମାନଙ୍କ ପାଇଁ ଉପଯୁକ୍ତ ବିଷୟ"</string>
+<string name="option_rating_custom_description">"ମାନ୍ୟୁଆଲ୍ କଟକଣା"</string>
+<string name="option_subrating_title">"%1$s ଏବଂ ସବ୍-ରେଟିଂସ"</string>
+<string name="option_subrating_header">"ସବ୍-ରେଟିଂସ୍"</string>
+<string name="pin_enter_unlock_channel">"ଏହି ଚ୍ୟାନେଲ୍ ଦେଖିବା ପାଇଁ PIN ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="pin_enter_unlock_program">"ଏହି ପ୍ରୋଗ୍ରାମ୍ ଦେଖିବା ପାଇଁ PIN ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="pin_enter_unlock_dvr">"ଏହି ପ୍ରୋଗ୍ରାମଟି ରେଟିଂ କରାଯାଇଛି <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. ଏହି ପ୍ରୋଗ୍ରାମଟି ଦେଖିବା ପାଇଁ ଆପଣଙ୍କ PIN ପ୍ରବେଶ କରନ୍ତୁ"</string>
+<string name="pin_enter_unlock_dvr_unrated">"ଏହି ପ୍ରୋଗ୍ରାମ୍‍ଟି ରେଟିଂ କରାଯାଇନାହିଁ. ଏହି ପ୍ରୋଗ୍ରାମଟି ଦେଖିବା ପାଇଁ ଆପଣଙ୍କ PIN ପ୍ରବେଶ କରନ୍ତୁ"</string>
+<string name="pin_enter_pin">"ଆପଣଙ୍କ PIN‍ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="pin_enter_create_pin">"ପ୍ୟାରେଣ୍ଟାଲ୍ କଣ୍ଟ୍ରୋଲ୍ ସେଟ୍ କରିବା ପାଇଁ, ଏକ PIN କ୍ରିଏଟ୍ କରନ୍ତୁ"</string>
+<string name="pin_enter_new_pin">"ନୂଆ PIN ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="pin_enter_again">"ଆପଣଙ୍କ PIN ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="pin_enter_old_pin">"କରେଣ୍ଟ PIN ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"ଆପଣ 5 ଥର ଭୁଲ୍ PIN ପ୍ରବିଷ୍ଟ କଲେ । \n ପୁଣି ଥରେ <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> ସେକେଣ୍ଡରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</item>
+<item quantity="other">"ଆପଣ 5 ଥର ଭୁଲ୍ PIN ପ୍ରବିଷ୍ଟ କଲେ । \n ପୁଣି ଥରେ <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> ସେକେଣ୍ଡରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</item>
+</plurals>
+<string name="pin_toast_wrong">"ସେହି PIN ଭୁଲ୍ ଥିଲା । ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="pin_toast_not_match">"ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ, PIN ମେଳ ଖାଉନାହିଁ"</string>
+<string name="side_panel_title_settings">"ସଂସ୍ଥାପନା"</string>
+<string name="settings_channel_source_item_customize_channels">"ଚ୍ୟାନେଲ୍ ଲିଷ୍ଟ କଷ୍ଟମାଇଜ୍ କରନ୍ତୁ"</string>
+<string name="settings_channel_source_item_customize_channels_description">"ଆପଣଙ୍କ ପ୍ରୋଗ୍ରାମ୍ ଗାଇଡ୍ ପାଇଁ ଚ୍ୟାନେଲ୍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="settings_channel_source_item_setup">"ଚ୍ୟାନେଲ୍ ସୋର୍ସ"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"ନୂଆ ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ ଉପଲବ୍ଧ"</string>
+<string name="settings_parental_controls">"ପ୍ୟାରେଣ୍ଟାଲ୍ କଣ୍ଟ୍ରୋଲ୍"</string>
+<string name="settings_trickplay">"ଟାଇମଶିଫ୍ଟ"</string>
+<string name="settings_trickplay_description">"ଦେଖିଲା ବେଳେ ରେକର୍ଡ କରନ୍ତୁ ଯାହାଦ୍ୱାରା ଆପଣ ଲାଇଭ ପ୍ରୋଗ୍ରାମ ପଜ୍‍ ଏବଂ ରିୱାଇଣ୍ଡ କରିପାରିବେ.\nସତର୍କତା:ଏହାଦ୍ୱାରା ଷ୍ଟୋରେଜର ଅତିରିକ୍ତ ବ୍ୟବହାର କାରଣରୁ ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜର ଆୟୁ ହ୍ରାସ ପାଇପାରେ."</string>
+<string name="settings_menu_licenses">"ଓପନ୍‌ ସୋର୍ସ୍‌ ଲାଇସେନ୍ସଗୁଡିକ"</string>
+<string name="settings_send_feedback">"ମତାମତ ପଠାନ୍ତୁ"</string>
+<string name="settings_menu_version">"ଭର୍ସନ୍"</string>
+<string name="tvview_channel_locked">"ଏହି ଚ୍ୟାନେଲ୍ ଦେଖିବା ପାଇଁ, ରାଇଟ୍ ଦବାନ୍ତୁ ଏବଂ ଆପଣଙ୍କ ପିନ୍ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="tvview_content_locked">"ଏହି କାର୍ଯ୍ୟକ୍ରମ ଦେଖିବା ପାଇଁ, ରାଇଟ୍ ଦବାନ୍ତୁ ଏବଂ ଆପଣଙ୍କ ପିନ୍ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="tvview_content_locked_unrated">"ଏହି ପ୍ରୋଗ୍ରାମ୍‍ଟି ରେଟିଂ କରାଯାଇନାହିଁ.\nଏହି ପ୍ରୋଗ୍ରାମଟି ଦେଖିବା ପାଇଁ, ରାଇଟ ଟିପନ୍ତୁ ଏବଂ ଆପଣଙ୍କ PIN ପ୍ରବେଶ କରନ୍ତୁ"</string>
+<string name="tvview_content_locked_format">"ଏହି କାର୍ଯ୍ୟକ୍ରମ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.ରେଟ୍ କରାଯାଇଛି । \n ଏହି କାର୍ଯ୍ୟକ୍ରମ ଦେଖିବା ପାଇଁ ରାଇଟ୍ ଦବାନ୍ତୁ ଏବଂ ଆପଣଙ୍କ ପିନ୍ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ ।"</string>
+<string name="tvview_channel_locked_no_permission">"ଏହି ଚ୍ୟାନେଲ୍ ଦେଖିବା ପାଇଁ, ଡିଫଲ୍ଟ ଲାଇଭ୍ ଟିଭି ଆପ୍ ବ୍ୟବହାର କରନ୍ତୁ ।"</string>
+<string name="tvview_content_locked_no_permission">"ଏହି କାର୍ଯ୍ୟକ୍ରମ ଦେଖିବା ପାଇଁ, ଡିଫଲ୍ଟ ଲାଇଭ୍ ଟିଭି ଆପ୍ ବ୍ୟବହାର କରନ୍ତୁ ।"</string>
+<string name="tvview_content_locked_unrated_no_permission">"ଏହି ପ୍ରୋଗ୍ରାମ୍‍ଟି ରେଟିଂ କରାଯାଇନାହିଁ.\nଏହି ପ୍ରୋଗ୍ରାମଟି ଦେଖିବା ପାଇଁ,ଡିଫଲ୍ଟ ଲାଇଭ ଟିଭି ଆପ୍‍ ବ୍ୟବହାର କରନ୍ତୁ."</string>
+<string name="tvview_content_locked_format_no_permission">"ଏହି କାର୍ଯ୍ୟକ୍ରମ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.ରେଟ୍ କରାଯାଇଛି । \n ଏହି କାର୍ଯ୍ୟକ୍ରମ ଦେଖିବା ପାଇଁଡିଫଲ୍ଟ ଲାଇଭ୍ ଟିଭି ଆପ୍ ବ୍ୟବହାର କରନ୍ତୁ ।"</string>
+<string name="shrunken_tvview_content_locked">"ପ୍ରୋଗ୍ରାମ୍ ବ୍ଲକ୍ ହୋଇଛି"</string>
+<string name="shrunken_tvview_content_locked_unrated">"ଏହି ପ୍ରୋଗ୍ରାମ୍‍ଟି ରେଟିଂ କରାଯାଇନାହିଁ"</string>
+<string name="shrunken_tvview_content_locked_format">"ଏହି ପ୍ରୋଗ୍ରାମ୍ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g> ରେଟ୍ କରାଯାଇଛି"</string>
+<string name="tvview_msg_audio_only">"କେବଳ ଅଡିଓ"</string>
+<string name="tvview_msg_weak_signal">"ଦୁର୍ବଳ ସିଗନାଲ୍"</string>
+<string name="tvview_msg_no_internet_connection">"କୌଣସି ଇଣ୍ଟରନେଟ୍‍ ସଂଯୋଗ ନାହିଁ"</string>
+<string name="channel_banner_no_title">"ଟାଇଟଲ୍ ଦିଆଯାଇ ନ ଥିବା"</string>
+<string name="channel_banner_locked_channel_title">"ଚ୍ୟାନେଲ୍ ବ୍ଲକ୍ ହୋଇଛି"</string>
+<string name="setup_category_new">"ନୁଆ"</string>
+<string name="setup_category_done">"ସୋର୍ସଗୁଡ଼ିକ"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d ଚ୍ୟାନେଲ୍"</item>
+<item quantity="other">"%1$d ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ"</item>
+</plurals>
+<string name="setup_input_no_channels">"କୌଣସି ଚ୍ୟାନେଲ୍ ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="setup_input_new">"ନୁଆ"</string>
+<string name="setup_input_setup_now">"କୌଣସି ସେଟ୍ ଅପ୍ ନାହିଁ"</string>
+<string name="setup_store_action_title">"ଅଧିକ ସୋର୍ସ ପାଆନ୍ତୁ"</string>
+<string name="setup_store_action_description">"ଲାଇଭ୍ ଚ୍ୟାନେଲ୍ ଅଫର୍ କରୁଥିବା ଆପ୍ ବ୍ରାଉଜ୍ କରନ୍ତୁ"</string>
+<string name="new_sources_title">"ନୂଆ ଚ୍ୟାନେଲ୍ ସୋର୍ସ ଉପଲବ୍ଧ"</string>
+<string name="new_sources_description">"ନୂଆ ଚ୍ୟାନେଲ୍ ସୋର୍ସରେ ଅଫର କରିବା ପାଇଁ ଚ୍ୟାନେଲ୍ ଗୁଡ଼ିକ ରହିଛି । \n ସେଗୁଡ଼ିକ ବର୍ତ୍ତମାନ ସେଟ୍ କରନ୍ତୁ, କିମ୍ବା ଚ୍ୟାନେଲ୍ ସୋର୍ସ ସେଟିଂରେ ଏହା ପରେ କରନ୍ତୁ ।"</string>
+<string name="new_sources_action_setup">"ବର୍ତ୍ତମାନ ସେଟ୍ ଅପ୍ କରନ୍ତୁ"</string>
+<string name="new_sources_action_skip">"ଓକେ, ପାଇଲି"</string>
+<string name="intro_description">"ଟିଭି ମେନ୍ୟୁ ଆକସେସ୍ କରିବା ପାଇଁ <b>ସିଲେକ୍ଟ ଦବାନ୍ତୁ </b> ।"</string>
+<string name="msg_no_input">"କୌଣସି ଟିଭି ଇନପୁଟ୍ ମିଳିଲା ନାହିଁ"</string>
+<string name="msg_no_specific_input">"ଟିଭି ଇନପୁଟ୍ ଖୋଜି ପାରୁ ନାହିଁ"</string>
+<string name="msg_not_passthrough_input">"ଟ୍ୟୁନର ଧରଣ ଉପଯୁକ୍ତ ନୁହେଁ | ଦୟାକରି ଟ୍ୟୁନର ଧରଣର ଟିଭି ଇନ୍‍ପୁଟ୍‍ ପାଇଁ  <xliff:g id="app_name">ଲାଇଭ ଟିଭି</xliff:g> ଚାଲୁ କରନ୍ତୁ |"</string>
+<string name="msg_tune_failed">"ଟ୍ୟୁନ୍ ବିଫଳ ହୋଇଛି"</string>
+<string name="msg_missing_app">"ଏହି କାମକୁ ପରିଚାଳିତ କରିବାକୁ କୌଣସି ଆପ୍‌ ମିଳିଲାନାହିଁ |"</string>
+<string name="msg_all_channels_hidden">"ସମସ୍ତ ସୋର୍ସ ଚ୍ୟାନେଲ୍ ଲୁଛିଯାଇଛି । \n ଦେଖିବା ପାଇଁ ଅତି କମ୍ ରେ ଗୋଟିଏ ଚ୍ୟାନେଲ୍ ଚୟନ କରନ୍ତୁ ।"</string>
+<string name="msg_channel_unavailable_unknown">"ଭିଡିଓ ଅପ୍ରତ୍ୟାଶିତଭାବରେ ଉପଲବ୍ଧ ନାହିଁ"</string>
+<string name="msg_back_key_guide">"ବ୍ୟାକ୍ କୀ ସଂଯୁକ୍ତ ହୋଇଥିବା ଡିଭାଇସ୍ ପାଇଁ । ପ୍ରସ୍ଥାନ କରିବା ପାଇଁ ହୋମ୍ ବଟନ୍ ଦବାନ୍ତୁ ।"</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">ଲାଇଭ ଟିଭି</xliff:g> ଟିଭି ତାଲିକାଗୁଡ଼ିକ ପଢ଼ିବା ପାଇଁଆନୁମତିର ଆବଶ୍ୟକତା ପଡ଼େ |"</string>
+<string name="setup_sources_text">"ଆପଣଙ୍କ ସୋର୍ସଗୁଡ଼ିକ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="setup_sources_description">"ଲାଇଭ ଚ୍ୟାନେଲଗୁଡ଼ିକ ଆପ୍‍ ଦ୍ୱାରା ଉପଲବ୍ଧ ଷ୍ଟ୍ରିମିଂ ଚ୍ୟାନେଲଗୁଡ଼ିକ ସହିତ ପାରମ୍ପରିକ ଚ୍ୟାନେଲର ଅଭିଜ୍ଞତାକୁ ମିଳିତ କରେ.\n\nଇତିମଧ୍ୟରେ ଇନ୍‍ଷ୍ଟଲ କରାଯାଇଥିବା ଚ୍ୟାନେଲ ଉତ୍ସଗୁଡ଼ିକ ସେଟ୍‍ଅପ୍‍ କରି ଆରମ୍ଭ କରନ୍ତୁ. ବା ଲାଇଭ ଚ୍ୟାନେଲଗୁଡ଼ିକ ପ୍ରଦାନ କରୁଥିବା ଅନେକ ଆପ୍‍ ପାଇଁ ଅନ୍‍ଲାଇନ ଷ୍ଟୋର ବ୍ରାଉଜ କରନ୍ତୁ."</string>
+<string name="channels_item_dvr">"ରେକର୍ଡିଂଗୁଡ଼ିକ ଏବଂ ପୂର୍ବନିର୍ଧାରଣଗୁଡ଼ିକ"</string>
+<string name="recording_start_dialog_10_min_duration">"10 ମିନିଟ୍‌"</string>
+<string name="recording_start_dialog_30_min_duration">"30 ମିନିଟ୍‌"</string>
+<string name="recording_start_dialog_1_hour_duration">"1 ଘଣ୍ଟା"</string>
+<string name="recording_start_dialog_3_hours_duration">"3 ଘଣ୍ଟା"</string>
+<string name="dvr_main_recent">"ଏବେ"</string>
+<string name="dvr_main_scheduled">"ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି"</string>
+<string name="dvr_main_series">"ସିରିଜଗୁ୍ଡ଼ିକ"</string>
+<string name="dvr_main_others">"ଅନ୍ୟମାନେ"</string>
+<string name="dvr_msg_cannot_record_channel">"ଚ୍ୟାନେଲଟି ରେକର୍ଡ କରାଯାଇପାରିବ ନାହିଁ."</string>
+<string name="dvr_msg_cannot_record_program">"ପ୍ରୋଗ୍ରାମଟି ରେକର୍ଡ କରାଯାଇପାରିବ ନାହିଁ."</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g>ରେକର୍ଡ କରାଯିବା ପାଇଁ ପୂର୍ବନିର୍ଧାର କରାଯାଇଛି"</string>
+<string name="dvr_msg_current_program_scheduled">"ବର୍ତ୍ତମାନ <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ଠାରୁ <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g> ପର୍ଯ୍ୟନ୍ତ ରେକର୍ଡିଂ ହେଉଛି"</string>
+<string name="dvr_full_schedule_card_view_title">"ସମ୍ପୂର୍ଣ୍ଣ ପୂର୍ବନିର୍ଧାରଣ"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"ପରବର୍ତ୍ତୀ %1$d ଦିନ"</item>
+<item quantity="other">"ପରବର୍ତ୍ତୀ %1$d ଦିନଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d ମିନିଟ"</item>
+<item quantity="other">"%1$d ମିନିଟ"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d ନୁତନ ରେକର୍ଡିଂ"</item>
+<item quantity="other">"%1$d ନୁତନ ରେକର୍ଡିଂଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d ରେକର୍ଡିଂ"</item>
+<item quantity="other">"%1$d ରେକର୍ଡିଂଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଥିବା ରେକର୍ଡିଂ"</item>
+<item quantity="other">"%1$d ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଥିବା ରେକର୍ଡିଂଗୁଡ଼ିକ"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"ରେକର୍ଡିଂ ବାତିଲ କରନ୍ତୁ"</string>
+<string name="dvr_detail_stop_recording">"ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="dvr_detail_watch">"ହାତଘଣ୍ଟା"</string>
+<string name="dvr_detail_play_from_beginning">"ଆରମ୍ଭରୁ ବଜାନ୍ତୁ"</string>
+<string name="dvr_detail_resume_play">"ଚଲେଇବା ପୁନରାରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="dvr_detail_delete">"କାଟ"</string>
+<string name="dvr_detail_series_delete">"ରେକର୍ଡିଂଗୁଡ଼ିକ ଡିଲିଟ କରନ୍ତୁ"</string>
+<string name="dvr_detail_series_resume">"ପୁନ ଚାଲୁକରିବା"</string>
+<string name="dvr_detail_series_season_title">"ଋତୁ <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"ପୂର୍ବନିର୍ଧାରଣ ଦେଖନ୍ତୁ"</string>
+<string name="dvr_detail_read_more">"ଅଧିକ ପଢ଼ନ୍ତୁ"</string>
+<string name="dvr_series_deletion_title">"ରେକର୍ଡିଂଗୁଡ଼ିକ ଡିଲିଟ କରନ୍ତୁ"</string>
+<string name="dvr_series_deletion_description">"ଆପଣ ଡିଲିଟ କରିବାକୁ ଚାହୁଁଥିବା ପର୍ବଗୁଡ଼ିକ ନିର୍ବାଚନ କରନ୍ତୁ. ଥରେ ଡିଲିଟ ହୋ‍ଇଯିବା ପରେ ସେଗୁଡ଼ିକ ପୂନରୁଦ୍ଧାର କରାଯାଇପାରିବ ନାହିଁ."</string>
+<string name="dvr_series_deletion_no_recordings">"ଡିଲିଟ କରିବା ପାଇଁ କୌଣସି ରେକର୍ଡିଂ ନାହିଁ."</string>
+<string name="dvr_series_select_watched">"ଦେଖିସାରିଥିବା ପର୍ବଗୁଡ଼ିକ ନିର୍ବାଚନ କରନ୍ତୁ"</string>
+<string name="dvr_series_select_all">"ସମସ୍ତ ପର୍ବଗୁଡ଼ିକ ନିର୍ବାଚନ କରନ୍ତୁ"</string>
+<string name="dvr_series_deselect_all">"ସମସ୍ତ ପର୍ବଗୁଡ଼ିକ ଅନିର୍ବାଚନ କରନ୍ତୁ"</string>
+<string name="dvr_series_watched_info_minutes">"<xliff:g id="watched">%1$d</xliff:g> ର <xliff:g id="duration">%2$d</xliff:g> ମିନିଟ ଦେଖାଯାଇଅଛି"</string>
+<string name="dvr_series_watched_info_seconds">"<xliff:g id="watched">%1$d</xliff:g> ର <xliff:g id="duration">%2$d</xliff:g> ସେକେଣ୍ଡ ଦେଖାଯାଇଅଛି"</string>
+<string name="dvr_series_never_watched">"ଆଦୌ ଦେଖାଯାଇନାହିଁ"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%2$dଟି ମଧ୍ୟରୁ %1$dଟି ପର୍ବ ଡିଲିଟ ହୋ‍ଇଯାଇଛି" </item>
+<item quantity="other">"%2$dଟି ମଧ୍ୟରୁ %1$dଟି ପର୍ବ ଡିଲିଟ ହୋ‍ଇଯାଇଛି"</item>
+</plurals>
+<string name="dvr_series_settings_priority">"ପ୍ରାଥମିକତା"</string>
+<string name="dvr_series_settings_priority_highest">"ସର୍ବୋଚ୍ଚ"</string>
+<string name="dvr_series_settings_priority_lowest">"ସର୍ବନିମ୍ନ"</string>
+<string name="dvr_series_settings_priority_rank">"ନଂ. <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"ଚ୍ୟାନେଲଗୁଡ଼ିକ"</string>
+<string name="dvr_series_settings_channels_all">"ଯେକୌଣସି"</string>
+<string name="dvr_priority_title">"ଅଗ୍ରାଧିକାର ବାଛନ୍ତୁ"</string>
+<string name="dvr_priority_description">"ଯେତେବେ ଏକ ସମୟରେ ଅନେକଗୁଡ଼ିଏ ପ୍ରୋଗ୍ରାମ ରେକର୍ଡ କରିବାକୁ ଥାଏ, ସର୍ବୋଚ୍ଚ ଅଗ୍ରାଧିକାର ରହିଥିବାରଟି ରେକର୍ଡ ହେବ."</string>
+<string name="dvr_priority_button_action_save">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="dvr_priority_action_one_time_recording">"ଗୋଟିଏ-ଥର ରେକର୍ଡିଂର ସର୍ବୋଚ୍ଚ ଅଗ୍ରାଧିକାର ରହିଛି"</string>
+<string name="dvr_action_stop">"ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="dvr_action_view_schedules">"ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଧାରଣ ଦେଖନ୍ତୁ"</string>
+<string name="dvr_action_record_episode">"ଏହି ଗୋଟିଏ ପ୍ରୋଗ୍ରାମ"</string>
+<string name="dvr_action_record_episode_from_now_description">"ବର୍ତ୍ତମାନ - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"ସମ୍ପୂର୍ଣ୍ଣ ସିରିଜଗୁଡ଼ିକ..."</string>
+<string name="dvr_action_record_anyway">"ଯାହାବି ହେଉ ପୂର୍ବନିର୍ଧାରଣ କରନ୍ତୁ"</string>
+<string name="dvr_action_record_instead">"ତାବଦଳରେ ଏହାକୁ ରେକର୍ଡ କରନ୍ତୁ"</string>
+<string name="dvr_action_record_cancel">"ଏହି ରେକର୍ଡିଂ ବାତିଲ କରନ୍ତୁ"</string>
+<string name="dvr_action_watch_now">"ବର୍ତ୍ତମାନ ଦେଖନ୍ତୁ"</string>
+<string name="dvr_action_delete_recordings">"ରେ୍କର୍ଡିଂଗୁଡ଼ିକୁ ଡିଲିଟ କରନ୍ତୁ..."</string>
+<string name="dvr_epg_program_recordable">"ରେକର୍ଡ ହେବା ଯୋଗ୍ୟ"</string>
+<string name="dvr_epg_program_recording_scheduled">"ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଧାରଣ ହୋ‍ଇଛି"</string>
+<string name="dvr_epg_program_recording_conflict">"ରେକଡିଂ ବିରୋଧ ହୋ‍ଇଛି"</string>
+<string name="dvr_epg_program_recording_in_progress">"ରେକର୍ଡ କରୁଛି"</string>
+<string name="dvr_epg_program_recording_failed">"ରେକର୍ଡିଂ ବ୍ୟର୍ଥ ହୋ‍ଇଛି"</string>
+<string name="dvr_series_progress_message_reading_programs">"ପ୍ରୋଗ୍ରାମଗୁଡ଼ିକ ପଢ଼ୁଅଛି"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"ସାମ୍ପ୍ରତିକ ରେକର୍ଡିଂଗୁଡ଼ିକ ଦେଖନ୍ତୁ"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> ର ରେକର୍ଡିଂ ଅସମ୍ପୂର୍ଣ୍ଣ ରହିଛି."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g> ଏବଂ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ର ରେକର୍ଡିଂଗୁଡ଼ିକ ଅସମ୍ପୂର୍ଣ୍ଣ ରହିଛି."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">" <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ଏବଂ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> ର ରେକର୍ଡିଂଗୁଡ଼ିକ ଅସମ୍ପୂର୍ଣ୍ଣ ରହିଛି."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> ର ରେକର୍ଡିଂ ଅପର୍ଯ୍ୟାପ୍ତ ଷ୍ଟୋରେଜ କାରଣରୁ ସମ୍ପୂର୍ଣ୍ଣ ହୋ‍ଇପାରିନାହିଁ."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g> ଏବଂ <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ର ରେକର୍ଡିଂଗୁଡ଼ିକ ଅପର୍ଯ୍ଯପ୍ତ ଷ୍ଟୋରେଜ କାରଣରୁ ସମ୍ପୂର୍ଣ୍ଣ ହୋ‍ଇପାରିନାହିଁ."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> ଏବଂ <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> ର ରେକର୍ଡିଂଗୁଡ଼ିକ ଅପର୍ଯ୍ୟାପ୍ତ ଷ୍ଟୋରେଜ କାରଣରୁ ସମ୍ପୂର୍ଣ୍ଣ ହୋ‍ଇପାରିନାହିଁ."</string>
+<string name="dvr_error_small_sized_storage_title">"ଅଧି୍କ ଷ୍ଟୋରେଜ ଆବଶ୍ୟକ"</string>
+<string name="dvr_error_small_sized_storage_description">"ଆପଣ ପ୍ରୋଗ୍ରାମଗୁଡ଼ିକ ରେକର୍ଡ କରିପାରିବେ. ତେବେ ରେକର୍ଡିଂ ଆରମ୍ଭ କରିବା ପାଇଁ ଆପଣଙ୍କ ଡିଭାଇସ୍‍ରେ ଯଥେଷ୍ଟ ପରିମାଣରେ ଷ୍ଟୋରେଜ ନାହିଁ. ଦୟାକରି ଏକ ବାହାର ଡିଭାଇସ ଯୋଡ଼ନ୍ତୁ ଯାହା  <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>ଜିବି ବା ଅଧିକ ହୋ‍ଇଥିବ ଏବଂ ଡିଭାଇସ୍‍ ୋରେଜ ହିସାବରେ ଫର୍ମାଟ କରିବା ପାଇଁ ପଦଷେପଗୁଡ଼ିକ ଅନୁସରଣ କରନ୍ତୁ." </string>
+<string name="dvr_error_no_free_space_title">"ଯଥେଷ୍ଟା ଷ୍ଟୋରେଜ ନାହିଁ"</string>
+<string name="dvr_error_no_free_space_description">"ଏହି ପ୍ରୋଗ୍ରାମଟି ରେକର୍ଡ ହେବନାହିଁ କାରଣ ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ ନାହିଁ. କିଛି ବିଦ୍ୟମାନ ରେକର୍ଡିଂ ଡିଲିଟ କରିବା ପରେ ଚେଷ୍ଟା କରନ୍ତୁ."</string>
+<string name="dvr_error_missing_storage_title">"ଷ୍ଟୋରେଜ ମିଳୁନାହିଁ"</string>
+<string name="dvr_stop_recording_dialog_title">"ଷ୍ଟୋରେଜ ମିଳୁନାହିଁ?"</string>
+<string name="dvr_stop_recording_dialog_description">"ରେକର୍ଡ ହୋ‍ଇଥିବା ବିଷୟ ସେଭ ହେବ."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">" <xliff:g id="programName" example="Friends">%1$s</xliff:g> ର ରେକର୍ଡିଂ ଏହି ପ୍ରୋଗ୍ରାମ ସହିତ ବିବାଦ କାରଣରୁ ବନ୍ଦ ହୋ‍ଇଯିବ. ରେକର୍ଡ ହୋ‍ଇଥିବା ବିଷୟ ସେଭ ହେବ."</string>
+<string name="dvr_program_conflict_dialog_title">"ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଦ୍ଧାରଣ ହୋ‍ଇଛି ମାତ୍ର ବିବାଦ ରହିଛି"</string>
+<string name="dvr_channel_conflict_dialog_title">"ରେକର୍ଡିଂ ଆରଭ ହୋ‍ଇଛି ମାତ୍ର ବିବାଦ ରହିଛି"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> ରେକର୍ଡ ହେବ."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> ରେକର୍ଡ ହୋ‍ଇଛି."</string>
+<string name="dvr_program_conflict_dialog_description_1">"<xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g>ର କିଛି ଅଂଶ ରେକର୍ଡ ହେବ ନାହିଁ."</string>
+<string name="dvr_program_conflict_dialog_description_2">" <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> ଏବଂ <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ର କିଛି ଅଂଶ ରେକର୍ଡ ହେବ ନାହିଁ."</string>
+<string name="dvr_program_conflict_dialog_description_3">" <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ର କିଛି ଅଂଶ ଏବଂ ଆଉ ଏକ ପୂର୍ବନିର୍ଧାର୍ଣ ରେକର୍ଡ ହେବ ନାହିଁ."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">" <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> ର କିଛି ଅଂଶ ଏବଂ %3$d ଅଧିକ ପୂର୍ବନିର୍ଧାରଣ ରେକର୍ଡ ହେବ ନାହିଁ."</item>
+<item quantity="other">" <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g>  ର କିଛି ଅଂଶ ଏବଂ %3$d ଅଧିକ ପୂର୍ବନିର୍ଧା୍ରଣ ରେକର୍ଡ ହେବ ନାହିଁ."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"ଆପଣ କଣ ରେକର୍ଡ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"ଆପଣ କେତେ ସମୟ ଧରି ରେକର୍ଡ କରିବେ?"</string>
+<string name="dvr_already_scheduled_dialog_title">"ଇତିମଧ୍ୟରେ ପୂର୍ବନିର୍ଧାରଣ ହୋ‍ଇଛି."</string>
+<string name="dvr_already_scheduled_dialog_description">"ସେହି ପ୍ରୋଗ୍ରାମଟି ଇତିମଧ୍ୟରେ <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g> ରେକର୍ଡ କରାଯିବା ପୂର୍ବନିର୍ଧାରଣ ହୋ‍ଇଛି."</string>
+<string name="dvr_already_recorded_dialog_title">"ଇତିମଧ୍ୟରେ ରେକର୍ଡ ହୋ‍ଇଛି"</string>
+<string name="dvr_already_recorded_dialog_description">"ଏହି ପ୍ରୋଗ୍ରାମଟି ଇତିମଧ୍ୟରେ ରେକର୍ଡ ହୋ‍ଇସାରିଛି. ଏହା DVR ଲାଇବ୍ରେରୀରେ ଉପଲଧ ଅଛି."</string>
+<string name="dvr_series_recording_dialog_title">"ସିରିଜଗୁଡ଼ିକର ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଧାରଣ ହୋ‍ଇଛି"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ରେକର୍ଡିଂ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ରେକର୍ଡିଂଗୁଡ଼ିକ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ରେକର୍ଡିଂ<xliff:g id="seriesName" example="Friends">%2$s</xliff:g> ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଏହା ବିରୋଧ କାରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ରେକର୍ଡିଂଗୁଡ଼ିକ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ସେଗୁଡ଼ିକ ମଧ୍ୟରୁ <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> ଟି ବିରୋଧ କାରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ରେକର୍ଡିଂ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g> ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଏହି ସିରିଜର <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g>  ଏପିସୋଡଗୁଡ଼ିକ ଏବଂ ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ରେକର୍ଡିଂଗୁଡ଼ିଅ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି.  ଏହି ସିରିଜର <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ଏପିସୋଡଗୁଡ଼ିକ ଏବଂ ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ରେକର୍ଡିଂ<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକର 1 ଏପିସୋଡ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ରେକର୍ଡିଂଗୁଡ଼ିକ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକର 1 ଏପିସୋଡ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ରେକର୍ଡିଂ <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକର <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ଏପିସୋଡଗୁଡ଼ିକ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ରେକର୍ଡିଂଗୁଡ଼ିକ<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>ପାଇଁ ପୂର୍ବନିର୍ଧାରଣ କରାଯାଇଛି. ଅନ୍ୟ ସିରିଜଗୁଡ଼ିକର <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ଏପିସୋଡଗୁଡ଼ିକ ବିରୋଧ କରଣରୁ ରେକର୍ଡ ହୋ‍ଇପାରିବ ନାହିଁ."</item>
+</plurals>
+<string name="dvr_program_not_found">"ରେକର୍ଡ ହୋ‍ଇଥିବା ପ୍ରୋଗ୍ରାମ ବିଳିନାହିଁ"</string>
+<string name="dvr_playback_related_recordings">"ସମ୍ପର୍କିତ ରେକର୍ଡିଂଗୁଡ଼ିକ"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d ରେକର୍ଡିଂ"</item>
+<item quantity="other">"%1$d ରେକର୍ଡିଂଗୁଡ଼ିକ"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">":/:"</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g>ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଧାରଣ ଠାରୁ ହଟାଇ ଦିଆଯାଇଛି"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"ଟ୍ୟୁନର ବିରୋଧ କାରଣରୁ ଅଂଶିକଭାବେ ରେକର୍ଡ ହେବ."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"ଟ୍ୟୁନର ବିରୋଧ କାରଣରୁ ରେକର୍ଡ ହେବ ନାହିଁ."</string>
+<string name="dvr_schedules_empty_state">"ଏପର୍ଯ୍ୟନ୍ତ ୌଣସି ରେକର୍ଡିଂ ପୂର୍ବନିର୍ଧାରଣ  କରାଯାଇନାହିଁ. \n ଆପଣ ପ୍ରୋଗ୍ରାମ ଗାଇଡ ମଧ୍ୟରୁ ରେକର୍ଡିଂଗୁଡ଼ିକ ପୂର୍ବନିର୍ଧାରଣ କରିପାରିବେ."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d ରେକର୍ଡିଂ ବିରୋଧ"</item>
+<item quantity="other">"%1$d ରେକର୍ଡିଂଗୁଡ଼ିକ ବିରୋଧ"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"ସିରିଜ ସେଟିଂସ୍‍"</string>
+<string name="dvr_series_schedules_start">"ସିରିଜ ରେକର୍ଡିଂ ଆରମ୍ଭ"</string>
+<string name="dvr_series_schedules_stop">"ସିରିଜ ରେକର୍ଡିଂ ବନ୍ଦ"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"ସିରିଜ ରେକର୍ଡିଂ ବନ୍ଦ କରିବେ?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"ରେକର୍ଡ ହୋ‍ଇଥିବା ଏଇସୋଡଗୁଡ଼ିକ DVR ଲାଇବ୍ରେରୀରେ ଉପଲଧ ରହିବ."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"କୌଣସି ଏପିସୋଡ ବର୍ତ୍ତମାନ ସମ୍ପ୍ରସାରଣ ହେଉନାହିଁ."</string>
+<string name="dvr_series_schedules_empty_state">"କୌଣସି ଏପିସୋଡ ଉପଲବ୍ଦ୍ଧ ନାହି.\nଥରେ ସେଗୁଡ଼ିକ ଉପଲବ୍ଦ୍ଧ ହେଲେ ରେକର୍ଡ ହେବ."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d ମିନିଟ) "</item>
+<item quantity="other">"(%1$d ମିନିଟ)"</item>
+</plurals>
+<string name="dvr_date_today">"ଆଜି"</string>
+<string name="dvr_date_tomorrow">"ଆସନ୍ତାକାଲି"</string>
+<string name="dvr_date_yesterday">"ଗତକାଲି"</string>
+<string name="dvr_date_today_time">"ଆଜି<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> "</string>
+<string name="dvr_date_tomorrow_time">"ଆସନ୍ତାକାଲି<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> "</string>
+<string name="program_guide_critic_score">"ସ୍କୋର"</string>
+<string name="recorded_programs_preview_channel">"ରେକର୍ଡ ହୋ‍ଇଥିବା ପ୍ରୋଗ୍ରାମଗୁଡ଼ିକ"</string>
+</resources>

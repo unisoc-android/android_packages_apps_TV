@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>Normal</item>
+<item>"Mbushur"</item>
+<item>Zmadho</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"Të gjitha kanalet"</item>
+<item>"Familje/Fëmijë"</item>
+<item>"Sporte"</item>
+<item>"Pazar"</item>
+<item>"Filma"</item>
+<item>"Komedi"</item>
+<item>Udhëtim</item>
+<item>"Dramë"</item>
+<item>"Edukim"</item>
+<item>"Kafshë/Bota e egër"</item>
+<item>"Lajme"</item>
+<item>"Lojëra"</item>
+<item>"Arte"</item>
+<item>"Argëtim"</item>
+<item>"Stil jetese"</item>
+<item>Muzika</item>
+<item>"Premierë"</item>
+<item>"Tek/Shkencë"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"Një mënyrë e thjeshtë për të gjetur programe"</item>
+<item>"Shkarkoni aplikacione, merrni më shumë kanale"</item>
+<item>"Personalizoni radhitjen e kanaleve"</item>
+</string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">"Program mungkin mengandungi bahan yang tidak sesuai untuk penonton di bawah 15 tahun, oleh itu budi bicara ibu bapa diperlukan untuk mereka."</string>
+<string name="description_kr_tv_19">"Program mungkin mengandungi bahan yang tidak sesuai untuk penonton di bawah 19 tahun, oleh itu tidak sesuai untuk remaja di bawah usia 19 tahun."</string>
+<string name="description_us_tv_d">"Dialog yang lucah"</string>
+<string name="description_us_tv_l">"Bahasa kasar"</string>
+<string name="description_us_tv_s">"Kandungan seks"</string>
+<string name="description_us_tv_v">"Keganasan"</string>
+<string name="description_us_tv_fv">"Keganasan fantasi"</string>
+<string name="description_us_tv_y">"Program ini direka untuk semua kanak-kanak."</string>
+<string name="description_us_tv_y7">"Program ini direka untuk kanak-kanak berumur 7 tahun ke atas."</string>
+<string name="description_us_tv_g">"Kebanyakan ibu bapa akan mendapati program ini sesuai untuk semua peringkat umur."</string>
+<string name="description_us_tv_pg">"Program ini mengandungi bahan yang ibu bapa mungkin dapati tidak sesuai untuk kanak-kanak. Ramai ibu bapa mungkin mahu menontonnya dengan anak-anak mereka."</string>
+<string name="description_us_tv_14">"Program ini mengandungi bahan yang ramai ibu bapa akan mendapatinya tidak sesuai untuk kanak-kanak di bawah usia 14 tahun."</string>
+<string name="description_us_tv_ma">"Program ini direka khusus untuk ditonton oleh orang dewasa, oleh itu mungkin tidak sesuai untuk kanak-kanak di bawah usia 17 tahun."</string>
+<string name="title_us_mv">"Penarafan filem"</string>
+<string name="description_us_mv_g">"Penonton umum. Tiada apa yang akan menyinggung perasaan ibu bapa kerana ditonton oleh kanak-kanak."</string>
+<string name="description_us_mv_pg">"Bimbingan ibu bapa dicadangkan. Mungkin mengandungi bahan yang ibu bapa tidak suka jika ditonton oleh anak-anak mereka."</string>
+<string name="description_us_mv_pg13">"Amaran kepada ibu bapa. Sesetengah bahan mungkin tidak sesuai untuk remaja."</string>
+<string name="description_us_mv_r">"Disekat, mengandung bahan dewasa. Ibu bapa diminta untuk mendapatkan maklumat lanjut tentang filem ini sebelum membawa anak-anak mereka menonton bersama."</string>
+<string name="description_us_mv_nc17">"Tidak sesiapa yang berusia bawah 17 tahun dibenarkan masuk. Untuk dewasa Kanak-kanak tidak dibenarkan masuk."</string>
+</resources>

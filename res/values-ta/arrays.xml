@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"சாதாரண"</item>
+<item>நிறைவு</item>
+<item>"பெரிதாக்குக"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"எல்லா சேனல்களும்"</item>
+<item>"குடும்பம் / சிறுவர்கள்"</item>
+<item>"விளையாட்டு"</item>
+<item>"கடையில் பொருட்கள் வாங்குதல்"</item>
+<item>திரைப்படங்கள்</item>
+<item>"நகைச்சுவை"</item>
+<item>"பயணம்"</item>
+<item>"டிராமா"</item>
+<item>"கல்வி"</item>
+<item>"விலங்கு / வனவிலங்குகள்"</item>
+<item>"செய்தி"</item>
+<item>"கேமிங்"</item>
+<item>"கலை"</item>
+<item>"பொழுதுபோக்கு"</item>
+<item>"வாழ்க்கைமுறை"</item>
+<item>"இசை"</item>
+<item>"பிரீமியர்"</item>
+<item>"தொழில்நுட்பம் / அறிவியல்"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name"> லைவ் டிவி</xliff:g>"</item>
+<item>"உள்ளடக்கத்தை கண்டறிய ஒரு எளிய வழி"</item>
+<item>"மேலும் சேனல்களைப் பெற பயன்பாடுகளைப் பதிவிறக்கவும் "</item>
+<item>"உங்கள் சேனல் வரிசையை தனிப்பயனாக்கவும்"</item>
+</string-array>
+</resources>

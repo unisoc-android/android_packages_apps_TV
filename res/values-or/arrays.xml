@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"ସ୍ୱାଭାବିକ"</item>
+<item>"ଭର୍ତ୍ତି"</item>
+<item>"ଜୁମ୍‍"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ସମସ୍ତ ଚ୍ୟାନେଲ୍"</item>
+<item>"ପରିବାର/ପିଲାଛୁଆ"</item>
+<item>"ଖେଳ"</item>
+<item>"କିଣାକିଣି"</item>
+<item>"ଫିଲ୍ମ"</item>
+<item>"କମେଡି"</item>
+<item>"ଯାତ୍ରା"</item>
+<item>"ଡ୍ରାମା"</item>
+<item>"ଶିକ୍ଷା"</item>
+<item>"ପଶୁ/ଜୀବଜନ୍ତୁ"</item>
+<item>"ସମ୍ବାଦ"</item>
+<item>"ଗେମ୍"</item>
+<item>"କଳା"</item>
+<item>"ମନୋରଞ୍ଜନ"</item>
+<item>"ଜୀବନଶୈଳୀ"</item>
+<item>"ମ୍ୟୁଜିକ୍‌"</item>
+<item>"ପ୍ରିମିୟର୍"</item>
+<item>"ଟେକ୍ନୋଲୋଜି/ବିଜ୍ଞାନ"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">ଲାଇଭ ଟିଭି</xliff:g> "</item>
+<item>"ସୂଚୀ ଆବିଷ୍କାର କରିବା ପାଇଁ ଏକ ସରଳ ଉପାୟ"</item>
+<item>"ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ, ଅଧିକ ଚ୍ୟାନେଲ୍ ପାଆନ୍ତୁ"</item>
+<item>"ଆପଣଙ୍କ ଚ୍ୟାନେଲ୍ ଲାଇନ୍-ଅପ୍ କଷ୍ଟମାଇଜ୍ କରନ୍ତୁ"</item>
+</string-array>
+</resources>

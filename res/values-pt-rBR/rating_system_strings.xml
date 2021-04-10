@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">"Os programas podem conter material impróprio para audiências menores de 15 anos e, portanto, o poder de discrição dos pais deve ser usado para eles."</string>
+<string name="description_kr_tv_19">"Programas podem conter material impróprio para audiências menores de 19 anos, e por isso não são adequados para adolescentes menores de 19 anos."</string>
+<string name="description_us_tv_d">"Diálogo sugestivo"</string>
+<string name="description_us_tv_l">"Linguagem grosseira"</string>
+<string name="description_us_tv_s">"Conteúdo sexual"</string>
+<string name="description_us_tv_v">"Violência"</string>
+<string name="description_us_tv_fv">"Violência de fantasia"</string>
+<string name="description_us_tv_y">"Este programa é apropriado para todas as crianças."</string>
+<string name="description_us_tv_y7">"Este programa foi criado para crianças com 7 anos de idade ou mais."</string>
+<string name="description_us_tv_g">"A maioria dos pais achariam este programa adequado para todas as idades."</string>
+<string name="description_us_tv_pg">"Este programa contém material que os pais podem achar inadequado para crianças pequenas. Muitos pais podem querer assistí-lo com as suas crianças pequenas."</string>
+<string name="description_us_tv_14">"Este programa contém algum material que muitos pais achariam inadequados para crianças com idades inferiores a 14 anos."</string>
+<string name="description_us_tv_ma">"Este programa foi especificamente desenhado para ser assistido por adultos e, por isso, é inadequado para crianças com idades inferiores a 17 anos."</string>
+<string name="title_us_mv">"Classificações do filme"</string>
+<string name="description_us_mv_g">"Audiências gerais. Nada que ofenda os pais ao ser assistido por crianças."</string>
+<string name="description_us_mv_pg">"Orientação parental sugerida. Pode conter algum material que os pais podem não gostar para as suas crianças pequenas."</string>
+<string name="description_us_mv_pg13">"Pais, muito cuidado. Material pode ser impróprio para pré-adolescentes."</string>
+<string name="description_us_mv_r">"Restrito. Contém material adulto. É aconselhado aos pais que saibam mais sobre o filme antes de mostrar a crianças pequenas."</string>
+<string name="description_us_mv_nc17">"Ninguém com 17 anos ou menos será permitido. Só para adultos. Crianças não permitidas."</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"സാധാരണമായ"</item>
+<item>"പൂര്‍ണ്ണം"</item>
+<item>"സൂം ചെയ്യുക"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"എല്ലാ ചാനലുകളും"</item>
+<item>"കുടുംബം/കുട്ടികൾ"</item>
+<item>"സ്പോർട്സ്"</item>
+<item>"ഷോപ്പിംഗ്"</item>
+<item>"ചലച്ചിത്രങ്ങൾ"</item>
+<item>"കോമഡി"</item>
+<item>"യാത്ര"</item>
+<item>"നാടകം"</item>
+<item>"വിദ്യാഭ്യാസം"</item>
+<item>"ജീവികൾ/വന്യജീവികൾ"</item>
+<item>"വാർത്ത"</item>
+<item>"ഗെയിമുകൾ"</item>
+<item>"കല"</item>
+<item>"വിനോദം"</item>
+<item>"ജീവിതശൈലി"</item>
+<item>"സംഗീതം"</item>
+<item>"പ്രഥമപരിപാടി"</item>
+<item>"സാങ്കേതികം/ശാസ്ത്രം"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">ലൈവ് TV</xliff:g> "</item>
+<item>"ഉള്ളടക്കം കണ്ടുപിടിക്കാനുള്ള ഒരു ലളിത മാർഗ്ഗം"</item>
+<item>"ആപ്പുകൾ ഡൗൺലോഡ് ചെയ്യുക, കൂടുതൽ ചാനലുകൾ നേടുക"</item>
+<item>"നിങ്ങളുടെ ചാനൽ പട്ടിക ഇഷ്ടാനുസൃതമാക്കുക"</item>
+</string-array>
+</resources>

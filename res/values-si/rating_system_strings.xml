@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">"වැඩසටහන් තුළ අවුරුදු 15ට අඩු අය සඳහා නුසුදු දේවල් අඩංගු විය හැකිය, එබැවින් දෙමාපිය අභිමථය ඒවා සඳහා යොදා ගත යුතුය."</string>
+<string name="description_kr_tv_19">"වැඩසටහන් තුළ අවුරුදු 19ට අඩු අය සඳහා නුසුදු දේවල් අඩංගු විය හැකිය, ඒවා අවුරුදු 19ට අඩු අය සඳහා සුදුසු නැත."</string>
+<string name="description_us_tv_d">"යෝජනාත්මක සංවාදය"</string>
+<string name="description_us_tv_l">"රළු භාෂාව"</string>
+<string name="description_us_tv_s">"ලිංගික අන්තර්ගතය"</string>
+<string name="description_us_tv_v">"භීෂණය"</string>
+<string name="description_us_tv_fv">"මනහ්කල්පිත භීෂණය"</string>
+<string name="description_us_tv_y">"මෙම වැඩසටහන සැලසුම් කර ඇත්තේ ළමුන් සඳහා යෝග්‍ය එකක් ලෙසය."</string>
+<string name="description_us_tv_y7">"මෙම වැඩසහන සැලසුම් කර ඇත්තේ වයස අවුරුදු 7 ට වඩා වැඩි ළමුන් වෙනුවෙනි."</string>
+<string name="description_us_tv_g">"බොහෝ දෙමාපියන් මෙම වැඩසටහන සියලු වයස් සඳහා සුදුසු ලෙසට දකිනු ඇත."</string>
+<string name="description_us_tv_pg">"මෙම වැඩසටහනේ ළමුනට නුසුදුසු අන්තර්ගත තිබෙනු ඇති බවට දෙමාපියන් දකිනු ඇත. බොහෝ දෙමාපියන්ට සිය බාල දරුවන් සමඟ එකට හිඳ නැරඹිය හැකි වනු ඇත."</string>
+<string name="description_us_tv_14">"මෙම වැඩසටහනේ අවුරුදු 14ට අඩු ළමුනට නුසුදුසු අන්තර්ගත තිබිය හැකි බවට බොහෝ දෙමාපියන් සිතනු ඇත."</string>
+<string name="description_us_tv_ma">"මෙම වැඩසටහන නිශ්චිතවම සැලසුම් කර ඇත්තේ වැඩිහිටියන්ට නැරඹීමට වන අතර අවුරුදු 17ට අඩු ළමුන් සඳහා එය නුසුදුසු විය හැකිය."</string>
+<string name="title_us_mv">"චිත්‍රපටි ශ්‍රේණිගත කිරීම"</string>
+<string name="description_us_mv_g">"සාමාන්‍ය නරඹන්නන්. ළමුන් සමඟ එකට හිඳ නැරඹීමෙන් දෙමාපියන්ට වරදකාරී නොවනු ඇත."</string>
+<string name="description_us_mv_pg">"දෙමාපිය මඟපෙන්වීම යෝජනා කෙරේ. තම කුඩා දරුවන්ට සුදුසු නොවන බවට දෙමාපියන් අදහස් කරන අන්තර්ගත තිබිය හැකිය."</string>
+<string name="description_us_mv_pg13">"දෙමාපියන්ට දැඩිව අනතුරු අඟවනු ලැබේ. සමහර අන්තර්ගත පූර්ව යෞවනයන් සඳහු සුදුසු නොවනු ඇත."</string>
+<string name="description_us_mv_r">"සීමා කරන ලදි, අන්තර්ගතවල සමහර වැඩිහිටි අන්තර්ගත තිබේ. තම බාල දරුවන් තමන් සමඟ රැගෙන යාමට පෙර චිත්‍රපටිය ගැන වැඩිදුර කරුණු දැන ගන්නා ලෙසට දෙමාපියන්ට බල කෙරේ."</string>
+<string name="description_us_mv_nc17">"17 සහ ඊට අඩු අය පිළි නොගැනේ. පැහැදිලි වැඩිහිටියා. ළමුන් පිළි නොගැනේ."</string>
+</resources>

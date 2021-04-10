@@ -198,7 +198,10 @@
     <string name="dvr_msg_current_program_scheduled" msgid="2505247201782991463">"S\'enregistrarà <xliff:g id="PROGRAMNAME">%1$s</xliff:g> d\'ara fins a les <xliff:g id="ENDTIME">%2$s</xliff:g>"</string>
     <string name="dvr_full_schedule_card_view_title" msgid="7198521806965950089">"Calendari complet"</string>
     <!-- String.format failed for translation -->
-    <!-- no translation found for dvr_full_schedule_card_view_content (790788122541080768) -->
+    <plurals name="dvr_full_schedule_card_view_content">
+      <item quantity="one">"Proper %1$d dia"</item>
+      <item quantity="other">"Propers %1$d dies"</item>
+    </plurals>
     <plurals name="dvr_program_duration" formatted="false" msgid="6742119148312354741">
       <item quantity="other">%1$d minuts</item>
       <item quantity="one">%1$d minut</item>

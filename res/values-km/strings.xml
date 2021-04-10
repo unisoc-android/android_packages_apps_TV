@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">"Mono"</string>
+<string name="audio_channel_stereo">"ស្តេរ៉េអូ"</string>
+<string name="menu_title_play_controls">"ការគ្រប់គ្រងលើការចាក់"</string>
+<string name="menu_title_channels">"ប៉ុស្តិ៍"</string>
+<string name="menu_title_options">"ជម្រើស​ទូរទស្សន៍"</string>
+<string name="play_controls_unavailable">"ការគ្រប់គ្រងលើការចាក់មិនមានសម្រាប់ប៉ុស្តិ៍នេះ ឡើយ"</string>
+<string name="play_controls_description_play_pause">"ចាក់ ឬផ្អាក"</string>
+<string name="play_controls_description_fast_forward">"ខា​ទៅ​មុខ"</string>
+<string name="play_controls_description_fast_rewind">"ខាថយ​ក្រោយ"</string>
+<string name="play_controls_description_skip_next">"បន្ទាប់"</string>
+<string name="play_controls_description_skip_previous">"មុន"</string>
+<string name="channels_item_program_guide">"មគ្គទ្ទេសណែនាំសម្រាប់កម្មវិធី"</string>
+<string name="channels_item_setup">"មានប៉ុស្តិ៍ថ្មី"</string>
+<string name="channels_item_app_link_app_launcher">"បើក <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"ចំណងជើងបិទ"</string>
+<string name="options_item_display_mode">"ម៉ូដបង្ហាញ"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"ពហុសំឡេង"</string>
+<string name="options_item_more_channels">"រកប៉ុស្តិ៍ច្រើនទៀត"</string>
+<string name="options_item_settings">"ការកំណត់"</string>
+<string name="input_long_label_for_tuner">"ទូរទស្សន៍ (អង់តែន/ខ្សែកាប)"</string>
+<string name="no_program_information">"គ្មានព័ត៌មានពីកម្មវិធី"</string>
+<string name="program_title_for_no_information">មិនមានពត៍មានទេ</string>
+<string name="program_title_for_blocked_channel">"ប៉ុស្តិ៍ដែលត្រូវបានទប់ស្កាត់"</string>
+<string name="multi_audio_unknown_language">"ភាសាដែលមិនស្គាល់"</string>
+<string name="closed_caption_unknown_language">"ចំណងជើងបិទ <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"ចំណងជើងបិទ"</string>
+<string name="closed_caption_option_item_off">បិទ</string>
+<string name="closed_caption_system_settings">"ការធ្វើទ្រង់ទ្រាយតាមតម្រូវការ"</string>
+<string name="closed_caption_system_settings_description">"កំណត់ចំណូលចិត្តទូទាំងប្រព័ន្ធសម្រាប់ចំណងជើងបិទ"</string>
+<string name="side_panel_title_display_mode">"ម៉ូដបង្ហាញ"</string>
+<string name="side_panel_title_multi_audio">"ពហុសំឡេង"</string>
+<string name="multi_audio_channel_mono">"Mono"</string>
+<string name="multi_audio_channel_stereo">"ស្តេរ៉េអូ"</string>
+<string name="multi_audio_channel_surround_6">"សំឡេងជុំវិញ 5.1"</string>
+<string name="multi_audio_channel_surround_8">"សំឡេងជុំវិញ 7.1"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> ប៉ុស្ដិ៍"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"ប្ដូរបញ្ជីប៉ុស្តិ៍តាមតម្រូវការ"</string>
+<string name="edit_channels_item_select_group">"ជ្រើសរើសក្រុម"</string>
+<string name="edit_channels_item_deselect_group">"លុបការជ្រើសរើសក្រុម"</string>
+<string name="edit_channels_item_group_by">"បែងចែកតាមក្រុម"</string>
+<string name="edit_channels_group_by_sources">"ប្រភពប៉ុស្តិ៍"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">"បែងចែកតាមក្រុម"</string>
+<string name="program_guide_content_locked">"កម្មវិធីនេះត្រូវបានទប់ស្កាត់"</string>
+<string name="program_guide_content_locked_unrated">"កម្មវិធីនេះមិនត្រូវបានផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="program_guide_content_locked_format">"កម្មវិធីនេះត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"ការបញ្ចូលនេះមិនគាំទ្រការស្កេនស្វ័យប្រវត្តិទេ"</string>
+<string name="msg_unable_to_start_setup_activity">"មិនអាចចាប់ផ្តើមការស្កេនស្វ័យប្រវត្តិសម្រាប់ \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"មិនអាចចាប់ផ្តើមចំណូលចិត្តនៅទូទាំងប្រព័ន្ធសម្រាប់ចំណងជើងបិទទេ។"</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"បានបន្ថែម %1$d ប៉ុស្ដិ៍"</item>
+<item quantity="other">"បានបន្ថែម %1$d ប៉ុស្ដិ៍"</item>
+</plurals>
+<string name="msg_no_channel_added">"គ្មានប៉ុស្តិ៍ត្រូវបានបន្ថែម"</string>
+<string name="menu_parental_controls">"ការគ្រប់គ្រងដោយឪពុកម្ដាយ"</string>
+<string name="option_toggle_parental_controls_on">បើក</string>
+<string name="option_toggle_parental_controls_off">បិទ</string>
+<string name="option_channels_locked">"ប៉ុស្តិ៍ត្រូវបានទប់ស្កាត់"</string>
+<string name="option_channels_lock_all">"ទប់ស្កាត់​ទាំងអស់"</string>
+<string name="option_channels_unlock_all">"ដោះការទប់ស្កាត់ទាំងអស់"</string>
+<string name="option_channels_subheader_hidden">"ប៉ុស្តិ៍ដែលលាក់"</string>
+<string name="option_program_restrictions">"ការរឹតបន្តឹងលើកម្មវិធី"</string>
+<string name="option_change_pin">"ប្ដូរលេខ PIN"</string>
+<string name="option_country_rating_systems">"ប្រព័ន្ធផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="option_ratings">"ការផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="option_see_all_rating_systems">"មើលប្រព័ន្ធផ្ដល់ចំណាត់ថ្នាក់ទាំងអស់"</string>
+<string name="other_countries">"ប្រទេសផ្សេងទៀត"</string>
+<string name="option_no_locked_channel">"គ្មាន"</string>
+<string name="option_no_enabled_rating_system">"គ្មាន"</string>
+<string name="unrated_rating_name">"មិនត្រូវបានផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="option_block_unrated_programs">"ទប់ស្កាត់កម្មវិធីដែលគ្មានការផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="option_rating_none">"គ្មាន"</string>
+<string name="option_rating_high">"ការរឹតបន្តឹងខ្ពស់"</string>
+<string name="option_rating_medium">"ការរឹតបន្តឹងមធ្យម"</string>
+<string name="option_rating_low">"ការរឹតបន្តឹងទាប"</string>
+<string name="option_rating_custom">"តាម​តម្រូវ​ការ"</string>
+<string name="option_rating_high_description">"មាតិកាសក្តិសមសម្រាប់កុមារ"</string>
+<string name="option_rating_medium_description">"មាតិកាសក្តិសមសម្រាប់កុមារធំៗ"</string>
+<string name="option_rating_low_description">"មាតិកាសក្តិសមសម្រាប់មនុស្សវ័យជំទង់"</string>
+<string name="option_rating_custom_description">"ការរឹតបន្តឹងដោយដៃ"</string>
+<string name="option_subrating_title">"%1$s និងការផ្ដល់ចំណាត់ថ្នាក់រង"</string>
+<string name="option_subrating_header">"ការផ្ដល់ចំណាត់ថ្នាក់រង"</string>
+<string name="pin_enter_unlock_channel">"វាយបញ្ចូល PIN របស់អ្នក ដើម្បីមើលប៉ុស្ដិ៍នេះ"</string>
+<string name="pin_enter_unlock_program">"វាយបញ្ចូល PIN របស់អ្នក ដើម្បីមើលកម្មវិធីនេះ"</string>
+<string name="pin_enter_unlock_dvr">"កម្មវិធីនេះត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>។ វាយបញ្ចូល PIN របស់អ្នក ដើម្បីមើលកម្មវិធីនេះ"</string>
+<string name="pin_enter_unlock_dvr_unrated">"កម្មវិធីនេះមិនត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ទេ។ វាយបញ្ចូល PIN របស់អ្នក ដើម្បីមើលកម្មវិធីនេះ"</string>
+<string name="pin_enter_pin">"វាយបញ្ចូល PIN របស់អ្នក"</string>
+<string name="pin_enter_create_pin">"ដើម្បីកំណត់ការគ្រប់គ្រងដោយឪពុកម្ដាយ សូមបង្កើត PIN"</string>
+<string name="pin_enter_new_pin">"វាយបញ្ចូល PIN ថ្មី"</string>
+<string name="pin_enter_again">"បញ្ជាក់លេខ PIN របស់អ្នក"</string>
+<string name="pin_enter_old_pin">"វាយបញ្ចូល PIN បច្ចុប្បន្នរបស់អ្នក"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"អ្នកបានវាយបញ្ចូល PIN ខុស 5 ដង។\nព្យាយាមម្តងទៀតនៅក្នុងរយៈពេល <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> វិនាទីទៀត។"</item>
+<item quantity="other">"អ្នកបានវាយបញ្ចូល PIN ខុស 5 ដង។\nព្យាយាមម្តងទៀតនៅក្នុងរយៈពេល <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> វិនាទីទៀត។"</item>
+</plurals>
+<string name="pin_toast_wrong">"PIN នោះខុស។ សូមព្យាយាមម្តងទៀត។"</string>
+<string name="pin_toast_not_match">"ព្យាយាម​ម្ដង​ទៀត PIN មិនត្រូវ​គ្នាទេ"</string>
+<string name="side_panel_title_settings">"ការកំណត់"</string>
+<string name="settings_channel_source_item_customize_channels">"ប្ដូរបញ្ជីប៉ុស្តិ៍តាមតម្រូវការ"</string>
+<string name="settings_channel_source_item_customize_channels_description">"ជ្រើសរើសប៉ុស្តិ៍សម្រាប់ការណែនាំកម្មវិធីរបស់អ្នក"</string>
+<string name="settings_channel_source_item_setup">"ប្រភពប៉ុស្តិ៍"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"មានប៉ុស្តិ៍ថ្មី"</string>
+<string name="settings_parental_controls">"ការគ្រប់គ្រងដោយឪពុកម្ដាយ"</string>
+<string name="settings_trickplay">"វេន"</string>
+<string name="settings_trickplay_description">"ថតក្នុងពេលកំពុងមើល ដូច្នេះអ្នកអាចផ្អាក ឬខារត្រលប់កម្មវិធីបន្តផ្ទាល់នេះបាន។ \nការព្រមាន៖ វា អាចនឹងបន្ថយអាយុកាលឧបករណ៍ផ្ទុកខាងក្នុងដោយការប្រើប្រាស់ទំហំផ្ទុកច្រើន។ "</string>
+<string name="settings_menu_licenses">"បើកអាជ្ញាបណ្ណប្រភព"</string>
+<string name="settings_send_feedback">"ផ្ញើយោបល់"</string>
+<string name="settings_menu_version">"កំណែ"</string>
+<string name="tvview_channel_locked">"ដើម្បីមើលប៉ុស្តិ៍នេះ ចុចខាងស្តាំ ហើយវាយបញ្ចូល PIN របស់អ្នក"</string>
+<string name="tvview_content_locked">"ដើម្បីមើលកម្មវិធីនេះ ចុចខាងស្តាំ ហើយវាយបញ្ចូល PIN របស់អ្នក"</string>
+<string name="tvview_content_locked_unrated">"កម្មវិធីមិនត្រូវបានផ្ដល់ចំណាត់ថ្នាក់។\nដើម្បីមើលកម្មវិធីនេះ ចុចខាងស្តាំ ហើយវាយបញ្ចូល PIN របស់អ្នក"</string>
+<string name="tvview_content_locked_format">"កម្មវិធីនេះត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>។\nដើម្បីមើលកម្មវិធីនេះ សូមចុច ខាងស្តាំ ហើយវាយបញ្ចូល PIN របស់អ្នក។"</string>
+<string name="tvview_channel_locked_no_permission">"ដើម្បីមើលប៉ុស្តិ៍នេះ សូមប្រើប្រាស់កម្មវិធីទូរទស្សន៍ផ្សាយបន្តផ្ទាល់លំនាំដើម។"</string>
+<string name="tvview_content_locked_no_permission">"ដើម្បីមើលកម្មវិធីនេះ សូមប្រើប្រាស់កម្មវិធីទូរទស្សន៍ផ្សាយបន្តផ្ទាល់លំនាំដើម។"</string>
+<string name="tvview_content_locked_unrated_no_permission">"ដើម្បីមើលប៉ុស្តិ៍នេះ សូមប្រើប្រាស់កម្មវិធីទូរទស្សន៍ផ្សាយបន្តផ្ទាល់លំនាំដើម។"</string>
+<string name="tvview_content_locked_format_no_permission">"កម្មវិធីនេះត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>។\nដើម្បីមើលកម្មវិធីនេះ សូមប្រើប្រាស់កម្មវិធីទូរទស្សន៍ផ្សាយបន្តផ្ទាល់លំនាំដើម។"</string>
+<string name="shrunken_tvview_content_locked">"កម្មវិធីត្រូវបានទប់ស្កាត់"</string>
+<string name="shrunken_tvview_content_locked_unrated">"កម្មវិធីនេះមិនត្រូវបានផ្ដល់ចំណាត់ថ្នាក់"</string>
+<string name="shrunken_tvview_content_locked_format">"កម្មវិធីនេះត្រូវបានផ្ដល់ចំណាត់ថ្នាក់ <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"តែសំឡេងប៉ុណ្ណោះ"</string>
+<string name="tvview_msg_weak_signal">"សញ្ញាខ្សោយ"</string>
+<string name="tvview_msg_no_internet_connection">គ្មានភ្ជាប់អ៊ីនធើណែតទេ</string>
+<string name="channel_banner_no_title">"គ្មានចំណងជើង"</string>
+<string name="channel_banner_locked_channel_title">"ប៉ុស្តិ៍ត្រូវបានទប់ស្កាត់"</string>
+<string name="setup_category_new">ថ្មី</string>
+<string name="setup_category_done">"ប្រភព"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d ប៉ុស្ដិ៍"</item>
+<item quantity="other">"%1$d ប៉ុស្ដិ៍"</item>
+</plurals>
+<string name="setup_input_no_channels">"មិនមានប៉ុស្តិ៍ទេ"</string>
+<string name="setup_input_new">ថ្មី</string>
+<string name="setup_input_setup_now">"មិន​បាន​កំណត់"</string>
+<string name="setup_store_action_title">"ស្វែងរកប្រភពច្រើនទៀត"</string>
+<string name="setup_store_action_description">"រុករកកម្មវិធីដែលផ្តល់ប៉ុស្តិ៍ផ្សាយបន្តផ្ទាល់"</string>
+<string name="new_sources_title">"មានប្រភពប៉ុស្តិ៍ថ្មី"</string>
+<string name="new_sources_description">"ប្រភពប៉ុស្តិ៍ថ្មីមានប៉ុស្តិ៍ដែលត្រូវផ្តល់ជូន។\nដំឡើងពួកវាឥឡូវនេះ ឬធ្វើវានៅពេលក្រោយនៅក្នុងការកំណត់ប្រភពប៉ុស្តិ៍។"</string>
+<string name="new_sources_action_setup">"រៀបចំ ឥឡូវ​នេះ"</string>
+<string name="new_sources_action_skip">"អូខេ យល់ហើយ"</string>
+<string name="intro_description">"<b>ចុចលើពាក្យជ្រើសរើស</b> ដើម្បីចូលប្រើម៉ឺនុយទូរទស្សន៍។"</string>
+<string name="msg_no_input">"គ្មានការបញ្ចូលទូរទស្សន៍ត្រូវបានរកឃើញទេ"</string>
+<string name="msg_no_specific_input">"មិនអាចរកឃើញការបញ្ចូលទូរទស្សន៍ទេ"</string>
+<string name="msg_not_passthrough_input">"ប្រភេទឧបករណ៍ប្ដូរប៉ុស្តិ៍មិនសមស្រប។ សូមបើកដំណើរការកម្មវិធី <xliff:g id="app_name">Live TV</xliff:g>សម្រាប់ការបញ្ចូលទូរទស្សន៍នៃប្រភេទឧបករណ៍ប្ដូរប៉ុស្តិ៍។"</string>
+<string name="msg_tune_failed">"ការសេរ៉េបានបរាជ័យ"</string>
+<string name="msg_missing_app">"រក​មិន​ឃើញ​កម្មវិធី​ដើម្បី​ចាត់ចែង​សកម្មភាព​នេះ​ទេ។"</string>
+<string name="msg_all_channels_hidden">"គ្រប់ប៉ុស្តិ៍ជាប្រភពទាំងអស់ត្រូវបានលាក់។\nសូមជ្រើសយ៉ាងហោចណាស់មួយប៉ុស្តិ៍ដើម្បីមើល។"</string>
+<string name="msg_channel_unavailable_unknown">"វីដេអូនេះមិនមានដោយមិននឹកស្មាន"</string>
+<string name="msg_back_key_guide">"គ្រាប់ចុចថយក្រោយគឺសម្រាប់ឧបករណ៍ដែលត្រូវបានតភ្ជាប់។ ចុចលើប៊ូតុងទំព័រដើម ដើម្បីចាកចេញ។"</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g>ត្រូវការការអនុញ្ញាតដើម្បីអានបញ្ជីទូរទស្សន៍។"</string>
+<string name="setup_sources_text">"ដំឡើងប្រភពរបស់អ្នក"</string>
+<string name="setup_sources_description">"ប៉ុស្តិ៍ផ្សាយបន្តផ្ទាល់រួមបញ្ចូលគ្នានូវបទពិសោធន៍នៃប៉ុស្តិ៍ទូរទស្សន៍បែបសម័យដើមជាមួយប៉ុស្តិ៍ដែលបានស្ទ្រីមដែលត្រូវបានផ្តល់ជូនដោយកម្មវិធី។\n\nចាប់ផ្តើមដោយដំឡើងប្រភពប៉ុស្តិ៍ដែលត្រូវបានដំឡើងរួចហើយ។ ឬរុករកហាងលើបណ្តាញអ៊ីនធឺណិតរកមើលកម្មវិធីច្រើនទៀតដែលផ្តល់នូវប៉ុស្តិ៍ផ្សាយបន្តផ្ទាល់។"</string>
+<string name="channels_item_dvr">"ការថត &amp; កាលវិភាគ"</string>
+<string name="recording_start_dialog_10_min_duration">"10 នាទី"</string>
+<string name="recording_start_dialog_30_min_duration">"30 នាទី"</string>
+<string name="recording_start_dialog_1_hour_duration">១ម៉ោង</string>
+<string name="recording_start_dialog_3_hours_duration">"3 ច្រើនម៉ោង"</string>
+<string name="dvr_main_recent">"ថ្មីៗ​នេះ"</string>
+<string name="dvr_main_scheduled">"បានកំណត់កាលវិភាគ"</string>
+<string name="dvr_main_series">"រឿងភាគ"</string>
+<string name="dvr_main_others">ផ្សេងទៀត</string>
+<string name="dvr_msg_cannot_record_channel">"មិនអាចថតប៉ុស្តិ៍បានទេ។"</string>
+<string name="dvr_msg_cannot_record_program">"មិនអាចថតកម្មវិធីបានទេ។"</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ត្រវបានកំណត់កាលវិភាគថត"</string>
+<string name="dvr_msg_current_program_scheduled">"កំពុងថត <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ពីឥឡូវនេះរហូតដល់ <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"កាលវិភាគពេញ"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"%1$d ថ្ងៃបន្ទាប់"</item>
+<item quantity="other">"%1$d ថ្ងៃបន្ទាប់"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d នាទី"</item>
+<item quantity="other">"%1$d នាទី"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"ការថតថ្មី %1$d"</item>
+<item quantity="other">"ការថតថ្មី %1$d"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"ការថតថ្មី %1$d"</item>
+<item quantity="other">"ការថតថ្មី %1$d"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"បានកំណត់កាលវិភាគការថតថ្មី %1$d"</item>
+<item quantity="other">"បានកំណត់កាលវិភាគការថតថ្មី %1$d"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"បោះបង់ការថត"</string>
+<string name="dvr_detail_stop_recording">" បញ្ឈប់ការថត"</string>
+<string name="dvr_detail_watch">"មើល"</string>
+<string name="dvr_detail_play_from_beginning">"ចាក់តាំងពីដំបូង"</string>
+<string name="dvr_detail_resume_play">"បន្តបញ្ចាំង"</string>
+<string name="dvr_detail_delete">លុបចោល</string>
+<string name="dvr_detail_series_delete">"លុបការថត"</string>
+<string name="dvr_detail_series_resume">"បន្ត"</string>
+<string name="dvr_detail_series_season_title">"រដូវកាល <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"មើលកាលវិភាគ"</string>
+<string name="dvr_detail_read_more">"អានច្រើនទៀត"</string>
+<string name="dvr_series_deletion_title">"លុបការថត"</string>
+<string name="dvr_series_deletion_description">"ជ្រើសរើសភាគដែលអ្នកចង់លុប។ ពួកវាមិនអាចស្ដារបានឡើយនៅពេលត្រូវបានលុបហើយនោះ។"</string>
+<string name="dvr_series_deletion_no_recordings">"មិនមានការថតដែលត្រូវលុបទេ។"</string>
+<string name="dvr_series_select_watched">"ជ្រើសរើសភាគដែលបានមើល"</string>
+<string name="dvr_series_select_all">"ជ្រើសរើសភាគទាំងអស់"</string>
+<string name="dvr_series_deselect_all">"លុបការជ្រើសរើសភាគទាំងអស់"</string>
+<string name="dvr_series_watched_info_minutes">"<xliff:g id="watched">%1$d</xliff:g> នៃ <xliff:g id="duration">%2$d</xliff:g> នាទីត្រូវបានមើល"</string>
+<string name="dvr_series_watched_info_seconds">"<xliff:g id="watched">%1$d</xliff:g> នៃ <xliff:g id="duration">%2$d</xliff:g> នាទីត្រូវបានមើល"</string>
+<string name="dvr_series_never_watched">"មិនដែលត្រូវបានមើល"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%1$d នៃ %2$d ភាគត្រូវបានលុប"</item>
+<item quantity="other">"%1$d នៃ %2$d ភាគត្រូវបានលុប"</item>
+</plurals>
+<string name="dvr_series_settings_priority">អាទិភាព</string>
+<string name="dvr_series_settings_priority_highest">"ខ្ពស់បំផុត"</string>
+<string name="dvr_series_settings_priority_lowest">"ទាបបំផុត"</string>
+<string name="dvr_series_settings_priority_rank">"ទេ។ <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"ប៉ុស្តិ៍"</string>
+<string name="dvr_series_settings_channels_all">"ណាក៏បាន"</string>
+<string name="dvr_priority_title">"ជ្រើសរើសអាទិភាព"</string>
+<string name="dvr_priority_description">"ពេលមានកម្មវិធីច្រើនពេកដែលត្រូវថតក្នុងពេលតែមួយ មានតែកម្មវិធីទាំងឡាយណាដែលមានអាទិភាពខ្ពស់ជាងប៉ុណ្ណោះនឹងត្រូវបានថត។"</string>
+<string name="dvr_priority_button_action_save">រក្សាទុក</string>
+<string name="dvr_priority_action_one_time_recording">"ការថតតែមួយលើកមានអាទិភាពខ្ពស់បំផុត"</string>
+<string name="dvr_action_stop">"ឈប់"</string>
+<string name="dvr_action_view_schedules">"មើលកាលវិភាគការថត"</string>
+<string name="dvr_action_record_episode">"កម្មវិធីទោលនេះ"</string>
+<string name="dvr_action_record_episode_from_now_description">"ឥឡូវនេះ - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"រឿងភាគទាំងមូល…"</string>
+<string name="dvr_action_record_anyway">"យ៉ាងណាក៏កំណត់កាលវិភាគ"</string>
+<string name="dvr_action_record_instead">"ថតមួយនេះវិញ"</string>
+<string name="dvr_action_record_cancel">"បោះបង់ការថតនេះ"</string>
+<string name="dvr_action_watch_now">"មើលឥឡូវនេះ"</string>
+<string name="dvr_action_delete_recordings">"លុបការថត…"</string>
+<string name="dvr_epg_program_recordable">"អាចថតបាន"</string>
+<string name="dvr_epg_program_recording_scheduled">"ការថតត្រូវបានកំណត់ពេល"</string>
+<string name="dvr_epg_program_recording_conflict">"ការប្រឆាំងគ្នានៃការថត"</string>
+<string name="dvr_epg_program_recording_in_progress">ការថតសម្លេង</string>
+<string name="dvr_epg_program_recording_failed">"ការថតបានបរាជ័យ"</string>
+<string name="dvr_series_progress_message_reading_programs">"កំពុងអានកម្មវិធី"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"មើលការថតថ្មីៗ"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"ការថត <xliff:g id="programName" example="Friends">%1$s</xliff:g> មិនទាន់ចប់។"</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"ការថត <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> និង <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> មិនទាន់ចប់។"</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"ការថត <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> និង <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> មិនពេញលេញ។"</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"ការថត <xliff:g id="programName" example="Friends">%1$s</xliff:g> មិនចប់សព្វគ្រប់ដោយសារមិនមានទំហំផ្ទុកគ្រប់គ្រាន់។"</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"ការថត <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> និង <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> មិនចប់សព្វគ្រប់ដោយសារមិនមានទំហំផ្ទុកគ្រប់គ្រាន់។"</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"ការថត <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> និង <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> មិនចប់សព្វគ្រប់ដោយសារមិនមានទំហំផ្ទុកគ្រប់គ្រាន់។"</string>
+<string name="dvr_error_small_sized_storage_title">"ត្រូវការទំហំផ្ទុកថែមទៀត"</string>
+<string name="dvr_error_small_sized_storage_description">"អ្នកនឹងអាចថតកម្មវិធីបាន។ ទោះយ៉ាងនេះក្តី មិនមានទំហំផ្ទុកគ្រប់គ្រាន់នៅលើឧបករណ៍របស់អ្នក ដើម្បីចាប់ផ្តើមថតឡើយ។ សូមតភ្ជាប់ដ្រាយខាងក្រៅដែលមានទំហំ <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>ជីកាបៃ ឬធំជាងនេះ ហើយអនុវត្តតាមជំហាន ដើម្បីធ្វើទ្រង់ទ្រាយវាជាឧបករណ៍ផ្ទុក។"</string>
+<string name="dvr_error_no_free_space_title">"ទំហំផ្ទុកមិនគ្រប់គ្រាន់"</string>
+<string name="dvr_error_no_free_space_description">"កម្មវិធីនេះនឹងមិនត្រូវបានថតទេ ពីព្រោះមិនមានទំហំផ្ទុកគ្រប់គ្រាន់។ សូមសាកល្បងលុបការថតដែលមានស្រាប់ខ្លះ។"</string>
+<string name="dvr_error_missing_storage_title">"បាត់ឧបករណ៍ផ្ទុក"</string>
+<string name="dvr_stop_recording_dialog_title">"ឈប់ថតឬ?"</string>
+<string name="dvr_stop_recording_dialog_description">"មាតិកាដែលបានថតនឹងត្រូវបានរក្សាទុក។"</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"ការថត <xliff:g id="programName" example="Friends">%1$s</xliff:g> នឹងត្រូវបានបញ្ឈប់ ពីព្រោះវាមានប្រឆាំងគ្នាជាមួយកម្មវិធីនេះ។ មាតិកាដែលបានថតនឹងត្រូវបានរក្សាទុក។"</string>
+<string name="dvr_program_conflict_dialog_title">"ការថតត្រូវបានកំណត់ពេលហើយ ប៉ុន្តែមានការប្រឆាំងគ្នា"</string>
+<string name="dvr_channel_conflict_dialog_title">"ការថតបានចាប់ផ្តើមហើយ ប៉ុន្តែមានការប្រឆាំងគ្នា"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> នឹងត្រូវបានថត។"</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> កំពុងត្រូវបានថត។"</string>
+<string name="dvr_program_conflict_dialog_description_1">"ផ្នែកខ្លះនៃ <xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> នឹងមិនត្រូវបានថតទេ។"</string>
+<string name="dvr_program_conflict_dialog_description_2">"ផ្នែកខ្លះនៃ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> និង <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> នឹងមិនត្រូវបានថតទេ។"</string>
+<string name="dvr_program_conflict_dialog_description_3">"ផ្នែកខ្លះនៃ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> និងការកំណត់កាលវិភាគមួយថែមទៀតនឹងមិនត្រូវបានថតទេ។"</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"ផ្នែកខ្លះនៃ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> និងការកំណត់កាលវិភាគ %3$d  ទៀតនឹងមិនត្រូវបានថតទេ។"</item>
+<item quantity="other">"ផ្នែកខ្លះនៃ <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> និងការកំណត់កាលវិភាគ %3$d  ទៀតនឹងមិនត្រូវបានថតទេ។"</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"តើអ្នកចង់ថតអ្វី?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"តើអ្នកចង់ថតយូរប៉ុនណា?"</string>
+<string name="dvr_already_scheduled_dialog_title">"បានកំណត់ពេលរួចហើយ"</string>
+<string name="dvr_already_scheduled_dialog_description">"កម្មវិធីដូចគ្នាត្រូវបានកំណត់ពេលថតរួចហើយនៅម៉ោង <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g>។"</string>
+<string name="dvr_already_recorded_dialog_title">"បានថតរួចហើយ"</string>
+<string name="dvr_already_recorded_dialog_description">"កម្មវិធីនេះត្រូវបានថតរួចហើយ។ វាមាននៅក្នុងបណ្ណាល័យ DVR។"</string>
+<string name="dvr_series_recording_dialog_title">"ការថតរឿងភាគត្រូវបានកំណត់ពេល"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ត្រូវបានកំណត់ពេលនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។"</item>
+<item quantity="other">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ត្រូវបានកំណត់ពេលនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។"</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ត្រូវបានកំណត់ពេលនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ វានឹងមិនត្រូវបានថតទេដោយសារមានការប្រឆាំងគ្នា។"</item>
+<item quantity="other">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ត្រូវបានកំណត់ពេលថតនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> នៃពួកវានឹងមិនត្រូវបានថតទេដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ត្រូវបានកំណត់ពេលថតនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ភាគនៃរឿងភាគនេះ និងរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+<item quantity="other">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ត្រូវបានកំណត់ពេលថតនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ភាគនៃរឿងភាគនេះ និងរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ត្រូវបានកំណត់ពេលនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ 1 ភាគនៃរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+<item quantity="other">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ត្រូវបានកំណត់ពេលនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ 1 ភាគនៃរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> ត្រូវបានកំណត់ពេលថតនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> ភាគនៃរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+<item quantity="other">"ការថតចំនួន <xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> ត្រូវបានកំណត់ពេលថតនៅម៉ោង <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>។ <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> ភាគនៃរឿងភាគដទៃទៀតនឹងមិនត្រូវបានថតឡើយដោយសារតែមានការប្រឆាំងគ្នា។"</item>
+</plurals>
+<string name="dvr_program_not_found">"រកមិនឃើញកម្មវិធីដែលបានថតទេ។"</string>
+<string name="dvr_playback_related_recordings">"ការថតដែលពាក់ព័ន្ធ"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"ការថតថ្មី %1$d"</item>
+<item quantity="other">"ការថតថ្មី %1$d"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">" / "</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> ត្រូវបានលុបចេញពីកាលវិភាគការថត"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"នឹងត្រូវបានថតដោយផ្នែកដោយសារមានការប្រឆាំងគ្នានៃមុខងារសេរ៉េ។"</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"នឹងមិនត្រូវបានថតទេ ដោយសារមានការប្រឆាំងគ្នានៃមុខងារសេរ៉េ។"</string>
+<string name="dvr_schedules_empty_state">"មិនទាន់មានការថតត្រូវបានកំណត់ពេលទេ។\nអ្នកអាចកំណត់ពេលការថតពីមគ្គទ្ទេសក៍ណែនាំកម្មវិធី។"</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"ការថតចំនួន %1$d មានការប្រឆាំងគ្នា"</item>
+<item quantity="other">"ការថតចំនួន %1$d មានការប្រឆាំងគ្នា"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"ការកំណត់រឿងភាគ"</string>
+<string name="dvr_series_schedules_start">"ចាប់ផ្តើមការថតរឿងភាគ"</string>
+<string name="dvr_series_schedules_stop">"បញ្ឈប់ការថតរឿងភាគ"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"បញ្ឈប់ការថតរឿងភាគឬ?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"ភាគដែលបានថតនឹងនៅតែមាននៅក្នុងបណ្ណាល័យ DVR ដដែល។"</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"ឈប់"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"មិនមានភាគណាមួយចាក់ផ្សាយនៅពេលនេះទេ។"</string>
+<string name="dvr_series_schedules_empty_state">"មិនមានភាគណាមួយទេ។\nពួកវានឹងត្រូវបានថតនៅពេលដែលពួកវាមាន។"</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d នាទី) "</item>
+<item quantity="other">"(%1$d នាទី)"</item>
+</plurals>
+<string name="dvr_date_today">"ថ្ងៃនេះ"</string>
+<string name="dvr_date_tomorrow">"ថ្ងៃស្អែក"</string>
+<string name="dvr_date_yesterday">"ម្សិលមិញ"</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> ថ្ងៃនេះ"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> ថ្ងៃស្អែក"</string>
+<string name="program_guide_critic_score">"ពិន្ទុ"</string>
+<string name="recorded_programs_preview_channel">"កម្មវិធីដែលបានថត"</string>
+</resources>

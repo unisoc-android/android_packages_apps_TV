@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item> ပံုမွန</item>
+<item>အျပည့္</item>
+<item>က်ျ္း</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ချန်နယ်အားလုံး"</item>
+<item>"မိသားစု/ကလေးများ"</item>
+<item>"အားကစားများ"</item>
+<item>"စျေးဝယ်ထွက်ခြင်း"</item>
+<item>"ရုပ်ရှင်များ"</item>
+<item>"ဟာသ"</item>
+<item>"ခရီးသွား"</item>
+<item>"အချစ်"</item>
+<item>"ပညာပေး"</item>
+<item>"တိရိစ္ဆာန်/တောရိုင်းတိရစ္ဆာန်"</item>
+<item>"သတင်း"</item>
+<item>"ဂိမ်းကစားခြင်း"</item>
+<item>"အနုပညာ"</item>
+<item>"ဖျော်ဖြေရေး"</item>
+<item>"လူနေမှုပုံစံ"</item>
+<item>ဂီတ</item>
+<item>"ပွဲဦးထွက်"</item>
+<item>"နည်းပညာ/သိပ္ပံ"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"အကြောင်းအရာ ရှာဖွေရန် ရိုးရှင်းသော နည်းလမ်းတစ်ခု"</item>
+<item>"အက်ပ်များကို ဒေါင်းလုဒ်လုပ်ပါ၊ နောက်ထပ် ချန်နယ်များကို ရယူလိုက်ပါ"</item>
+<item>"သင့်တွင်ရှိသော ချန်နယ် နံပါတ်များကို စိတ်ကြိုက်လုပ်ပါ"</item>
+</string-array>
+</resources>

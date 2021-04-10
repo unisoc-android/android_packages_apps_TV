@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">"Baliteke programa hauek 15 urte baino gutxiagoko ikusleentzako eduki ezegokia izatea. Ondorioz, gainbegiratzea gomendatzen diegu gurasoei."</string>
+<string name="description_kr_tv_19">"Baliteke programa hauek 19 urte baino gutxiagoko ikusleentzako eduki ezegokia izatea. Ondorioz, ez dira haientzako egokiak."</string>
+<string name="description_us_tv_d">"Elkarrizketa limurtzaileak"</string>
+<string name="description_us_tv_l">"Hizkera zakarra"</string>
+<string name="description_us_tv_s">"Eduki sexuala"</string>
+<string name="description_us_tv_v">"Indarkeria"</string>
+<string name="description_us_tv_fv">"Fantasiazko indarkeria"</string>
+<string name="description_us_tv_y">"Programa hau egokia da haur guztientzat."</string>
+<string name="description_us_tv_y7">"Programa hau egokia da 7 urte edo gehiago dituzten haurrentzat."</string>
+<string name="description_us_tv_g">"Adin guztietako haurrentzako egokitzat jo dute programa hau guraso gehienek."</string>
+<string name="description_us_tv_pg">"Baliteke guraso batzuek haurrentzako ezegokitzat jotzea programa honen edukia. Guraso askok gaztetxoekin ikustea aukeratzen dute."</string>
+<string name="description_us_tv_14">"14 urte baino gutxiagoko haurrentzako ezegokitzat jo dute programa honen edukia guraso askok."</string>
+<string name="description_us_tv_ma">"Programa hau helduentzako egokia da. Baliteke ezegokia izatea 17 urte baino gutxiagoko haurrentzat."</string>
+<string name="title_us_mv">"Filmen sailkapenak"</string>
+<string name="description_us_mv_g">"Ikusle orokorrentzat. Gurasoek seme-alabekin ikus dezakete lasaitasun osoz."</string>
+<string name="description_us_mv_pg">"Gurasoen gainbegiratzea gomendatzen da. Baliteke edukia gurasoei haurrentzako ezegokia iruditzea."</string>
+<string name="description_us_mv_pg13">"Kontuz ibili, gurasoak. Baliteke edukia 13 urte baino gutxiagoko umeentzako egokia ez izatea."</string>
+<string name="description_us_mv_r">"Mugatua. Helduentzako edukia du. Filmari buruzko informazio gehiago eskuratzea gomendatzen diegu gurasoei, filma umeekin ikusi aurretik."</string>
+<string name="description_us_mv_nc17">"17 urte edo gutxiago dutenek ezin dute ikusi filma. Helduentzako edukia. Umeek ezin dute ikusi."</string>
+</resources>

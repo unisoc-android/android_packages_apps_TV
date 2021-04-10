@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"सामान्य"</item>
+<item>"फुल"</item>
+<item>"झूम"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"सर्व चॅनेल्स"</item>
+<item>"कुटुंब/मुले"</item>
+<item>"खेळ"</item>
+<item>"शॉपिंग"</item>
+<item>"चित्रपट"</item>
+<item>"विनोद"</item>
+<item>"ट्रॅव्हल"</item>
+<item>"नाटक"</item>
+<item>"शिक्षण"</item>
+<item>"प्राणी / वन्यजीवन"</item>
+<item>"बातम्या"</item>
+<item>"गेमिंग"</item>
+<item>"कला"</item>
+<item>"मनोरंजन"</item>
+<item>"जीवनशैली"</item>
+<item>"संगीत"</item>
+<item>"प्रीमियर"</item>
+<item>"तंत्रज्ञान / विज्ञान"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"कंटेंट शोधण्याचा एक सोपा मार्ग"</item>
+<item>"अॅप्स डाऊनलोड करा, आणखी चॅनेल्स मिळवा"</item>
+<item>"तुमचे चॅनेल लाईन-अप कस्टमाईझ करा"</item>
+</string-array>
+</resources>

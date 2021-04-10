@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">Mono</string>
+<string name="audio_channel_stereo">Estereoa</string>
+<string name="menu_title_play_controls">"Erreproduzitzeko kontrolak"</string>
+<string name="menu_title_channels">"Kanalak"</string>
+<string name="menu_title_options">Telebista aukerak</string>
+<string name="play_controls_unavailable">"Erreproduzitzeko kontrolak ezin dira erabili kanal honetan"</string>
+<string name="play_controls_description_play_pause">"Erreproduzitu edo pausatu"</string>
+<string name="play_controls_description_fast_forward">Azkar birbidali</string>
+<string name="play_controls_description_fast_rewind">Errebobinatu</string>
+<string name="play_controls_description_skip_next">"Hurrengoa"</string>
+<string name="play_controls_description_skip_previous">Aurreko</string>
+<string name="channels_item_program_guide">"Telesaioen gida"</string>
+<string name="channels_item_setup">"Kanal berri batzuk erabilgarri"</string>
+<string name="channels_item_app_link_app_launcher">"Ireki <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"Aukerako azpitituluak"</string>
+<string name="options_item_display_mode">"Bistaratze modua"</string>
+<string name="options_item_pip">PIP</string>
+<string name="options_item_multi_audio">"Hizkuntza anitza"</string>
+<string name="options_item_more_channels">"Eskuratu kanal gehiago"</string>
+<string name="options_item_settings">Ezarpenak</string>
+<string name="input_long_label_for_tuner">"Telebista (antena/kablea)"</string>
+<string name="no_program_information">"Ez dago programari buruzko informaziorik"</string>
+<string name="program_title_for_no_information">"Ez dago informaziorik"</string>
+<string name="program_title_for_blocked_channel">"Kanala blokeatuta dago"</string>
+<string name="multi_audio_unknown_language">"Hizkuntza ezezaguna"</string>
+<string name="closed_caption_unknown_language">"Aukerako azpitituluak (<xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>)"</string>
+<string name="side_panel_title_closed_caption">"Aukerako azpitituluak"</string>
+<string name="closed_caption_option_item_off">Itzalita</string>
+<string name="closed_caption_system_settings">"Pertsonalizatu formatua"</string>
+<string name="closed_caption_system_settings_description">"Ezarri sistema osoko hobespenak aukerako azpitituluei"</string>
+<string name="side_panel_title_display_mode">"Bistaratze modua"</string>
+<string name="side_panel_title_multi_audio">"Hizkuntza anitza"</string>
+<string name="multi_audio_channel_mono">Mono</string>
+<string name="multi_audio_channel_stereo">Estereoa</string>
+<string name="multi_audio_channel_surround_6">"5.1 soinu inguratzailea"</string>
+<string name="multi_audio_channel_surround_8">"7.1 soinu inguratzailea"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> kanal"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"Pertsonalizatu kanalen zerrenda"</string>
+<string name="edit_channels_item_select_group">Hautatu taldea</string>
+<string name="edit_channels_item_deselect_group">"Desautatu taldea"</string>
+<string name="edit_channels_item_group_by">Taldekatu  honen arabera</string>
+<string name="edit_channels_group_by_sources">"Kanal-iturburua"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">Taldekatu  honen arabera</string>
+<string name="program_guide_content_locked">"Programa blokeatuta dago"</string>
+<string name="program_guide_content_locked_unrated">"Programak ez du sailkapenik"</string>
+<string name="program_guide_content_locked_format">"Programaren sailkapena: <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"Sarrerak ez un onartzen bilaketa automatikoa"</string>
+<string name="msg_unable_to_start_setup_activity">"Ezin izan da hasi bilaketa automatikoa hemen: \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"Ezin izan dira hasi sistema osoko hobespenak aukerako azpitituluetan."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"%1$d kanal gehitu da"</item>
+<item quantity="other">"%1$d kanal gehitu dira"</item>
+</plurals>
+<string name="msg_no_channel_added">"Ez da gehitu kanalik"</string>
+<string name="menu_parental_controls">"Gurasoen murriztapenak"</string>
+<string name="option_toggle_parental_controls_on">Piztuta</string>
+<string name="option_toggle_parental_controls_off">Itzalita</string>
+<string name="option_channels_locked">"Blokeatutako kanalak"</string>
+<string name="option_channels_lock_all">Blokeatu guztiak</string>
+<string name="option_channels_unlock_all">"Desblokeatu guztiak"</string>
+<string name="option_channels_subheader_hidden">"Kanal ezkutuak"</string>
+<string name="option_program_restrictions">"Programaren murriztapenak"</string>
+<string name="option_change_pin">Aldatu PINa</string>
+<string name="option_country_rating_systems">"Sailkatzeko sistemak"</string>
+<string name="option_ratings">"Sailkapenak"</string>
+<string name="option_see_all_rating_systems">"Ikusi sailkatzeko sistema guztiak"</string>
+<string name="other_countries">"Beste herrialde batzuk"</string>
+<string name="option_no_locked_channel">Bat ere ez</string>
+<string name="option_no_enabled_rating_system">Bat ere ez</string>
+<string name="unrated_rating_name">"Sailkatu gabea"</string>
+<string name="option_block_unrated_programs">"Blokeatu sailkatu gabeko programak"</string>
+<string name="option_rating_none">Bat ere ez</string>
+<string name="option_rating_high">"Murriztapen sendoak"</string>
+<string name="option_rating_medium">"Murriztapen ertainak"</string>
+<string name="option_rating_low">"Murriztapen ahulak"</string>
+<string name="option_rating_custom">Pertsonalizatuta</string>
+<string name="option_rating_high_description">"Umeentzako eduki egokia"</string>
+<string name="option_rating_medium_description">"Gazteentzako eduki egokia"</string>
+<string name="option_rating_low_description">"Nerabeentzako eduki egokia"</string>
+<string name="option_rating_custom_description">"Eskuzko murriztapenak"</string>
+<string name="option_subrating_title">"%1$s eta bigarren mailako sailkapenak"</string>
+<string name="option_subrating_header">"Bigarren mailako sailkapenak"</string>
+<string name="pin_enter_unlock_channel">"Idatzi PIN kodea kanal hau ikusteko"</string>
+<string name="pin_enter_unlock_program">"Idatzi PIN kodea programa hau ikusteko"</string>
+<string name="pin_enter_unlock_dvr">"Programaren sailkapena: <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. Idatzi PIN kodea programa hau ikusteko"</string>
+<string name="pin_enter_unlock_dvr_unrated">"Programak ez du sailkapenik. Idatzi PIN kodea programa hau ikusteko"</string>
+<string name="pin_enter_pin">Sartu zure PINa</string>
+<string name="pin_enter_create_pin">"Gurasoen murriztapenak ezartzeko, sortu PIN kodea"</string>
+<string name="pin_enter_new_pin">"Idatzi PIN berria"</string>
+<string name="pin_enter_again">Berretsi zure PINa</string>
+<string name="pin_enter_old_pin">"Idatzi uneko PIN kodea"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"Bost aldiz idatzi duzu PIN kodea oker.\nSaiatu berriro <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> segundo barru."</item>
+<item quantity="other">"Bost aldiz idatzi duzu PIN kodea oker.\nSaiatu berriro <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> segundo barru."</item>
+</plurals>
+<string name="pin_toast_wrong">"PIN kodea okerra da. Saiatu berriro."</string>
+<string name="pin_toast_not_match">Berriro saiatu, PIN-ak ez datoz bat</string>
+<string name="side_panel_title_settings">Ezarpenak</string>
+<string name="settings_channel_source_item_customize_channels">"Pertsonalizatu kanalen zerrenda"</string>
+<string name="settings_channel_source_item_customize_channels_description">"Aukeratu telesaioen gidarako kanalak"</string>
+<string name="settings_channel_source_item_setup">"Kanal-iturburuak"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"Kanal berri batzuk erabilgarri"</string>
+<string name="settings_parental_controls">"Gurasoen murriztapenak"</string>
+<string name="settings_trickplay">"Zuzeneko igorpenetan erreprodukzioa kontrolatzeko aukera"</string>
+<string name="settings_trickplay_description">"Grabatu ikusten ari zarena eta zuzeneko programak pausatu edo atzeratu ahal izango dituzu.\nAbisua: asko erabiltzen baduzu barruko memoria, haren iraupena gero eta gutxiagoa izango da."</string>
+<string name="settings_menu_licenses">Ireki iturburu lizentziak</string>
+<string name="settings_send_feedback">Bidali atzeraelikadura</string>
+<string name="settings_menu_version">Bertsioa</string>
+<string name="tvview_channel_locked">"Kanal hau ikusteko, sakatu Ados eta idatzi PIN kodea"</string>
+<string name="tvview_content_locked">"Programa hau ikusteko, sakatu Ados eta idatzi PIN kodea"</string>
+<string name="tvview_content_locked_unrated">"Programak ez du sailkapenik.\nIkusteko, sakatu Ados eta idatzi PIN kodea"</string>
+<string name="tvview_content_locked_format">"Programaren sailkapena: <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nIkusteko, sakatu Ados eta idatzi PIN kodea."</string>
+<string name="tvview_channel_locked_no_permission">"Kanal hau ikusteko, erabili zuzeneko telebista ikusteko aplikazio lehenetsia."</string>
+<string name="tvview_content_locked_no_permission">"Programa hau ikusteko, erabili zuzeneko telebista ikusteko aplikazio lehenetsia."</string>
+<string name="tvview_content_locked_unrated_no_permission">"Programa honek ez du sailkapenik.\nErabili zuzeneko telebista ikusteko aplikazio lehenetsia."</string>
+<string name="tvview_content_locked_format_no_permission">"Programaren sailkapena: <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nErabili zuzeneko telebista ikusteko aplikazio lehenetsia."</string>
+<string name="shrunken_tvview_content_locked">"Programa blokeatuta dago"</string>
+<string name="shrunken_tvview_content_locked_unrated">"Programak ez du sailkapenik"</string>
+<string name="shrunken_tvview_content_locked_format">"Programaren sailkapena: <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"Audioa bakarrik"</string>
+<string name="tvview_msg_weak_signal">"Seinalea ahula da"</string>
+<string name="tvview_msg_no_internet_connection">Interneteko konexiorik gabe</string>
+<string name="channel_banner_no_title">"Ez du izenik"</string>
+<string name="channel_banner_locked_channel_title">"Kanala blokeatuta dago"</string>
+<string name="setup_category_new">Berria</string>
+<string name="setup_category_done">"Iturburuak"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d kanal"</item>
+<item quantity="other">"%1$d kanal"</item>
+</plurals>
+<string name="setup_input_no_channels">"Ez dago kanal erabilgarririk"</string>
+<string name="setup_input_new">Berria</string>
+<string name="setup_input_setup_now">Ez dago konfiguratuta</string>
+<string name="setup_store_action_title">"Eskuratu iturburu gehiago"</string>
+<string name="setup_store_action_description">"Bilatu zuzeneko kanalak eskaintzen dituzten aplikazioetan"</string>
+<string name="new_sources_title">"Kanal-iturburu berriak dago erabilgarri"</string>
+<string name="new_sources_description">"Kanal-iturburu berriek kanal berri batzuk eskaintzen dizkizute.\Konfigura itzazu orain edo geroago kanal-iturburuen ezarpenean."</string>
+<string name="new_sources_action_setup">Konfiguratu orain</string>
+<string name="new_sources_action_skip">ADOS, ULERTU DUT</string>
+<string name="intro_description">"<b>Sakatu HAUTATU</b> telebistaren menua atzitzeko."</string>
+<string name="msg_no_input">"Ez da aurkitu telebista-sarrerarik"</string>
+<string name="msg_no_specific_input">"Ezin da aurkitu telebista-sarrera"</string>
+<string name="msg_not_passthrough_input">"Sintonizadore mota ez da egokia. Mesedez abiarazi <xliff:g id="app_name">Live TV</xliff:g> aplikazioa TV sarrera sintonizadore motan ipintzeko."</string>
+<string name="msg_tune_failed">"Sintonizadoreak huts egin du"</string>
+<string name="msg_missing_app">Ez da  ekintza hau burutzeko aplikaziorik aurkitu.</string>
+<string name="msg_all_channels_hidden">"Kanal-iturburu guztiak ezkututa daude.\nHautatu ikusteko kanal bat gutxienez."</string>
+<string name="msg_channel_unavailable_unknown">"Bideoa ez dago erabilgarri"</string>
+<string name="msg_back_key_guide">"ATZERA tekla konektatutako gailurako da. Sakatu HASIERA botoia irteteko."</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g> baimenak behar ditu TV zerrendak irakurtzeko."</string>
+<string name="setup_sources_text">"Konfiguratu iturburuak"</string>
+<string name="setup_sources_description">"Zuzeneko kanalek telebista-kanal tradizionalen kutsua eta aplikazioek eskaintzen dituzten eta zuzenean igortzen diren kanalen erosotasuna konbinatzen dituzte.\n\nHasteko, konfiguratu instalatutako kanal-iturburuak. Bestela, bilatu zuzeneko kanalak eskaintzen dituzten aplikazioak sareko dendan."</string>
+<string name="channels_item_dvr">"Grabaketak eta programatutakoak"</string>
+<string name="recording_start_dialog_10_min_duration">10 min</string>
+<string name="recording_start_dialog_30_min_duration">30 min</string>
+<string name="recording_start_dialog_1_hour_duration">1 ordu</string>
+<string name="recording_start_dialog_3_hours_duration">3 ordu</string>
+<string name="dvr_main_recent">Azkena</string>
+<string name="dvr_main_scheduled">"Programatutakoak"</string>
+<string name="dvr_main_series">"Telesailak"</string>
+<string name="dvr_main_others">Bestelakoak</string>
+<string name="dvr_msg_cannot_record_channel">"Kanala ezin da grabatu."</string>
+<string name="dvr_msg_cannot_record_program">"Programa ezin da grabatu."</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> programatu da grabatzeko"</string>
+<string name="dvr_msg_current_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> grabatzen oraindik ordu honetara arte: <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"Programazio osoa"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"Hurrengo %1$d eguna"</item>
+<item quantity="other">"Hurrengo %1$d egun"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"Minutu %1$d"</item>
+<item quantity="other">"%1$d minutu"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"Grabaketa berri %1$d"</item>
+<item quantity="other">"%1$d grabaketa berri"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d grabaketa"</item>
+<item quantity="other">"%1$d grabaketa"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d grabaketa programatu da"</item>
+<item quantity="other">"%1$d grabaketa programatu dira"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"Utzi grabatzeari"</string>
+<string name="dvr_detail_stop_recording">"Utzi grabatzeari"</string>
+<string name="dvr_detail_watch">Erlojua</string>
+<string name="dvr_detail_play_from_beginning">"Erreproduzitu hasieratik"</string>
+<string name="dvr_detail_resume_play">Erreprodukzioa berrekin</string>
+<string name="dvr_detail_delete">"Ezabatu"</string>
+<string name="dvr_detail_series_delete">"Ezabatu grabaketak"</string>
+<string name="dvr_detail_series_resume">Berrekin</string>
+<string name="dvr_detail_series_season_title">"<xliff:g id="season_number">%1$s</xliff:g>. denboraldia"</string>
+<string name="dvr_detail_view_schedule">"Ikusi programatutakoa"</string>
+<string name="dvr_detail_read_more">"Lortu informazio gehiago"</string>
+<string name="dvr_series_deletion_title">"Ezabatu grabaketak"</string>
+<string name="dvr_series_deletion_description">"Hautatu ezabatu nahi dituzun pasarteak. Ezabatu ondoren, ezin izango dituzu berreskuratu."</string>
+<string name="dvr_series_deletion_no_recordings">"Ez dago ezabatzeko grabaketarik."</string>
+<string name="dvr_series_select_watched">"Hautatu ikusitako pasarteak"</string>
+<string name="dvr_series_select_all">"Hautatu pasarte guztiak"</string>
+<string name="dvr_series_deselect_all">"Desautatu pasarte guztiak"</string>
+<string name="dvr_series_watched_info_minutes">"Ikusitakoa: <xliff:g id="watched">%1$d</xliff:g>/<xliff:g id="duration">%2$d</xliff:g> minutu"</string>
+<string name="dvr_series_watched_info_seconds">"Ikusitakoa: <xliff:g id="watched">%1$d</xliff:g>/<xliff:g id="duration">%2$d</xliff:g> segundo"</string>
+<string name="dvr_series_never_watched">"Ez da inoiz ikusi"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"Ezabatutakoa: %1$d/%2$d pasarte"</item>
+<item quantity="other">"Ezabatutakoa: %1$d/%2$d pasarte"</item>
+</plurals>
+<string name="dvr_series_settings_priority">Lehentasuna</string>
+<string name="dvr_series_settings_priority_highest">"Handiena"</string>
+<string name="dvr_series_settings_priority_lowest">"Txikiena"</string>
+<string name="dvr_series_settings_priority_rank">"<xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"Kanalak"</string>
+<string name="dvr_series_settings_channels_all">"Guztiak"</string>
+<string name="dvr_priority_title">"Aukeratu lehentasuna"</string>
+<string name="dvr_priority_description">"Grabatzeko kanal gehiegi ordu berean badago, lehentasun handiagoa dutenak bakarrik grabatuko dira."</string>
+<string name="dvr_priority_button_action_save">Gorde</string>
+<string name="dvr_priority_action_one_time_recording">"Aldi bakarreko grabaketek lehentasun handiena izango dute"</string>
+<string name="dvr_action_stop">Gelditu</string>
+<string name="dvr_action_view_schedules">"Ikusi grabazio-programazioa"</string>
+<string name="dvr_action_record_episode">"Pasarte hau bakarrik"</string>
+<string name="dvr_action_record_episode_from_now_description">"oraindik ordu honetara arte: <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"Telesail osoa&#8230;"</string>
+<string name="dvr_action_record_anyway">"Programatu halere"</string>
+<string name="dvr_action_record_instead">"Horren ordez, grabatu hau"</string>
+<string name="dvr_action_record_cancel">"Utzi grabaketa hau bertan behera"</string>
+<string name="dvr_action_watch_now">"Ikusi orain"</string>
+<string name="dvr_action_delete_recordings">"Ezabatu grabaketak&#8230;"</string>
+<string name="dvr_epg_program_recordable">"Graba daiteke"</string>
+<string name="dvr_epg_program_recording_scheduled">"Programatu da grabaketa"</string>
+<string name="dvr_epg_program_recording_conflict">"Grabatzeko gatazkak"</string>
+<string name="dvr_epg_program_recording_in_progress">Grabazioa</string>
+<string name="dvr_epg_program_recording_failed">"Ezin izan da grabatu"</string>
+<string name="dvr_series_progress_message_reading_programs">"Programak irakurtzen"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"Ikusi azken grabaketak"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> programaren grabaketa osatu gabe dago."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g> eta <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> programen grabaketak osatu gabe daude."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"<xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> eta <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> programen grabaketak osatu gabe daude."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"Ezin izan da osatu <xliff:g id="programName" example="Friends">%1$s</xliff:g> programaren grabaketa, biltegiratzeko behar adina toki ez dagoelako."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"Ezin izan dira osatu <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> eta <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> programen grabaketak, biltegiratzeko behar adina toki ez dagoelako."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"Ezin izan dira osatu <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> eta <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> programen grabaketak, biltegiratzeko behar adina toki ez dagoelako."</string>
+<string name="dvr_error_small_sized_storage_title">"Memoria gehiago behar da"</string>
+<string name="dvr_error_small_sized_storage_description">"Programak grabatu ahal izango dituzu. Baina ez dago behar adina toki gailuan grabaketa hasteko. Konektatu <xliff:g id="storage_size" example="10GB">%1$d</xliff:g> GB edo gehiago dituen kanpoko unitate bat eta jarraitu urratsei biltegi-unitate gisa formateatzeko."</string>
+<string name="dvr_error_no_free_space_title">"Ez dago behar adina biltegiratzeko toki"</string>
+<string name="dvr_error_no_free_space_description">"Programa ez da grabatuko, behar adina biltegiratzeko toki ez dagoelako. Ezabatu grabaketa batzuk."</string>
+<string name="dvr_error_missing_storage_title">"Ez dago biltegiratzeko tokirik"</string>
+<string name="dvr_stop_recording_dialog_title">"Grabatzeari utzi nahi diozu?"</string>
+<string name="dvr_stop_recording_dialog_description">"Grabatutako edukia gorde egingo da."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"Geldituko da <xliff:g id="programName" example="Friends">%1$s</xliff:g> telesaioaren grabaketa, gatazkak sortzen dituelako programa honekin. Grabatutako edukia gorde egingo da."</string>
+<string name="dvr_program_conflict_dialog_title">"Programatu da grabaketa, baina gatazka batzuk sor daitezke"</string>
+<string name="dvr_channel_conflict_dialog_title">"Hasi da grabaketak, baina gatazka batzuk sortzen ditu"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> grabatuko da."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> grabatzen ari da."</string>
+<string name="dvr_program_conflict_dialog_description_1">"<xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> telesaioaren atal batzuk ez dira grabatuko."</string>
+<string name="dvr_program_conflict_dialog_description_2">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> eta <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> telesaioen atal batzuk ez dira grabatuko."</string>
+<string name="dvr_program_conflict_dialog_description_3">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> eta programatutako beste programa baten atal batzuk ez dira grabatuko."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> eta programatutako beste %3$d programaren atal batzuk ez dira grabatuko."</item>
+<item quantity="other">"<xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> eta programatutako beste %3$d programaren atal batzuk ez dira grabatuko."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"Zer grabatu nahi duzu?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"Zenbat denboraz grabatu nahi duzu?"</string>
+<string name="dvr_already_scheduled_dialog_title">"Programatu da dagoeneko"</string>
+<string name="dvr_already_scheduled_dialog_description">"Dagoeneko programatu da data eta ordu honetan grabatzeko: <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g>."</string>
+<string name="dvr_already_recorded_dialog_title">"Grabatu da dagoeneko"</string>
+<string name="dvr_already_recorded_dialog_description">"Programa hau dagoeneko grabatu da. Erabilgarri dago bideo-grabagailu digitalaren biltegian."</string>
+<string name="dvr_series_recording_dialog_title">"Programatu da telesaioen grabaketa"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> grabaketa programatu da (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>)."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> grabaketa programatu dira (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>)."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> grabaketa programatu da (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Ez da grabatuko, gatazka batzuk sortu direlako."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> grabaketa programatu dira (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Horietako <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> ez dira grabatuko, gatazka batzuk sortu direlako."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> grabaketa programatu da (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Telesail honetako <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> pasarte eta beste telesail batzuk ez dira grabatuko, gatazka batzuk sortu direlako."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> grabaketa programatu dira (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Telesail honetako <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> pasarte eta beste telesail batzuk ez dira grabatuko, gatazka batzuk sortu direlako."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> grabaketa programatu da (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Beste telesail baten pasarte bat ez da grabatuko, gatazka batzuk sortu direlako."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> grabaketa programatu dira (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Beste telesail baten pasarte bat ez da grabatuko, gatazka batzuk sortu direlako."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> grabaketa programatu da (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Beste telesail batzuen <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> pasarte ez dira grabatuko, gatazka batzuk sortu direlako."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> grabaketa programatu dira (<xliff:g id="seriesName" example="Friends">%2$s</xliff:g>). Beste telesail batzuen <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> pasarte ez dira grabatuko, gatazka batzuk sortu direlako."</item>
+</plurals>
+<string name="dvr_program_not_found">"Ez da aurkitu grabatutako programa."</string>
+<string name="dvr_playback_related_recordings">"Erlazionaturiko grabaketak"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d grabaketa"</item>
+<item quantity="other">"%1$d grabaketa"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">"&#160;/&#160;"</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> kendu da programatutako grabaketetatik"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"Zati batzuk bakarrik grabatuko dira, gatazka batzuk sortu direlako sintonizadorean."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"Ez da grabatuko, gatazka batzuk sortu dira sintonizadorean."</string>
+<string name="dvr_schedules_empty_state">"Ez da inolako grabaketa programatu oraindik.\nProgramatu grabaketak telesaioen gida erabilita."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d gatazka grabatzean"</item>
+<item quantity="other">"%1$d gatazka grabatzean"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"Telesaioen ezarpenak"</string>
+<string name="dvr_series_schedules_start">"Hasi telesaioak grabatzen"</string>
+<string name="dvr_series_schedules_stop">"Utzi telesaioak grabatzeari"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"Telesaioak grabatzeari utzi nahi diozu?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"Grabatutako pasarteak erabilgarri egongo dira bideo-grabagailu digitalaren biltegian."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">Gelditu</string>
+<string name="dvr_series_schedules_stopped_empty_state">"Une honetan ez dago zuzeneko pasarterik."</string>
+<string name="dvr_series_schedules_empty_state">"Ez dago pasarte erabilgarririk.\nGrabatu egingo dira erabilgarri daudenean."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"%1$d minutu) "</item>
+<item quantity="other">"(%1$d minutu)"</item>
+</plurals>
+<string name="dvr_date_today">Gaur</string>
+<string name="dvr_date_tomorrow">bihar</string>
+<string name="dvr_date_yesterday">atzo</string>
+<string name="dvr_date_today_time">"Gaur (<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g>)"</string>
+<string name="dvr_date_tomorrow_time">"Bihar (<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g>)"</string>
+<string name="program_guide_critic_score">"Puntuazioa"</string>
+<string name="recorded_programs_preview_channel">"Grabatutako programak"</string>
+</resources>

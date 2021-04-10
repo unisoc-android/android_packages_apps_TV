@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">Mono</string>
+<string name="audio_channel_stereo">"stereo"</string>
+<string name="menu_title_play_controls">"Kontrollet e luajtjes"</string>
+<string name="menu_title_channels">"Kanalet"</string>
+<string name="menu_title_options">"Opsionet e TV"</string>
+<string name="play_controls_unavailable">"Kontrollet e luajtjes janë të padisponueshme për këtë kanal"</string>
+<string name="play_controls_description_play_pause">"Luaj ose pauzë"</string>
+<string name="play_controls_description_fast_forward">Shpejt përpara</string>
+<string name="play_controls_description_fast_rewind">Prapa</string>
+<string name="play_controls_description_skip_next">Tjetra</string>
+<string name="play_controls_description_skip_previous">E mëparshme</string>
+<string name="channels_item_program_guide">"Guida e programit"</string>
+<string name="channels_item_setup">"Kanale të reja në dispozicion"</string>
+<string name="channels_item_app_link_app_launcher">"Hap <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"Diçiturat"</string>
+<string name="options_item_display_mode">"Metoda e shfaqjes"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"Multi-audio"</string>
+<string name="options_item_more_channels">"Merr më shumë kanale"</string>
+<string name="options_item_settings">Cilësimet</string>
+<string name="input_long_label_for_tuner">"TV (antenë/kabëll)"</string>
+<string name="no_program_information">"Nuk ka informacione për programin"</string>
+<string name="program_title_for_no_information">Nuk ka informacion</string>
+<string name="program_title_for_blocked_channel">"Kanal i bllokuar"</string>
+<string name="multi_audio_unknown_language">"Gjuhë e panjohur"</string>
+<string name="closed_caption_unknown_language">"Nëntitujt e koduar <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"Diçiturat"</string>
+<string name="closed_caption_option_item_off">Joaktive</string>
+<string name="closed_caption_system_settings">"Personalizo formatimin"</string>
+<string name="closed_caption_system_settings_description">"Vendos preferencat për gjithë sistemin për diçiturat"</string>
+<string name="side_panel_title_display_mode">"Metoda e shfaqjes"</string>
+<string name="side_panel_title_multi_audio">"Multi-audio"</string>
+<string name="multi_audio_channel_mono">Mono</string>
+<string name="multi_audio_channel_stereo">"stereo"</string>
+<string name="multi_audio_channel_surround_6">"5.1 rrethues"</string>
+<string name="multi_audio_channel_surround_8">"7.1 rrethues"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> kanale"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"Personalizo listën e kanaleve"</string>
+<string name="edit_channels_item_select_group">Zgjidh grupin</string>
+<string name="edit_channels_item_deselect_group">"Ç\'zgjidh grupin"</string>
+<string name="edit_channels_item_group_by">Grupo sipas</string>
+<string name="edit_channels_group_by_sources">"Burimi i kanalit"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">Grupo sipas</string>
+<string name="program_guide_content_locked">"Ky program është bllokuar"</string>
+<string name="program_guide_content_locked_unrated">"Ky program është i paklasifikuar"</string>
+<string name="program_guide_content_locked_format">"Ky program është klasifikuar <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"Hyrja nuk mbështet skanimin automatik"</string>
+<string name="msg_unable_to_start_setup_activity">"E pamundur të skanohet për \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"E pamundur të hapen preferencat e gjithë sistemit për diçiturat."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"U shtua %1$d kanal"</item>
+<item quantity="other">"U shtuan %1$d kanale"</item>
+</plurals>
+<string name="msg_no_channel_added">"Nuk u shtuan kanale"</string>
+<string name="menu_parental_controls">"Kontrollet prindërore"</string>
+<string name="option_toggle_parental_controls_on">Aktive</string>
+<string name="option_toggle_parental_controls_off">Joaktive</string>
+<string name="option_channels_locked">"Kanale të bllokuara"</string>
+<string name="option_channels_lock_all">"Blloko të gjitha"</string>
+<string name="option_channels_unlock_all">"Zhblloko të gjitha"</string>
+<string name="option_channels_subheader_hidden">"Kanale të fshehura"</string>
+<string name="option_program_restrictions">"Kufizimet e programeve"</string>
+<string name="option_change_pin">Ndrysho PIN</string>
+<string name="option_country_rating_systems">"Sistemet e klasifikimit"</string>
+<string name="option_ratings">"Klasifikimet"</string>
+<string name="option_see_all_rating_systems">"Shiko të gjitha sistemet e klasifikimit"</string>
+<string name="other_countries">"Shtete të tjera"</string>
+<string name="option_no_locked_channel">Heshtur</string>
+<string name="option_no_enabled_rating_system">Heshtur</string>
+<string name="unrated_rating_name">"Pa klasifikim"</string>
+<string name="option_block_unrated_programs">"Blloko programet e paklasifikuara"</string>
+<string name="option_rating_none">Heshtur</string>
+<string name="option_rating_high">"Kufizime të larta"</string>
+<string name="option_rating_medium">"Kufizime mesatare"</string>
+<string name="option_rating_low">"Kufizime të ulëta"</string>
+<string name="option_rating_custom">Personalizuar</string>
+<string name="option_rating_high_description">"Përmbajtje e përshtatshme për fëmijë"</string>
+<string name="option_rating_medium_description">"Përmbajtje e përshtatshme për fëmijët e rritur"</string>
+<string name="option_rating_low_description">"Përmbajtje e përshtatshme për adoleshentët"</string>
+<string name="option_rating_custom_description">"Kufizime manuale"</string>
+<string name="option_subrating_title">"%1$s dhe nën-klasifikimet"</string>
+<string name="option_subrating_header">"Nën-klasifikimet"</string>
+<string name="pin_enter_unlock_channel">"Vendosni PIN-in tuaj për të parë këtë kanal"</string>
+<string name="pin_enter_unlock_program">"Vendosni PIN-in për ta parë këtë program"</string>
+<string name="pin_enter_unlock_dvr">"Ky program është klasifikuar <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. Fut kodin tënd PIN për të parë programin"</string>
+<string name="pin_enter_unlock_dvr_unrated">"Ky program është i paklasifikuar. Fut kodin tënd PIN për të parë programin"</string>
+<string name="pin_enter_pin">"Formoni PIN-in tuaj"</string>
+<string name="pin_enter_create_pin">"Për të vendosur kontrollet prindërore, krijoni një PIN"</string>
+<string name="pin_enter_new_pin">"Vendosni PIN-in e ri"</string>
+<string name="pin_enter_again">Konfirmo PIN-in tënd</string>
+<string name="pin_enter_old_pin">"Vendosni PIN-in tuaj aktual"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"Keni vendosur PIN-in e gabuar 5 herë.\nProvoni përsëri për <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> sekondë."</item>
+<item quantity="other">"Keni vendosur PIN-in e gabuar 5 herë.\nProvoni përsëri për <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> sekonda."</item>
+</plurals>
+<string name="pin_toast_wrong">"Ai PIN ishte i gabuar. Provoni përsëri."</string>
+<string name="pin_toast_not_match">Provoni përsëri, PIN nuk përputhet</string>
+<string name="side_panel_title_settings">Cilësimet</string>
+<string name="settings_channel_source_item_customize_channels">"Personalizo listën e kanaleve"</string>
+<string name="settings_channel_source_item_customize_channels_description">"Zgjidhni kanalet për guidën e programeve"</string>
+<string name="settings_channel_source_item_setup">"Burimet e kanaleve"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"Kanale të reja në dispozicion"</string>
+<string name="settings_parental_controls">"Kontrollet prindërore"</string>
+<string name="settings_trickplay">"Timeshift"</string>
+<string name="settings_trickplay_description">"Regjistro teksa shikon, kështu mund t\'i ndërpresësh ose t\'i rikthesh nga fillimi direkt programet.\nParalajmërim: Kjo gjë mund të shkurtojë jetëgjatësinë e memories së brendshme për shkak të përdorimit të madh të memories."</string>
+<string name="settings_menu_licenses">Hap licencat e burimeve</string>
+<string name="settings_send_feedback">Dërgo reagim</string>
+<string name="settings_menu_version">Versioni</string>
+<string name="tvview_channel_locked">"Për ta parë këtë kanal, shtypni Djathtas dhe vendosni PIN-in"</string>
+<string name="tvview_content_locked">"Për ta parë këtë program, shtypni Djathtas dhe vendosni PIN-in"</string>
+<string name="tvview_content_locked_unrated">"Ky program është i paklasifikuar.\nPër të parë këtë program, shtyp Djathtas dhe fut kodin PIN"</string>
+<string name="tvview_content_locked_format">"Ky program është klasifikuar  <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nPër ta parë këtë program, shtypni Djathtas dhe vendosni PIN-in."</string>
+<string name="tvview_channel_locked_no_permission">"Për ta parë këtë kanal, përdorni aplikacionin standard Live TV."</string>
+<string name="tvview_content_locked_no_permission">"Për ta parë këtë program, përdorni aplikacionin standard Live TV."</string>
+<string name="tvview_content_locked_unrated_no_permission">"Ky program është i paklasifikuar.\nPër të parë këtë program, përdor aplikacionin e paracaktuar Live TV."</string>
+<string name="tvview_content_locked_format_no_permission">"Ky program është klasifikuar <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nPër ta parë këtë program, përdorni aplikacionin standard Live TV."</string>
+<string name="shrunken_tvview_content_locked">"Programi është bllokuar"</string>
+<string name="shrunken_tvview_content_locked_unrated">"Ky program është i paklasifikuar"</string>
+<string name="shrunken_tvview_content_locked_format">"Ky program është klasifikuar <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"Vetëm audio"</string>
+<string name="tvview_msg_weak_signal">"Sinjal i dobët"</string>
+<string name="tvview_msg_no_internet_connection">Asnjë lidhje interneti</string>
+<string name="channel_banner_no_title">"Nuk ka titull"</string>
+<string name="channel_banner_locked_channel_title">"Kanale të bllokuar"</string>
+<string name="setup_category_new">E re</string>
+<string name="setup_category_done">"Burimet"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d kanal"</item>
+<item quantity="other">"%1$d kanale"</item>
+</plurals>
+<string name="setup_input_no_channels">"Nuk ka kanale në dispozicion"</string>
+<string name="setup_input_new">E re</string>
+<string name="setup_input_setup_now">Nuk është konfiguruar</string>
+<string name="setup_store_action_title">"Merr më shumë burime"</string>
+<string name="setup_store_action_description">"Shfletoni aplikacionet që ofrojnë kanale live"</string>
+<string name="new_sources_title">"Burime të reja kanalesh në dispozicion"</string>
+<string name="new_sources_description">"Burimet e reja të kanaleve ofrojnë kanale të reja.\nKonfigurojini tani, ose bëjeni më vonë në konfigurimet e burimeve të kanaleve."</string>
+<string name="new_sources_action_setup">Ndërto tani</string>
+<string name="new_sources_action_skip">NË RREGULL, E KUPTOVA</string>
+<string name="intro_description">"<b>Shtypni ZGJIDH</b> për të hapur menunë e televizorit."</string>
+<string name="msg_no_input">"Nuk është gjetur hyrje për televizorin"</string>
+<string name="msg_no_specific_input">"Nuk mund të gjendet hyrja për televizorin"</string>
+<string name="msg_not_passthrough_input">"Lloji i akorduesit jo i përshtatshëm. Hap aplikacionin <xliff:g id="app_name">Live TV</xliff:g> për hyrjen në TV të lloji akordues."</string>
+<string name="msg_tune_failed">"Akordimi dështoi"</string>
+<string name="msg_missing_app">Nuk u gjet asnjë aplikacion për të kryer këtë veprim.</string>
+<string name="msg_all_channels_hidden">"Të gjitha kanalet e burimit janë të fshehura.\nZgjidhni të paktën një kanal për të parë."</string>
+<string name="msg_channel_unavailable_unknown">"Videoja është papritur e padisponueshme"</string>
+<string name="msg_back_key_guide">"Butoni PRAPA është për pajisjen e lidhur. Shtypni butonin SHTËPI për të dalë."</string>
+<string name="msg_read_tv_listing_permission_denied">"<xliff:g id="app_name">Live TV</xliff:g> ka nevojë për leje për të lexuar listat në TV."</string>
+<string name="setup_sources_text">"Konfiguroni burimet tuaja"</string>
+<string name="setup_sources_description">"Kanalet direkt ndërthurin përvojën e kanaleve televizive të zakonshme me kanalet e transmetimit të siguruara nga aplikacionet.\n\nFillo duke konfiguruar burimet e kanaleve të instaluara tashmë. Ose shfleto dyqanin online për aplikacione të tjera që ofrojnë kanale direkte."</string>
+<string name="channels_item_dvr">"Regjistrimet &amp; programimet"</string>
+<string name="recording_start_dialog_10_min_duration">10 minuta</string>
+<string name="recording_start_dialog_30_min_duration">30 minuta</string>
+<string name="recording_start_dialog_1_hour_duration">1 orë</string>
+<string name="recording_start_dialog_3_hours_duration">3 orë</string>
+<string name="dvr_main_recent">Të fundit</string>
+<string name="dvr_main_scheduled">"Programuar"</string>
+<string name="dvr_main_series">"Seritë"</string>
+<string name="dvr_main_others">Të tjera</string>
+<string name="dvr_msg_cannot_record_channel">"Kanali nuk mund të regjistrohet."</string>
+<string name="dvr_msg_cannot_record_program">"Programi nuk mund të regjistrohet."</string>
+<string name="dvr_msg_program_scheduled">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> u programua për t\'u regjistruar"</string>
+<string name="dvr_msg_current_program_scheduled">"Duke regjistruar <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> nga tani deri në <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"Programim i plotë"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"%1$d ditën tjetër"</item>
+<item quantity="other">"%1$d ditët e tjera"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d minutë"</item>
+<item quantity="other">"%1$d minuta"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d regjistrim i ri"</item>
+<item quantity="other">"%1$d regjistrime të reja"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d regjistrim"</item>
+<item quantity="other">"%1$d regjistrime"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d regjistrim i programuar"</item>
+<item quantity="other">"%1$d regjistrime të programuara"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"Anulo regjistrimin"</string>
+<string name="dvr_detail_stop_recording">"Ndalo Regjistrimin"</string>
+<string name="dvr_detail_watch">Orë dore</string>
+<string name="dvr_detail_play_from_beginning">"Luaj nga fillimi"</string>
+<string name="dvr_detail_resume_play">Vazhdo luajtjen</string>
+<string name="dvr_detail_delete">Fshi</string>
+<string name="dvr_detail_series_delete">"Fshij regjistrimet"</string>
+<string name="dvr_detail_series_resume">Vazhdo</string>
+<string name="dvr_detail_series_season_title">"Sezoni <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"Shfaq programimin"</string>
+<string name="dvr_detail_read_more">"Lexo më shumë"</string>
+<string name="dvr_series_deletion_title">"Fshij regjistrimet"</string>
+<string name="dvr_series_deletion_description">"Zgjidh episodet që dëshiron të fshish. Ato nuk mund të kthehen mbrapsht pasi të fshihen."</string>
+<string name="dvr_series_deletion_no_recordings">"Nuk ka asnjë regjistrim për të fshirë."</string>
+<string name="dvr_series_select_watched">"Zgjidh episodet e shikuara"</string>
+<string name="dvr_series_select_all">"Zgjidh të gjitha episodet"</string>
+<string name="dvr_series_deselect_all">"Çzgjidh të gjitha episodet"</string>
+<string name="dvr_series_watched_info_minutes">"Është parë <xliff:g id="watched">%1$d</xliff:g> nga <xliff:g id="duration">%2$d</xliff:g> minuta"</string>
+<string name="dvr_series_watched_info_seconds">"Është parë <xliff:g id="watched">%1$d</xliff:g> nga <xliff:g id="duration">%2$d</xliff:g> sekonda"</string>
+<string name="dvr_series_never_watched">"Pa shikuar asnjëherë"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%1$d nga %2$d episod u fshi"</item>
+<item quantity="other">"%1$d nga %2$d episode u fshinë"</item>
+</plurals>
+<string name="dvr_series_settings_priority">Prioriteti</string>
+<string name="dvr_series_settings_priority_highest">"Më i larti"</string>
+<string name="dvr_series_settings_priority_lowest">"Më i ulëti"</string>
+<string name="dvr_series_settings_priority_rank">"Nr. <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"Kanalet"</string>
+<string name="dvr_series_settings_channels_all">"Çfarëdo"</string>
+<string name="dvr_priority_title">"Zgjidh prioritetin"</string>
+<string name="dvr_priority_description">"Kur ka shumë programe për t\'u regjistruar në të njëjtën kohë, do të regjistrohen vetëm programet me prioritetet më të larta."</string>
+<string name="dvr_priority_button_action_save">Ruaj</string>
+<string name="dvr_priority_action_one_time_recording">"Regjistrimet për një herë kanë prioritetin më të lartë"</string>
+<string name="dvr_action_stop">Ndalo</string>
+<string name="dvr_action_view_schedules">"Shfaq programimin e regjistrimit"</string>
+<string name="dvr_action_record_episode">"Ky program i vetëm"</string>
+<string name="dvr_action_record_episode_from_now_description">"tani - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"Të gjitha seritë&#8230;"</string>
+<string name="dvr_action_record_anyway">"Programo gjithsesi"</string>
+<string name="dvr_action_record_instead">"Regjistro këtë në vend të tij"</string>
+<string name="dvr_action_record_cancel">"Anulo këtë regjistrim"</string>
+<string name="dvr_action_watch_now">"Shiko tani"</string>
+<string name="dvr_action_delete_recordings">"Fshij regjistrimet&#8230;"</string>
+<string name="dvr_epg_program_recordable">"I regjistrueshëm"</string>
+<string name="dvr_epg_program_recording_scheduled">"Regjistrimi u programua"</string>
+<string name="dvr_epg_program_recording_conflict">"Konflikt i regjistrimit"</string>
+<string name="dvr_epg_program_recording_in_progress">Duke regjistruar</string>
+<string name="dvr_epg_program_recording_failed">"Regjistrimi dështoi"</string>
+<string name="dvr_series_progress_message_reading_programs">"Programet e leximit"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"Shfaq regjistrimet e fundit"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"Regjistrimi i <xliff:g id="programName" example="Friends">%1$s</xliff:g> nuk është i plotë."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"Regjistrimet e <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> dhe <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> nuk janë të plota."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"Regjistrimet e <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> dhe <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> nuk janë të plota."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"Regjistrimi i <xliff:g id="programName" example="Friends">%1$s</xliff:g> nuk përfundoi për shkak të memories së pamjaftueshme."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"Regjistrimet e <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> dhe <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> nuk përfunduan për shkak të memories së pamjaftueshme."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"Regjistrimet e <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> dhe <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> nuk përfunduan për shkak të memories së pamjaftueshme."</string>
+<string name="dvr_error_small_sized_storage_title">"Nevojitet më shumë hapësirë"</string>
+<string name="dvr_error_small_sized_storage_description">"Do të jesh në gjendje të regjistrosh programe. Megjithatë, nuk ka memorie të mjaftueshme në pajisjen tënde për të nisur regjistrimin. Lidh një disk të jashtëm që është <xliff:g id="storage_size" example="10GB">%1$d</xliff:g>GB ose më i madh dhe ndiq udhëzimet për ta formatuar atë si memorie të jashtme të pajisjes."</string>
+<string name="dvr_error_no_free_space_title">"Nuk ka memorie të mjaftueshme"</string>
+<string name="dvr_error_no_free_space_description">"Ky program nuk do të regjistrohet, sepse nuk ka memorie të mjaftueshme. Provo të fshish disa regjistrime ekzistuese."</string>
+<string name="dvr_error_missing_storage_title">"Mungon hapësira e memories"</string>
+<string name="dvr_stop_recording_dialog_title">"Të ndalohet regjistrimi?"</string>
+<string name="dvr_stop_recording_dialog_description">"Materiali i regjistruar do të ruhet."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"Regjistrimi i <xliff:g id="programName" example="Friends">%1$s</xliff:g> do të ndalojë, sepse ai ka konflikt me këtë program. Materiali i regjistruar do të ruhet."</string>
+<string name="dvr_program_conflict_dialog_title">"Regjistrimi u programua, por ka konflikte"</string>
+<string name="dvr_channel_conflict_dialog_title">"Regjistrimi ka nisur, por ka konflikte"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"<xliff:g id="programName" example="Friends">%1$s</xliff:g> do të regjistrohet."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"<xliff:g id="channelName" example="KQED">%1$s</xliff:g> po regjistrohet."</string>
+<string name="dvr_program_conflict_dialog_description_1">"Disa pjesë të <xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> nuk do të regjistrohen."</string>
+<string name="dvr_program_conflict_dialog_description_2">"Disa pjesë të <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> dhe të <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> nuk do të regjistrohen."</string>
+<string name="dvr_program_conflict_dialog_description_3">"Disa pjesë të <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dhe një programimi tjetër nuk do të regjistrohen."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"Disa pjesë të <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dhe %3$d programimi tjetër nuk do të regjistrohen."</item>
+<item quantity="other">"Disa pjesë të <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> dhe %3$d programimeve të tjera nuk do të regjistrohen."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"Çfarë të pëlqen të regjistrosh?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"Për sa kohë të pëlqen të regjistrosh?"</string>
+<string name="dvr_already_scheduled_dialog_title">"Programuar tashmë"</string>
+<string name="dvr_already_scheduled_dialog_description">"I njëjti program është programuar më parë për t\'u regjistruar në <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g>."</string>
+<string name="dvr_already_recorded_dialog_title">"Regjistruar tashmë"</string>
+<string name="dvr_already_recorded_dialog_description">"Ky program është regjistruar më parë. Ai disponohet në bibliotekën DVR."</string>
+<string name="dvr_series_recording_dialog_title">"Regjistrimi i serive u programua"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> regjistrim është programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> regjistrime janë programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> regjistrim është programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. Ai nuk do të regjistrohet për shkak të konflikteve."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> regjistrime janë programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> prej tyre nuk do të regjistrohen për shkak të konflikteve."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> regjistrim është programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episode të kësaj serie dhe seritë e tjera nuk do të regjistrohen për shkak të konflikteve."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> regjistrime janë programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episode të kësaj serie dhe seritë e tjera nuk do të regjistrohen për shkak të konflikteve."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> regjistrim është programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episod i serive të tjera nuk do të regjistrohet për shkak të konflikteve."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> regjistrime janë programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episod i serive të tjera nuk do të regjistrohet për shkak të konflikteve."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> regjistrim është programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episode të serive të tjera nuk do të regjistrohen për shkak të konflikteve."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> regjistrime janë programuar për <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episode të serive të tjera nuk do të regjistrohen për shkak të konflikteve."</item>
+</plurals>
+<string name="dvr_program_not_found">"Programi i regjistruar nuk u gjet."</string>
+<string name="dvr_playback_related_recordings">"Regjistrimet e lidhura"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d regjistrim"</item>
+<item quantity="other">"%1$d regjistrime"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">"&#160;/&#160;"</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> u hoq nga programimi i regjistrimit"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"Do të regjistrohet pjesërisht për shkak të konflikteve të sintonizuesit."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"Nuk do të regjistrohet për shkak të konflikteve të sintonizuesit."</string>
+<string name="dvr_schedules_empty_state">"Nuk ka ende asnjë regjistrim të programuar.\nRegjistrimet mund t\'i programosh nga guida e programeve."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d konflikt regjistrimi"</item>
+<item quantity="other">"%1$d konflikte regjistrimi"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"Cilësimet e serive"</string>
+<string name="dvr_series_schedules_start">"Nis regjistrimin e serive"</string>
+<string name="dvr_series_schedules_stop">"Ndalo regjistrimin e serive"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"Të ndalohet regjistrimi i serive?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"Episodet e regjistruara do të jenë të disponueshme në bibliotekën DVR."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">Ndalo</string>
+<string name="dvr_series_schedules_stopped_empty_state">"Asnjë episod në transmetim direkt tani."</string>
+<string name="dvr_series_schedules_empty_state">"Nuk disponohet asnjë episod.\nAto do të regjistrohen pasi të jenë të disponueshme."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d minutë) "</item>
+<item quantity="other">"(%1$d minuta)"</item>
+</plurals>
+<string name="dvr_date_today">Sot</string>
+<string name="dvr_date_tomorrow">nesër</string>
+<string name="dvr_date_yesterday">dje</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> sot"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> nesër"</string>
+<string name="program_guide_critic_score">"Pikët"</string>
+<string name="recorded_programs_preview_channel">"Programet e regjistruara"</string>
+</resources>

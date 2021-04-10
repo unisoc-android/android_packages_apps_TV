@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_kr_tv_15">" پروگرام میں ایسے نامناسب مواد ہوسکتے ہیں جو 15 سال سے کم عمر کے لئے مناسب نہ ہو اور اس لئے والدیت کی صوابدیدی کا اس کے ساتھ استعمال کیا جانا چاہئے۔"</string>
+<string name="description_kr_tv_19">" پروگرام میں ایسے نامناسب مواد ہوسکتے ہیں جو 19 سال سے کم عمرکے لئے مناسب نہ ہو اور اس لئے19 سال سے کم عمر بچوں کےلئے مناسب نہیں ہے۔"</string>
+<string name="description_us_tv_d">" تجویزی بات چیت"</string>
+<string name="description_us_tv_l">" پھوہڑ زبان"</string>
+<string name="description_us_tv_s">" جنسی مواد"</string>
+<string name="description_us_tv_v">"تشدد"</string>
+<string name="description_us_tv_fv">"خیالی تشدد"</string>
+<string name="description_us_tv_y">" یہ پروگرام سبھی بچوں کی مناسبت سے تیار کیا گیا ہے۔"</string>
+<string name="description_us_tv_y7">"یہ پروگرام 7 سال اور اس سے بڑے بچوں کے لئے تیار کیا گیا ہے۔"</string>
+<string name="description_us_tv_g">"زیادہ تر والدین اس پروگرام کو سبھی عمر کے لئے موزوں پائیں گے"</string>
+<string name="description_us_tv_pg">" اس پروگرام میں ایسا مواد ہوسکتا ہے جسے چھوٹے بچوں کے لئے والدین مناسب نہ سمجھیں۔ بہت سے والدین اسے اپنے چھوٹے بچوں کے ساتھ بھی دیکھنا چاہتے ہوں گے۔"</string>
+<string name="description_us_tv_14">" اس پروگرام میں ایسا مواد ہوسکتا ہے جسے 14 سال کے عمر  بچوں کو دکھانا والدین مناسب نہ سمجھیں۔ "</string>
+<string name="description_us_tv_ma">"اس پروگرام کو بالغوں کے لئے دیکھنے کے لئے تیار کیا گیا ہے اور اس لئے 17 سال سے نیچے کے بچوں کے لئے نامناسب ہوسکتا ہے۔"</string>
+<string name="title_us_mv">" فلم کی درجہ بندی"</string>
+<string name="description_us_mv_g">" عام سامعین۔ کوئی ایسی چیز نہیں ہے جسے بچوں کو دیکھنا والدین کے لئے ناگوار گزرے۔"</string>
+<string name="description_us_mv_pg">" والدیت کی رہنمائی کی صلاح دی جاتی ہے۔ کچھ مواد ایسے ہوسکتے ہیں جسے والدین اپنے بچوں کو دیکھنا پسند نہ کریں۔"</string>
+<string name="description_us_mv_pg13">"والدین کو پوری طرح متنبہ کیا گیا ہے۔ نوخیز عمر کے بچوں کے لئے کچھ مواد نامناسب ہوسکتا ہے۔"</string>
+<string name="description_us_mv_r">" ممنوع ہے، ،مواد میں کچھ بلوغتی مواد ہے۔ اپنے بچوں کو ساتھ لے جانے سے پہلے والدین فلم کے بارے میں مزید جانکاری حاصل کرلیں۔"</string>
+<string name="description_us_mv_nc17">" 17 یا اس سے کم کے داخل ہونے کی اجازت نہیں ہے۔ واضح طور پر بالغ۔ بچوں کا داخلہ ممنوع ہے۔"</string>
+</resources>

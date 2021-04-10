@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>"ປານກາງ"</item>
+<item>"ເຕັມ"</item>
+<item>"ຂະຫຍາຍ"</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ຊ່ອງລາຍການທັງໝົດ"</item>
+<item>"ຄອບຄົວ/ລູກ"</item>
+<item>"ກິລາ"</item>
+<item>"ຊື້ເຄື່ອງ"</item>
+<item>"ໜັງ"</item>
+<item>"ຕະຫຼົກ"</item>
+<item>"ການທ່ອງທ່ຽວ"</item>
+<item>"ເສົ້າ"</item>
+<item>"ການສຶກສາ"</item>
+<item>"ສັດ/ສັດປ່າ"</item>
+<item>"ຂ່າວ"</item>
+<item>"ການຫຼິ້ນເກມ"</item>
+<item>"ສິລະປະ"</item>
+<item>"ຄວາມບັນເທີງ"</item>
+<item>"ວິທີການໃຊ້ຊີວິດ"</item>
+<item>"ເພງ"</item>
+<item>"ທີ່ສໍາຄັນ"</item>
+<item>"ເຕັກໂນໂລຊີ/ວິທະຍາສາດ"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"ວິທີງ່າຍດາຍໃນການຄົ້ນຫາເນື້ອໃນ"</item>
+<item>"ດາວໂຫຼດແອັບ, ຮັບຊ່ອງລາຍການເພີ່ມເຕີມ"</item>
+<item>"ກໍານົດລາຍການຊ່ອງຂອງທ່ານເອງ"</item>
+</string-array>
+</resources>

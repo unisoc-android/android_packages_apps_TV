@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>Normal</item>
+<item>Beteta</item>
+<item>Zooma</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"Kanal guztiak"</item>
+<item>"Familia eta haurrak"</item>
+<item>"Kirolak"</item>
+<item>"Erosketak"</item>
+<item>"Filmak"</item>
+<item>"Komedia"</item>
+<item>Bidaiatu</item>
+<item>"Drama"</item>
+<item>"Heziketa"</item>
+<item>"Animaliak eta basabizitza"</item>
+<item>"Berriak"</item>
+<item>"Jokoak"</item>
+<item>"Artea"</item>
+<item>"Aisia"</item>
+<item>"Bizitzeko erak"</item>
+<item>Musika</item>
+<item>"Premier"</item>
+<item>"Teknologia eta zientzia"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">Live TV</xliff:g> "</item>
+<item>"Eduki berria ezagutzeko modu sinplea"</item>
+<item>"Deskargatu aplikazioak eta eskuratu kanal gehiago"</item>
+<item>"Pertsonalizatu kanalen zerrenda"</item>
+</string-array>
+</resources>

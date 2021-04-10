@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_channel_mono">"Mono"</string>
+<string name="audio_channel_stereo">"estéreo"</string>
+<string name="menu_title_play_controls">"Controles de reprodução"</string>
+<string name="menu_title_channels">"Canais"</string>
+<string name="menu_title_options">"Opções de TV"</string>
+<string name="play_controls_unavailable">"Controles de reprodução não disponíveis para este canal"</string>
+<string name="play_controls_description_play_pause">"Reproduzir ou pausar"</string>
+<string name="play_controls_description_fast_forward">"Avançar"</string>
+<string name="play_controls_description_fast_rewind">"Retroceder"</string>
+<string name="play_controls_description_skip_next">"Avançar"</string>
+<string name="play_controls_description_skip_previous">"Anterior"</string>
+<string name="channels_item_program_guide">"Guia de programação"</string>
+<string name="channels_item_setup">"Sem canais novos disponíveis"</string>
+<string name="channels_item_app_link_app_launcher">"Abrir <xliff:g id="app_name" example="YouTube">%1$s</xliff:g>"</string>
+<string name="options_item_closed_caption">"Legendas"</string>
+<string name="options_item_display_mode">"Modo de exibição"</string>
+<string name="options_item_pip">"PIP"</string>
+<string name="options_item_multi_audio">"Multi áudio"</string>
+<string name="options_item_more_channels">"Obter mais canais"</string>
+<string name="options_item_settings">"Configurações"</string>
+<string name="input_long_label_for_tuner">"TV (antena/cabo)"</string>
+<string name="no_program_information">"Sem informação de programa"</string>
+<string name="program_title_for_no_information">"Sem Informação"</string>
+<string name="program_title_for_blocked_channel">"Canal bloqueado"</string>
+<string name="multi_audio_unknown_language">"Idioma desconhecido"</string>
+<string name="closed_caption_unknown_language">"Legendas ocultas <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g>"</string>
+<string name="side_panel_title_closed_caption">"Legendas"</string>
+<string name="closed_caption_option_item_off">"Desativado"</string>
+<string name="closed_caption_system_settings">"Formatação personalizada"</string>
+<string name="closed_caption_system_settings_description">"Definir preferências de sistema para legendas"</string>
+<string name="side_panel_title_display_mode">"Modo de exibição"</string>
+<string name="side_panel_title_multi_audio">"Multi áudio"</string>
+<string name="multi_audio_channel_mono">"Mono"</string>
+<string name="multi_audio_channel_stereo">"estéreo"</string>
+<string name="multi_audio_channel_surround_6">"Surround 5.1"</string>
+<string name="multi_audio_channel_surround_8">"Surround 7.1"</string>
+<string name="multi_audio_channel_suffix">"<xliff:g id="audio_channel_count" example="5">%d</xliff:g> canais"</string>
+<string name="side_panel_title_edit_channels_for_an_input">"Personalizar lista de canais"</string>
+<string name="edit_channels_item_select_group">"Selecionar grupo"</string>
+<string name="edit_channels_item_deselect_group">"Deselecionar grupo"</string>
+<string name="edit_channels_item_group_by">"Agrupar por"</string>
+<string name="edit_channels_group_by_sources">"Fonte de canal"</string>
+<string name="edit_channels_group_by_hd_sd">"HD/SD"</string>
+<string name="edit_channels_group_divider_for_hd">"HD"</string>
+<string name="edit_channels_group_divider_for_sd">"SD"</string>
+<string name="side_panel_title_group_by">"Agrupar por"</string>
+<string name="program_guide_content_locked">"Este programa está bloqueado"</string>
+<string name="program_guide_content_locked_unrated">"Este programa não possui classificação"</string>
+<string name="program_guide_content_locked_format">"Este programa está classificado <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="msg_no_setup_activity">"A entrada não suporta varredura automática"</string>
+<string name="msg_unable_to_start_setup_activity">"Impossível iniciar varredura automática para \'<xliff:g id="tv_input" example="Built-in Tuner">%s</xliff:g>\'"</string>
+<string name="msg_unable_to_start_system_captioning_settings">"Impossível iniciar preferências do sistema para legendas."</string>
+<plurals name="msg_channel_added">
+<item quantity="one">"%1$d canal adicionado"</item>
+<item quantity="other">"%1$d canais adicionados"</item>
+</plurals>
+<string name="msg_no_channel_added">"Sem canais adicionados"</string>
+<string name="menu_parental_controls">"Controles Parentais"</string>
+<string name="option_toggle_parental_controls_on">"LIGA"</string>
+<string name="option_toggle_parental_controls_off">"Desativado"</string>
+<string name="option_channels_locked">"Canais bloqueados"</string>
+<string name="option_channels_lock_all">"Bloquear tudo"</string>
+<string name="option_channels_unlock_all">"Desbloquear todos"</string>
+<string name="option_channels_subheader_hidden">"Canais escondidos"</string>
+<string name="option_program_restrictions">"Restrições de programas"</string>
+<string name="option_change_pin">"Alterar PIN"</string>
+<string name="option_country_rating_systems">"Sistemas de classificação"</string>
+<string name="option_ratings">"Classificações"</string>
+<string name="option_see_all_rating_systems">"Ver todos os sistemas de classificação"</string>
+<string name="other_countries">"Outros países"</string>
+<string name="option_no_locked_channel">"Nenhum"</string>
+<string name="option_no_enabled_rating_system">"Nenhum"</string>
+<string name="unrated_rating_name">"Sem classificação"</string>
+<string name="option_block_unrated_programs">"Bloquear programas sem classificação"</string>
+<string name="option_rating_none">"Nenhum"</string>
+<string name="option_rating_high">"Restrições altas"</string>
+<string name="option_rating_medium">"Restrições médias"</string>
+<string name="option_rating_low">"Restrições baixas"</string>
+<string name="option_rating_custom">"Personalizado"</string>
+<string name="option_rating_high_description">"Conteúdo adequado para crianças"</string>
+<string name="option_rating_medium_description">"Conteúdo adequado para crianças velhas"</string>
+<string name="option_rating_low_description">"Conteúdo adequado para adolescentes"</string>
+<string name="option_rating_custom_description">"Restrições manuais"</string>
+<string name="option_subrating_title">"%1$s e sub-classificações"</string>
+<string name="option_subrating_header">"Sub-classificações"</string>
+<string name="pin_enter_unlock_channel">"Digite o seu PIN para assistir a este canal"</string>
+<string name="pin_enter_unlock_program">"Digite o seu PIN para assistir a este programa"</string>
+<string name="pin_enter_unlock_dvr">"Este programa possui classificação <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. Digite o PIN para assistir a este programa"</string>
+<string name="pin_enter_unlock_dvr_unrated">"Este programa não possui classificação. Digite o PIN para assistir a este programa"</string>
+<string name="pin_enter_pin">"Digite o seu PIN"</string>
+<string name="pin_enter_create_pin">"Para definir controles parentais, crie um PIN"</string>
+<string name="pin_enter_new_pin">"Digite um PIN novo"</string>
+<string name="pin_enter_again">"Confirme o seu PIN"</string>
+<string name="pin_enter_old_pin">"Digite o seu PIN atual"</string>
+<plurals name="pin_enter_countdown">
+<item quantity="one">"Você digitou o PIN errado por 5 vezes.\nTente novamente em <xliff:g id="remaining_seconds" example="1">%1$d</xliff:g> segundo."</item>
+<item quantity="other">"Você digitou o PIN errado por 5 vezes.\nTente novamente em <xliff:g id="remaining_seconds" example="60">%1$d</xliff:g> segundos."</item>
+</plurals>
+<string name="pin_toast_wrong">"Esse PIN está errado. Tente novamente."</string>
+<string name="pin_toast_not_match">"Tente novamente, o PIN não corresponde"</string>
+<string name="side_panel_title_settings">"Configurações"</string>
+<string name="settings_channel_source_item_customize_channels">"Personalizar lista de canais"</string>
+<string name="settings_channel_source_item_customize_channels_description">"Escolha canais para o seu guia de programas"</string>
+<string name="settings_channel_source_item_setup">"Fontes de canal"</string>
+<string name="settings_channel_source_item_setup_new_inputs">"Sem canais novos disponíveis"</string>
+<string name="settings_parental_controls">"Controles Parentais"</string>
+<string name="settings_trickplay">"Pré-gravado"</string>
+<string name="settings_trickplay_description">"Grave enquanto assiste para poder pausar ou retroceder programas ao vivo.\nAdvertência: isto pode reduzir a vida útil do armazenamento interno pelo uso intensivo do armazenamento."</string>
+<string name="settings_menu_licenses">"Licenças de código aberto"</string>
+<string name="settings_send_feedback">"Enviar resposta"</string>
+<string name="settings_menu_version">"Versão"</string>
+<string name="tvview_channel_locked">"Para assistir este canal, pressione Direita e digite o seu PIN"</string>
+<string name="tvview_content_locked">"Para assistir este programa, pressione Direita e digite o seu PIN"</string>
+<string name="tvview_content_locked_unrated">"Este programa não possui classificação.\nPara assistir a este programa, pressione Direita e digite o PIN"</string>
+<string name="tvview_content_locked_format">"Este programa está classificado <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nPara assistir este programa, pressione Direita e digite o seu PIN."</string>
+<string name="tvview_channel_locked_no_permission">"Para assistir este canal, use o aplicativo de TV ao Vivo padrão."</string>
+<string name="tvview_content_locked_no_permission">"Para assistir este programa, use o aplicativo de TV ao Vivo padrão."</string>
+<string name="tvview_content_locked_unrated_no_permission">"Este programa não possui classificação.\nPara assistir a este programa, use o aplicativo padrão de TV ao vivo ."</string>
+<string name="tvview_content_locked_format_no_permission">"Este programa está classificado <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>.\nPara assistir este programa, use o aplicativo de TV ao Vivo padrão."</string>
+<string name="shrunken_tvview_content_locked">"Programa está bloqueado"</string>
+<string name="shrunken_tvview_content_locked_unrated">"Este programa não possui classificação"</string>
+<string name="shrunken_tvview_content_locked_format">"Este programa está classificado <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>"</string>
+<string name="tvview_msg_audio_only">"Só áudio"</string>
+<string name="tvview_msg_weak_signal">"Sinal fraco"</string>
+<string name="tvview_msg_no_internet_connection">"Sem conexão à internet"</string>
+<string name="channel_banner_no_title">"Sem título"</string>
+<string name="channel_banner_locked_channel_title">"Canal bloqueado"</string>
+<string name="setup_category_new">"Novo"</string>
+<string name="setup_category_done">"Fontes"</string>
+<plurals name="setup_input_channels">
+<item quantity="one">"%1$d canal"</item>
+<item quantity="other">"%1$d canais"</item>
+</plurals>
+<string name="setup_input_no_channels">"Sem canais disponíveis"</string>
+<string name="setup_input_new">"Novo"</string>
+<string name="setup_input_setup_now">"Não configurado"</string>
+<string name="setup_store_action_title">"Obter mais fontes"</string>
+<string name="setup_store_action_description">"Pesquisar por aplicativos que ofereçam canais ao vivo"</string>
+<string name="new_sources_title">"Fontes de canais novas disponíveis"</string>
+<string name="new_sources_description">"Fontes de canais novas têm canais para oferecer.\nDefina-os agora ou mais tarde nas definições de fontes de canal."</string>
+<string name="new_sources_action_setup">"Configurar agora"</string>
+<string name="new_sources_action_skip">"OK, SEI"</string>
+<string name="intro_description">"<b>Pressione SELECIONAR</b> para acessar ao menu da TV."</string>
+<string name="msg_no_input">"Nenhuma entrada TV encontrada"</string>
+<string name="msg_no_specific_input">"Impossível encontrar entrada TV"</string>
+<string name="msg_not_passthrough_input">"Tipo de sintonizador inadequado. Inicie o aplicativo <xliff:g id="app_name">Live TV</xliff:g> para entrada de TV de tipo de sintonizador"</string>
+<string name="msg_tune_failed">"Falha ao sintonizar"</string>
+<string name="msg_missing_app">"Nenhum app foi encontrado para executar esta ação."</string>
+<string name="msg_all_channels_hidden">"Todos os canais de fontes estão escondidos.\nSelecione pelo menos um canal para assistir."</string>
+<string name="msg_channel_unavailable_unknown">"O vídeo está inesperadamente indisponível"</string>
+<string name="msg_back_key_guide">"A tecla RETROCEDER é para dispositivo ligado. Pressione o botão HOME para sair."</string>
+<string name="msg_read_tv_listing_permission_denied">"O <xliff:g id="app_name">Live TV</xliff:g> requer permissão para ler as listagens de TV."</string>
+<string name="setup_sources_text">"Defina as suas fontes"</string>
+<string name="setup_sources_description">"Canais ao vivo combinam a experiência dos canais de TV tradicionais com os canais de streaming fornecidos por aplicativos.\n\nComece configurando as fontes de canais já instaladas. Ou pesquise na loja on-line por mais aplicativos que oferecem canais ao vivo."</string>
+<string name="channels_item_dvr">"Gravações e programações"</string>
+<string name="recording_start_dialog_10_min_duration">"10 minutos"</string>
+<string name="recording_start_dialog_30_min_duration">"30 minutos"</string>
+<string name="recording_start_dialog_1_hour_duration">"1 horas"</string>
+<string name="recording_start_dialog_3_hours_duration">"3 horas"</string>
+<string name="dvr_main_recent">"Recente"</string>
+<string name="dvr_main_scheduled">"Programadas"</string>
+<string name="dvr_main_series">"Séries"</string>
+<string name="dvr_main_others">"Outros"</string>
+<string name="dvr_msg_cannot_record_channel">"O canal não pode ser gravado."</string>
+<string name="dvr_msg_cannot_record_program">"O programa não pode ser gravado."</string>
+<string name="dvr_msg_program_scheduled">"O <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> foi programado para ser gravado"</string>
+<string name="dvr_msg_current_program_scheduled">"Gravando <xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> de agora até <xliff:g id="endTime" example="12:30 PM">%2$s</xliff:g>"</string>
+<string name="dvr_full_schedule_card_view_title">"Programação inteira"</string>
+<plurals name="dvr_full_schedule_card_view_content">
+<item quantity="one">"Próximo %1$d dia"</item>
+<item quantity="other">"Próximos %1$d dias"</item>
+</plurals>
+<plurals name="dvr_program_duration">
+<item quantity="one">"%1$d minuto"</item>
+<item quantity="other">"%1$d minutos"</item>
+</plurals>
+<plurals name="dvr_count_new_recordings">
+<item quantity="one">"%1$d nova gravação"</item>
+<item quantity="other">"%1$d novas gravações"</item>
+</plurals>
+<plurals name="dvr_count_recordings">
+<item quantity="one">"%1$d gravação"</item>
+<item quantity="other">"%1$d gravações"</item>
+</plurals>
+<plurals name="dvr_count_scheduled_recordings">
+<item quantity="one">"%1$d gravação programada"</item>
+<item quantity="other">"%1$d gravações programadas"</item>
+</plurals>
+<string name="dvr_detail_cancel_recording">"Cancelar gravação"</string>
+<string name="dvr_detail_stop_recording">"PARAR GRAVAÇÃO"</string>
+<string name="dvr_detail_watch">"Relógio"</string>
+<string name="dvr_detail_play_from_beginning">"Reproduzir do início"</string>
+<string name="dvr_detail_resume_play">"Retomar a reprodução"</string>
+<string name="dvr_detail_delete">"excluir"</string>
+<string name="dvr_detail_series_delete">"Excluir gravações"</string>
+<string name="dvr_detail_series_resume">"Retomar"</string>
+<string name="dvr_detail_series_season_title">"Temporada <xliff:g id="season_number">%1$s</xliff:g>"</string>
+<string name="dvr_detail_view_schedule">"Ver programação"</string>
+<string name="dvr_detail_read_more">"Ler mais"</string>
+<string name="dvr_series_deletion_title">"Excluir gravações"</string>
+<string name="dvr_series_deletion_description">"Selecione os episódios que deseja excluir. Eles não podem ser recuperados depois de excluídos."</string>
+<string name="dvr_series_deletion_no_recordings">"Não há gravações para excluir."</string>
+<string name="dvr_series_select_watched">"Selecionar episódios assistidos"</string>
+<string name="dvr_series_select_all">"Selecionar todos os episódios"</string>
+<string name="dvr_series_deselect_all">"Desmarcar todos os episódios"</string>
+<string name="dvr_series_watched_info_minutes">"<xliff:g id="watched">%1$d</xliff:g> de <xliff:g id="duration">%2$d</xliff:g> minutos assistidos"</string>
+<string name="dvr_series_watched_info_seconds">"<xliff:g id="watched">%1$d</xliff:g> de <xliff:g id="duration">%2$d</xliff:g> segundos assistidos"</string>
+<string name="dvr_series_never_watched">"Nunca assistido"</string>
+<plurals name="dvr_msg_episodes_deleted">
+<item quantity="one">"%1$d de %2$d episódio excluído"</item>
+<item quantity="other">"%1$d de %2$d episódios excluídos"</item>
+</plurals>
+<string name="dvr_series_settings_priority">"Prioridade"</string>
+<string name="dvr_series_settings_priority_highest">"Mais alta"</string>
+<string name="dvr_series_settings_priority_lowest">"Mais baixa"</string>
+<string name="dvr_series_settings_priority_rank">"Nº. <xliff:g id="rank">%1$d</xliff:g>"</string>
+<string name="dvr_series_settings_channels">"Canais"</string>
+<string name="dvr_series_settings_channels_all">"Qualquer"</string>
+<string name="dvr_priority_title">"Escolher prioridade"</string>
+<string name="dvr_priority_description">"Quando houver muitos programas a serem gravados ao mesmo tempo, somente aqueles com prioridades mais altas serão gravados."</string>
+<string name="dvr_priority_button_action_save">"Salvar"</string>
+<string name="dvr_priority_action_one_time_recording">"Gravações de uma só vez têm prioridade mais alta"</string>
+<string name="dvr_action_stop">"Parar"</string>
+<string name="dvr_action_view_schedules">"Ver programação de gravações"</string>
+<string name="dvr_action_record_episode">"Este programa único"</string>
+<string name="dvr_action_record_episode_from_now_description">"agora - <xliff:g id="endTime" example="11:30">%1$s</xliff:g>"</string>
+<string name="dvr_action_record_series">"Série inteira&#8230;"</string>
+<string name="dvr_action_record_anyway">"Programar mesmo assim"</string>
+<string name="dvr_action_record_instead">"Gravar este em vez disso"</string>
+<string name="dvr_action_record_cancel">"Cancelar esta gravação"</string>
+<string name="dvr_action_watch_now">"Assistir agora"</string>
+<string name="dvr_action_delete_recordings">"Excluir gravações&#8230;"</string>
+<string name="dvr_epg_program_recordable">"Gravável"</string>
+<string name="dvr_epg_program_recording_scheduled">"Gravação programada"</string>
+<string name="dvr_epg_program_recording_conflict">"Conflito de gravação"</string>
+<string name="dvr_epg_program_recording_in_progress">Gravando</string>
+<string name="dvr_epg_program_recording_failed">"Falha da gravação"</string>
+<string name="dvr_series_progress_message_reading_programs">"Lendo programas"</string>
+<string name="dvr_error_insufficient_space_action_view_recent_recordings">"Ver gravações recentes"</string>
+<string name="dvr_error_insufficient_space_title_one_recording">"A gravação de <xliff:g id="programName" example="Friends">%1$s</xliff:g> está incompleta."</string>
+<string name="dvr_error_insufficient_space_title_two_recordings">"As gravações de <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> e <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> estão incompletas."</string>
+<string name="dvr_error_insufficient_space_title_three_or_more_recordings">"As gravações de <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> e <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> estão incompletas."</string>
+<string name="dvr_error_insufficient_space_description_one_recording">"A gravação de <xliff:g id="programName" example="Friends">%1$s</xliff:g> não foi concluída devido a armazenamento insuficiente."</string>
+<string name="dvr_error_insufficient_space_description_two_recordings">"As gravações de <xliff:g id="programName_1" example="Friends">%1$s</xliff:g> e <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> não foram concluídas devido a armazenamento insuficiente."</string>
+<string name="dvr_error_insufficient_space_description_three_or_more_recordings">"As gravações de <xliff:g id="programName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="programName_2" example="Friends">%2$s</xliff:g> e <xliff:g id="programName_3" example="Friends">%3$s</xliff:g> não foram concluídas devido a armazenamento insuficiente."</string>
+<string name="dvr_error_small_sized_storage_title">"Requer mais armazenamento"</string>
+<string name="dvr_error_small_sized_storage_description">"Você poderá gravar programas. No entanto, não há armazenamento suficiente no dispositivo para iniciar a gravação. Conecte uma unidade externa que tenha <xliff:g id="storage_size" example="10GB">%1$d</xliff:g> GB ou mais e siga as etapas para formatá-la como armazenamento do dispositivo."</string>
+<string name="dvr_error_no_free_space_title">"Sem armazenamento suficiente"</string>
+<string name="dvr_error_no_free_space_description">"Este programa não será gravado, pois não há armazenamento suficiente. Tente excluir algumas gravações existentes."</string>
+<string name="dvr_error_missing_storage_title">"Armazenamento faltando."</string>
+<string name="dvr_stop_recording_dialog_title">"Parar gravação?"</string>
+<string name="dvr_stop_recording_dialog_description">"O conteúdo gravado será salvo."</string>
+<string name="dvr_stop_recording_dialog_description_on_conflict">"A Gravação de <xliff:g id="programName" example="Friends">%1$s</xliff:g> será interrompida porque entra em conflito com este programa. O conteúdo gravado será salvo."</string>
+<string name="dvr_program_conflict_dialog_title">"Gravação programada, porém possui conflitos"</string>
+<string name="dvr_channel_conflict_dialog_title">"Gravação iniciada, porém possui conflitos"</string>
+<string name="dvr_program_conflict_dialog_description_prefix">"O <xliff:g id="programName" example="Friends">%1$s</xliff:g> será gravado."</string>
+<string name="dvr_channel_conflict_dialog_description_prefix">"O <xliff:g id="channelName" example="KQED">%1$s</xliff:g> está sendo gravado."</string>
+<string name="dvr_program_conflict_dialog_description_1">"Algumas partes de <xliff:g id="conflictProgramName" example="Friends">%1$s</xliff:g> não serão gravadas."</string>
+<string name="dvr_program_conflict_dialog_description_2">"Algumas partes de <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g> e <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> não serão gravadas."</string>
+<string name="dvr_program_conflict_dialog_description_3">"Algumas partes de <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> e mais uma programação não serão gravadas."</string>
+<plurals name="dvr_program_conflict_dialog_description_many">
+<item quantity="one">"Algumas partes de <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> e mais %3$d programação não serão gravadas."</item>
+<item quantity="other">"Algumas partes de <xliff:g id="conflictProgramName_1" example="Friends">%1$s</xliff:g>, <xliff:g id="conflictProgramName_2" example="Friends">%2$s</xliff:g> e mais %3$d programações não serão gravadas."</item>
+</plurals>
+<string name="dvr_schedule_dialog_title">"O que você deseja gravar?"</string>
+<string name="dvr_channel_record_duration_dialog_title">"Quanto tempo deseja gravar?"</string>
+<string name="dvr_already_scheduled_dialog_title">"Já programado"</string>
+<string name="dvr_already_scheduled_dialog_description">"O mesmo programa já foi programado para ser gravado às <xliff:g id="programStartTime" example="7:30 AM on Jun 27.">%1$s</xliff:g>."</string>
+<string name="dvr_already_recorded_dialog_title">"Já gravado"</string>
+<string name="dvr_already_recorded_dialog_description">"Este programa já foi gravado. Está disponível na biblioteca DVR."</string>
+<string name="dvr_series_recording_dialog_title">"Gravação de série programada"</string>
+<plurals name="dvr_series_scheduled_no_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> gravação foi programada para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> gravações foram programadas para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>."</item>
+</plurals>
+<plurals name="dvr_series_recording_scheduled_only_this_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> gravação foi programada para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. Não será gravado devido a conflitos."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> gravações foram programadas para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictRecordings" example="2">%3$d</xliff:g> delas não serão realizadas devido a conflitos."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_this_and_other_series_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> gravação foi programada para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episódios desta série e outras séries não serão gravados devido a conflitos."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> gravações foram programadas para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episódios desta série e outras séries não serão gravados devido a conflitos."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_one_conflict">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> gravação foi programada para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episódio de outras séries não será gravado devido a conflitos."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> gravações foram programadas para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. 1 episódio de outras séries não será gravado devido a conflitos."</item>
+</plurals>
+<plurals name="dvr_series_scheduled_only_other_series_many_conflicts">
+<item quantity="one">"<xliff:g id="numberOfRecordings" example="1">%1$d</xliff:g> gravação foi programada para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="1">%3$d</xliff:g> episódios de outras séries não serão gravados devido a conflitos."</item>
+<item quantity="other">"<xliff:g id="numberOfRecordings" example="5">%1$d</xliff:g> gravações foram programadas para <xliff:g id="seriesName" example="Friends">%2$s</xliff:g>. <xliff:g id="numberOfConflictEpisodes" example="2">%3$d</xliff:g> episódios de outras séries não serão gravados devido a conflitos."</item>
+</plurals>
+<string name="dvr_program_not_found">"Programa gravado não encontrado."</string>
+<string name="dvr_playback_related_recordings">"Gravações relacionadas"</string>
+<plurals name="dvr_schedules_section_subtitle">
+<item quantity="one">"%1$d gravação"</item>
+<item quantity="other">"%1$d gravações"</item>
+</plurals>
+<string name="dvr_schedules_information_separator">"&#160;/&#160;"</string>
+<string name="dvr_schedules_deletion_info">"<xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> removido da programação de gravação"</string>
+<string name="dvr_schedules_tuner_conflict_will_be_partially_recorded">"Será gravado parcialmente devido a conflitos de sintonizador."</string>
+<string name="dvr_schedules_tuner_conflict_will_not_be_recorded_info">"Não será gravado devido a conflitos de sintonizador."</string>
+<string name="dvr_schedules_empty_state">"Não há nenhuma gravação programada ainda.\nVocê pode programar gravações do guia de programas."</string>
+<plurals name="dvr_series_schedules_header_description">
+<item quantity="one">"%1$d conflito de gravação"</item>
+<item quantity="other">"%1$d conflitos de gravação"</item>
+</plurals>
+<string name="dvr_series_schedules_settings">"Configurações de séries"</string>
+<string name="dvr_series_schedules_start">"Iniciar gravação de série"</string>
+<string name="dvr_series_schedules_stop">"Interromper gravação de série"</string>
+<string name="dvr_series_schedules_stop_dialog_title">"Interromper gravação de série?"</string>
+<string name="dvr_series_schedules_stop_dialog_description">"Episódios gravados ficarão disponíveis na biblioteca DVR."</string>
+<string name="dvr_series_schedules_stop_dialog_action_stop">"Parar"</string>
+<string name="dvr_series_schedules_stopped_empty_state">"Não há nenhum episódio no ar agora."</string>
+<string name="dvr_series_schedules_empty_state">"Não há nenhum episódio disponível.\nEles serão gravados quando estiverem disponíveis."</string>
+<plurals name="dvr_schedules_recording_duration">
+<item quantity="one">"(%1$d minuto) "</item>
+<item quantity="other">"(%1$d minutos)"</item>
+</plurals>
+<string name="dvr_date_today">"Hoje"</string>
+<string name="dvr_date_tomorrow">"Amanhã"</string>
+<string name="dvr_date_yesterday">"Ontem"</string>
+<string name="dvr_date_today_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> hoje"</string>
+<string name="dvr_date_tomorrow_time">"<xliff:g id="time_range" example="10:00 am - 11:00 am">%1$s</xliff:g> amanhã"</string>
+<string name="program_guide_critic_score">"Pontuação"</string>
+<string name="recorded_programs_preview_channel">"Programas gravados"</string>
+</resources>

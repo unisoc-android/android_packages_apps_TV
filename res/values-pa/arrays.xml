@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="display_mode_labels">
+<item>ਸਧਾਰਨ</item>
+<item>ਪੂਰਨ</item>
+<item>ਵੱਡਾ ਕਰੋ</item>
+</string-array>
+<string-array name="genre_labels">
+<item>"ਸਾਰੇ ਚੈਨਲ"</item>
+<item>"ਪਰਿਵਾਰ/ਬੱਚੇ"</item>
+<item>"ਖੇਡਾਂ"</item>
+<item>"ਖਰੀਦਦਾਰੀ"</item>
+<item>ਮੂਵੀਜ਼</item>
+<item>"ਕੌਮੇਡੀ"</item>
+<item>ਯਾਤਰਾ</item>
+<item>"ਡ੍ਰਾਮਾ"</item>
+<item>"ਸਿੱਖਿਆ"</item>
+<item>"ਜਾਨਵਰ/ਜੰਗਲੀ ਜੀਵਨ"</item>
+<item>"ਖਬਰਾਂ"</item>
+<item>"ਗੇਮਿੰਗ"</item>
+<item>"ਕਲਾ"</item>
+<item>"ਮਨੋਰੰਜਨ"</item>
+<item>"ਜੀਵਨਸ਼ੈਲੀ"</item>
+<item>ਸੰਗੀਤ</item>
+<item>"ਪ੍ਰੀਮੀਅਰ"</item>
+<item>"ਤਕਨੀਕੀ/ਵਿਗਿਆਨ"</item>
+</string-array>
+<string-array name="welcome_page_titles">
+<item>"<xliff:g id="app_name">ਲਾਈਵ ਟੀਵੀ</xliff:g>"</item>
+<item>"ਸਮੱਗਰੀ ਖੋਜਣ ਦਾ ਇੱਕ ਆਸਾਨ ਤਰੀਕਾ"</item>
+<item>"ਐਪਾਂ ਡਾਊਨਲੋਡ ਕਰੋ, ਵੱਧ ਚੈਨਲ ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+<item>"ਆਪਣੀ ਚੈਨਲ ਕਤਾਰ ਅਨੁਕੂਲਿਤ ਕਰੋ"</item>
+</string-array>
+</resources>
